@@ -2,3 +2,6 @@ baseurl = "https://large-government-of-canada-it-projects.github.io/"
 languageCode = "en-us"
 title = "Large Government of Canada IT projects"
 
+[params]
+  author = "Ottawa Civic Tech"
+  description = "A list of Government of Canada IT projects over $1 million, as of May 1, 2019. Sortable by department, by total cost, and estimated completion date."

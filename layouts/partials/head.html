@@ -5,17 +5,14 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-	<meta name="description" content="{{ with .Description }}
-		{{ . }}
-		{{ else }}
-		{{if .IsPage}}{{ .Summary }}    
-		{{ else }}{{ with .Site.Params.description }}
-		{{ . }}
-		{{ end }}{{ end }}{{ end }}"> 
+	<meta name="description" content="{{ .Site.Params.description}}"> 
     
-	<meta name="author" content=" {{ .Site.Params.author_name | default .Site.Author }} ">  
+	<meta name="author" content="{{ .Site.Params.author | default .Site.Author }}">  
     <base href="{{ .Site.BaseURL }}">
     <title>{{ if .Title }}{{ .Title }}{{ else }}{{ .Site.Title }}{{ end }}</title>
+
+{{ template "_internal/opengraph.html" . }}
+{{ template "_internal/twitter_cards.html" . }}
 
     <!-- Bootstrap Core CSS -->
     <link rel="stylesheet" type="text/css" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
