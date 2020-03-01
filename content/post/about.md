@@ -18,7 +18,7 @@ This data was collected in response to a written question in the House of Common
 
 Government of Canada departments and agencies were required to provide a list of all existing or planned government IT projects over $1 million, as of May 1, 2019.
 
-These responses were collected in sessional paper [8555-421-2460](/pdf/8555-421-2460.pdf). Sessional papers are public information; they can be requested by [emailing the Library of Parliament](mailto:info@parl.gc.ca).
+These responses were collected in sessional paper [8555-421-2460](https://large-government-of-canada-it-projects.github.io/pdf/8555-421-2460.pdf). Sessional papers are public information; they can be requested by [emailing the Library of Parliament](mailto:info@parl.gc.ca).
 
 For each project, the data includes:
 

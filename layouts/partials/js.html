@@ -27,6 +27,12 @@
     $('#2019-data-table').DataTable( {
         "order": [[ 2, "desc" ]],
 				"lengthMenu": [[20, 50, 100, -1], [20, 50, 100, "All"]]
-    } );
+		} );
+		
+		// Add target=_blank to external links
+		// Thanks to http://css-tricks.com/snippets/jquery/open-external-links-in-new-window/
+		$("#main a[href^='http://']").attr("target","_blank");
+		$("#main a[href^='https://']").attr("target","_blank");
+		
 } );
 </script>
