@@ -44,6 +44,6 @@ For more background on software procurement reform, see the [18F software budget
 
 You might be interested in:
 
-*   [Additional sessional papers on government IT topics](https://github.com/lchski/free-the-data/tree/master/lop/sessional-papers)
+*   [Additional sessional papers on government IT topics](https://github.com/lchski/free-the-data/tree/master/lop/sessional-papers), including [2016 data on IT projects over $1M](https://github.com/lchski/free-the-data/blob/master/lop/sessional-papers/8555-421-266.pdf)
 *   [Analyzing Government of Canada-wide contract spending](https://goc-spending.github.io/analysis/)
 
