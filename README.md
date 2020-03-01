@@ -19,7 +19,27 @@ You might be interested in:
 
 ## Usage instructions
 
-_To be added._
+Development of this website requires [Hugo](https://gohugo.io/getting-started/installing), [npm](https://nodejs.org/en/download/), and [php](https://www.php.net/manual/en/install.php).
+
+After cloning the repository, run:
+
+```npm install```
+
+to install the [gh-pages](https://github.com/tschaub/gh-pages) package used for deployments.
+
+For local development, use Hugo's built-in server:
+
+```hugo server -D --disableFastRender```
+
+To deploy updates to GitHub pages, use:
+
+```npm run deploy```
+
+The [generated data table HTML](https://github.com/YOWCT/large-government-of-canada-it-projects/blob/master/layouts/shortcodes/tabledata.html) is produced by a [small PHP script](https://github.com/YOWCT/large-government-of-canada-it-projects/blob/master/_handling/update.php). If the CSV file is modified, you can update the data table HTML with:
+
+```php _handling/update.php```
+
+After updating the data table HTML (or other content), use the deploy command above to update the live website. You can change the destination GitHub project by editing `[package.json](https://github.com/YOWCT/large-government-of-canada-it-projects/blob/master/package.json)`.
 
 ## An [Ottawa Civic Tech](https://ottawacivictech.ca/) project
 
