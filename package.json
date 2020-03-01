@@ -1,0 +1,17 @@
+{
+  "name": "large-government-of-canada-it-projects",
+  "version": "1.0.0",
+  "description": "A dataset listing Government of Canada IT projects over $1M",
+  "repository": "YOWCT/large-government-of-canada-it-projects",
+  "main": "index.js",
+  "scripts": {
+    "build": "npm run build:hugo",
+    "build:hugo": "hugo -D -v",
+    "deploy": "npm run build && gh-pages -d public -r git@github.com:large-government-of-canada-it-projects/large-government-of-canada-it-projects.github.io.git -b master"
+  },
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "gh-pages": "^2.2.0"
+  }
+}
