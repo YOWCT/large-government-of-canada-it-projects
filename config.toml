@@ -1,6 +1,7 @@
 baseurl = "https://large-government-of-canada-it-projects.github.io/"
 languageCode = "en-us"
 title = "Large Government of Canada IT projects"
+googleAnalytics = "UA-159391141-1"
 
 [params]
   author = "Ottawa Civic Tech"
