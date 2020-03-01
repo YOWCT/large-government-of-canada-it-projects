@@ -1,6 +1,6 @@
 # Large Government of Canada IT projects
 
-This repository powers a website displaying Government of Canada IT projects over $1 million.
+This repository powers [a website displaying Government of Canada IT projects over $1 million](https://large-government-of-canada-it-projects.github.io/).
 
 It uses [Hugo](https://gohugo.io) and was built with templates adapted from the [OneDly Project Theme](https://github.com/cdeck3r/OneDly-Theme).
 
