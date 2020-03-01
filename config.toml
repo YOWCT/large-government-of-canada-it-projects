@@ -1,7 +1,7 @@
 baseurl = "https://example.com/"
 languageCode = "en-us"
-title = "OneDly Project"
-theme = "onedly"
+title = "Large Government of Canada IT projects"
+
 
 #
 # Personalization params
@@ -9,9 +9,9 @@ theme = "onedly"
 [params]
     # project specific params
     description = "One-Day-Only (OneDly) project documentation."
-    author_url = "//cdeck3r.com"
-    author_name = "cdeck3r"
-    project_url = "//github.com/cdeck3r/OneDly-Theme"
+    author_url = ""
+    author_name = ""
+    project_url = ""
 
     # optionally specify where the content is
     # mainSections = ["post"] 
@@ -48,7 +48,7 @@ theme = "onedly"
 #
 [social]
     # Coding Communities
-    github           = "cdeck3r/OneDly-Theme"
+    github           = ""
     gitlab           = ""
     stackoverflow    = "" # User Number
     bitbucket        = ""
@@ -73,7 +73,7 @@ theme = "onedly"
     googleplus       = ""
     reddit           = ""
     quora            = ""
-    youtube          = "channel/UCZ5wNVV_E6AA3L3C-mvqwSA"
+    youtube          = ""
     vimeo            = ""
     whatsapp         = "" # WhatsApp Number
     # WeChat and QQ need testing.
@@ -81,7 +81,7 @@ theme = "onedly"
     qq             = "" # User ID Number
     instagram        = ""
     tumblr           = ""
-    twitter          = "cdeck3r"
+    twitter          = ""
     skype            = ""
     snapchat         = ""
     pinterest        = ""
@@ -91,7 +91,7 @@ theme = "onedly"
     orcid            = ""
     researchgate     = ""
     # Email
-    email = "info@cdeck3r.com"
+    email = ""
 
 #
 # Adjust privacy settings
