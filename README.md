@@ -19,6 +19,8 @@ You might be interested in:
 
 ## Usage instructions
 
+### Installing
+
 Development of this website requires [Hugo](https://gohugo.io/getting-started/installing), [npm](https://nodejs.org/en/download/), and [php](https://www.php.net/manual/en/install.php).
 
 After cloning the repository, run:
@@ -28,6 +30,8 @@ npm install
 ```
 
 to install the [gh-pages](https://github.com/tschaub/gh-pages) package used for deployments.
+
+### Local development
 
 For local development, use Hugo's built-in server:
 
@@ -47,7 +51,7 @@ The [generated data table HTML](https://github.com/YOWCT/large-government-of-can
 php _handling/update.php
 ```
 
-After updating the data table HTML (or other content), use the deploy command above to update the live website. You can change the destination GitHub project by editing `[package.json](https://github.com/YOWCT/large-government-of-canada-it-projects/blob/master/package.json)`.
+After updating the data table HTML (or other content), use the deploy command above to update the live website. You can change the destination GitHub project by editing [`package.json`](https://github.com/YOWCT/large-government-of-canada-it-projects/blob/master/package.json).
 
 ## An [Ottawa Civic Tech](https://ottawacivictech.ca/) project
 
