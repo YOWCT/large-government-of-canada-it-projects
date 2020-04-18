@@ -3,7 +3,7 @@ title: "About pt. 2"
 date: 2020-04-18T12:55:28-07:00
 draft: false
 hideTitle: true
-sec: 2
+sec: 3
 ---
 
 ## Are large IT projects likely to be successful?
