@@ -1,0 +1,37 @@
+---
+title: "About pt. 2"
+date: 2020-04-18T12:55:28-07:00
+draft: false
+hideTitle: true
+sec: 2
+---
+
+## Are large IT projects likely to be successful?
+
+Of the 98 projects that appear in both datasets, X% are behind schedule, Y% are on schedule, and Z% are ahead of schedule based on the estimated completion dates provided.
+
+Of the 2016 projects that were over $100M, [to be determined], and of the 2016 projects over $10M, [to be determined].
+
+Research from the Standish Group indicates that IT projects larger than $10M have [a consistently high rate of failure](https://18f.gsa.gov/2019/04/09/why-we-love-modular-contracting/). Software procurement [experts in the United States government](https://18f.gsa.gov/tags/modular-contracting/) suggest that, in order to be successful, IT projects should be delivered in less than six months and have budgets smaller than $2M. 
+
+For more background on software procurement reform, see the [18F software budgeting handbook](https://github.com/18F/technology-budgeting/blob/master/handbook.md) or the following video of [procurement advice from Waldo Jaquith](https://www.youtube.com/watch?v=g-h6CtSwk30). 
+
+
+## Learn more
+
+You can download the [combined data], the [2016 data], and the [2019 data] in CSV format.
+
+Community visualizations of this data:
+
+
+
+*   [to add]
+
+If you’ve created a visualization of this data, [let us know] and we’ll add it to the list! 
+
+You might be interested in:
+
+
+
+*   [Additional sessional papers on government IT topics](https://github.com/lchski/free-the-data/tree/master/lop/sessional-papers)
+*   [Analyzing Government of Canada-wide contract spending](https://goc-spending.github.io/analysis/)
