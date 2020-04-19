@@ -8,9 +8,15 @@ sec: 3
 
 ## Are large IT projects likely to be successful?
 
-Of the 98 projects that appear in both datasets, X% are behind schedule, Y% are on schedule, and Z% are ahead of schedule based on the estimated completion dates provided.
+Of the 98 projects that appear in both datasets, **84%** are behind schedule, **8%** are on schedule, and **4%** are ahead of schedule based on the estimated completion dates provided. The remaining 4% did not have estimated completion dates listed for either year.
 
-Of the 2016 projects that were over $100M, [to be determined], and of the 2016 projects over $10M, [to be determined].
+Among projects from 2016, the following proportion were either completed, on schedule, or ahead of schedule:
+
+*   **70%** of projects smaller than $10M
+*   **48%** of projects between $10M and $100M
+*   **35%** of projects over $100M
+
+Of the 2016 projects that were over $100M, **65%** were either behind schedule or not listed in the 2019 data despite an estimated completion date later in the future.
 
 Research from the Standish Group indicates that IT projects larger than $10M have [a consistently high rate of failure](https://18f.gsa.gov/2019/04/09/why-we-love-modular-contracting/). Software procurement [experts in the United States government](https://18f.gsa.gov/tags/modular-contracting/) suggest that, in order to be successful, IT projects should be delivered in less than six months and have budgets smaller than $2M. 
 
