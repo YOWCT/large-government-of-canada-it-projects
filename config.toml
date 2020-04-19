@@ -6,3 +6,13 @@ googleAnalytics = "UA-159391141-1"
 [params]
   author = "Ottawa Civic Tech"
   description = "A list of Government of Canada IT projects over $1 million, as of May 1, 2019. Sortable by department, by total cost, and estimated completion date."
+
+# Thanks to
+# https://discourse.gohugo.io/t/lodash-template-tags-are-escaped-since-hugo-0-19/6299/4
+[mediaTypes."text/template"]
+  suffixes = ["ejs"]
+
+[outputFormats.EJS]
+  mediaType = "text/template"
+  isHTML = true
+  isPlainText = true

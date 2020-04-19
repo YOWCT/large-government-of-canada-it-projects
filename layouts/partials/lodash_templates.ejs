@@ -1,0 +1,22 @@
+<script type="text/template" id="modalContentsTemplate">
+
+<!-- projectName	projectDescription2016	projectDescription2019	totalBudget2016	estimatedCompletionDate2016	totalBudget2019	estimatedCompletionDate2019	mostRecentBudget	peakBudget	hasComparisonBudgets	hasComparisonDates	budgetDelta	budgetDeltaPercentage	datesDeltaYear	estimatedStatus
+ -->
+
+  <h4><%- projectName %></h4>
+
+  <dl class="dl-horizontal">
+    <% if(_.isEmpty(projectDescription2016) === false) { %>
+      <dt>2016 Project Description</dt>
+      <dd><%- projectDescription2016 %></dd>
+    <% } %>
+    <% if(_.isEmpty(projectDescription2019) === false) { %>
+      <dt>2019 Project Description</dt>
+      <dd><%- projectDescription2019 %></dd>
+    <% } %>
+  </dl>
+
+  <h5>Description</h5>
+  <pre><%- projectDescription2016 %></pre>
+
+</script>

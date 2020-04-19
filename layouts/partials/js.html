@@ -1,10 +1,60 @@
+<!-- Lodash templates -->
+{{ (partial "lodash_templates.ejs" .) | safeHTML }}
+
 <script type="text/javascript" language="javascript" src="https://code.jquery.com/jquery-3.3.1.js"></script>
 <script type="text/javascript" language="javascript" src="https://cdn.datatables.net/1.10.20/js/jquery.dataTables.min.js"></script>
 <script type="text/javascript" language="javascript" src="https://cdn.datatables.net/1.10.20/js/dataTables.bootstrap.min.js"></script>
+<script type="text/javascript" language="javascript" src="https://cdn.jsdelivr.net/npm/lodash@4.17.15/lodash.min.js"></script>
 
 
 <!-- Bootstrap Core JavaScript -->
 <script src="js/bootstrap.min.js"></script>
+
+<script>
+
+var app = app || {};
+
+$(function() {
+	app.modalContentsTemplate = _.template(
+		$("#modalContentsTemplate").html()
+	);
+
+	app.hashChanged = function(anchor) {
+		var targetId;
+		var elem;
+		console.log(anchor);
+		if(anchor.startsWith("#uid=") === true) {
+			targetId = anchor.substring(5);
+			elem = $('#' + targetId);
+			if(elem.length) {
+				console.log($(elem));
+			}
+			else {
+				console.log('target ' + targetId + ' not found');
+			}
+		}
+	}
+
+	// Thanks to
+	// https://stackoverflow.com/a/2162174
+	if ("onhashchange" in window) { // event supported?
+    window.onhashchange = function () {
+			app.hashChanged(window.location.hash);
+    }
+	}
+	else { // event not supported:
+			var storedHash = window.location.hash;
+			window.setInterval(function () {
+					if (window.location.hash != storedHash) {
+							storedHash = window.location.hash;
+							app.hashChanged(storedHash);
+					}
+			}, 100);
+	}
+
+});
+
+</script>
 
 {{ template "_internal/google_analytics_async.html" . }}
 
