@@ -139,7 +139,7 @@ foreach($toProcess as $key => $params) {
         $htmlOutput .= '
         <tr id="' . $item['uniqueId'] . '" data-row-json="' . htmlentities(json_encode($item)) . '">
           <td data-search="' . $item['deptAcronym'] . ' ' . strtolower($item['department']) . '">' . $item['department'] . '</td>
-          <td>' . $item['projectName'] . '</td>
+          <td><a href="#uid=' . $item['uniqueId'] . '">' . $item['projectName'] . '</a></td>
           <td class="pdt-date" data-order="' . parseTotalBudget($item['totalBudget2016']) . '">' . displayTotalBudget($item['totalBudget2016']) . '</td>
           <td class="pdt-date" data-order="' . parseTotalBudget($item['totalBudget2019']) . '">' . displayTotalBudget($item['totalBudget2019']) . '</td>
           <td class="pdt-date" data-order="' . parseTotalBudget($item['budgetDelta']) . '">' . displayTotalBudget($item['budgetDelta']) . '</td>

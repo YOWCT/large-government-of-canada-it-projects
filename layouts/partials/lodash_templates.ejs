@@ -3,58 +3,86 @@
 <!-- projectName	projectDescription2016	projectDescription2019	totalBudget2016	estimatedCompletionDate2016	totalBudget2019	estimatedCompletionDate2019	mostRecentBudget	peakBudget	hasComparisonBudgets	hasComparisonDates	budgetDelta	budgetDeltaPercentage	datesDeltaYear	estimatedStatus
  -->
 
-  <dl>
+<table class="table table-striped">
+  <tbody>
+
     <% if(_.isEmpty(projectName) === false) { %>
-      <dt>Project Name</dt>
-      <dd><%- projectName %></dd>
+      <tr>
+        <th style="min-width: 12rem">Project Name</th>
+        <td><%- projectName %></td>
+      </tr>
+    <% } %>
+    <% if(_.isEmpty(department) === false) { %>
+      <tr>
+        <th>Department</th>
+        <td><%- department %></td>
+      </tr>
     <% } %>
     <% if(_.isEmpty(projectDescription2016) === false) { %>
-      <dt>2016 Project Description</dt>
-      <dd><%- projectDescription2016 %></dd>
+      <tr>
+        <th>2016 Project Description</th>
+        <td><%- projectDescription2016 %></td>
+      </tr>
     <% } %>
     <% if(_.isEmpty(projectDescription2019) === false) { %>
-      <dt>2019 Project Description</dt>
-      <dd><%- projectDescription2019 %></dd>
+      <tr>
+        <th>2019 Project Description</th>
+        <td><%- projectDescription2019 %></td>
+      </tr>
     <% } %>
-  </dl>
-  <dl class="dl-horizontal">
     <% if(_.isEmpty(totalBudget2016) === false) { %>
-      <dt>2016 Budget</dt>
-      <dd><%- totalBudget2016 %></dd>
+      <tr>
+        <th>2016 Budget</th>
+        <td><%- totalBudget2016 %></td>
+      </tr>
     <% } %>
     <% if(_.isEmpty(totalBudget2019) === false) { %>
-      <dt>2019 Budget</dt>
-      <dd><%- totalBudget2019 %></dd>
-    <% } %>
-    <% if(_.isEmpty(peakBudget) === false) { %>
-      <dt>Peak Budget</dt>
-      <dd><%- peakBudget %></dd>
+      <tr>
+        <th>2019 Budget</th>
+        <td><%- totalBudget2019 %></td>
+      </tr>
     <% } %>
     <% if(_.isEmpty(budgetDelta) === false) { %>
-      <dt>Change in Budget</dt>
-      <dd><%- budgetDelta %></dd>
+      <tr>
+        <th>Change in Budget</th>
+        <td><%- budgetDelta %></td>
+      </tr>
     <% } %>
     <% if(_.isEmpty(budgetDeltaPercentage) === false) { %>
-      <dt>% Change in Budget</dt>
-      <dd><%- budgetDeltaPercentage %></dd>
+      <tr>
+        <th>% Change in Budget</th>
+        <td><%- budgetDeltaPercentage %></td>
+      </tr>
     <% } %>
     <% if(_.isEmpty(estimatedCompletionDate2016) === false) { %>
-      <dt>2016 Estimated Completion Date</dt>
-      <dd><%- estimatedCompletionDate2016 %></dd>
+      <tr>
+        <th>2016 Estimated Completion Date</th>
+        <td><%- estimatedCompletionDate2016 %></td>
+      </tr>
     <% } %>
     <% if(_.isEmpty(estimatedCompletionDate2019) === false) { %>
-      <dt>2019 Estimated Completion Date</dt>
-      <dd><%- estimatedCompletionDate2019 %></dd>
+      <tr>
+        <th>2019 Estimated Completion Date</th>
+        <td><%- estimatedCompletionDate2019 %></td>
+      </tr>
     <% } %>
     <% if(_.isEmpty(datesDeltaYear) === false) { %>
-      <dt>Change in completion date (years)</dt>
-      <dd><%- datesDeltaYear %></dd>
+      <tr>
+        <th>Change in completion date (years)</th>
+        <td><%- datesDeltaYear %></td>
+      </tr>
     <% } %>
     <% if(_.isEmpty(estimatedStatus) === false) { %>
-      <dt>Estimated status</dt>
-      <dd><%- estimatedStatus %></dd>
+      <tr>
+        <th>Estimated status</th>
+        <td><%- estimatedStatus %></td>
+      </tr>
     <% } %>
-  </dl>
+
+  </tbody>
+</table>
+
+  
 
 
 </script>

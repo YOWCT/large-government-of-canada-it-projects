@@ -64,8 +64,7 @@ $(function() {
 				return true;
 			}
 		}
-		console.log('Hide modal here');
-		$('#modal-details').modal('hide')
+		console.log('No item selected');
 
 	}
 
@@ -86,6 +85,12 @@ $(function() {
 			}, 100);
 	}
 
+	// Modal "hide" event should clear any existing anchor
+	$('#modal-details').on('hidden.bs.modal', function (e) {
+		// Reset anchor
+		window.location.hash = "uid=";
+	});
+
 });
 
 </script>
@@ -94,10 +99,25 @@ $(function() {
 
 <script>
 	$(document).ready(function() {
+
+		// Initialize the data table
+		var orderColumnIndex = _.toInteger($('#2019-data-table').data('orderColumn'));
     $('#2019-data-table').DataTable( {
-        "order": [[ 2, "desc" ]],
+        "order": [[ orderColumnIndex, "desc" ]],
 				"lengthMenu": [[20, 50, 100, -1], [20, 50, 100, "All"]]
 		} );
+
+		// Scroll to top of table on change
+		// Thanks to
+		// https://stackoverflow.com/a/35899744
+		$('#2019-data-table').on( 'page.dt', function () {
+			$('html, body').animate({
+				scrollTop: $('#2019-data-table').offset().top
+			}, 200);        
+		});
+
+		// Check for any anchor onload
+		app.hashChanged(window.location.hash);
 		
 		// Add target=_blank to external links
 		// Thanks to http://css-tricks.com/snippets/jquery/open-external-links-in-new-window/
