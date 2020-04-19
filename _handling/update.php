@@ -4,12 +4,14 @@ $toProcess = [
   'combined' => [
     'inputFile' => "static/csv/gc-it-projects-combined.csv",
     'outputFile' => "layouts/shortcodes/tabledata_combined.html",
+    'outputJson' => "static/js/generated/tabledata_combined.js",
     'isCombined' => true,
     'originDate' => "",
   ],
   '2019' => [
     'inputFile' => "static/csv/2019-gc-it-projects.csv",
     'outputFile' => "layouts/shortcodes/tabledata_2019.html",
+    'outputJson' => "static/js/generated/tabledata_2019.js",
     'isCombined' => false,
     'originDate' => "May 1, 2019",
   ],
@@ -166,7 +168,30 @@ foreach($toProcess as $key => $params) {
   }
   
   file_put_contents($pathToOutputFile, $htmlOutput);
-  
+
   echo "Updated table HTML file - $pathToOutputFile\n";
+
+  
+
+  if(isset($params['outputJson'])) {
+
+    $jsonFileHeader = "// JSON data
+// This file is generated automatically
+
+var app = app || {};
+app.data = app.data || {};
+
+
+app.data = ";
+
+    $indexedArray = [];
+    foreach($array as $item) {
+      $indexedArray[$item['uniqueId']] = $item;
+    }
+
+
+    file_put_contents($params['outputJson'], $jsonFileHeader . json_encode($indexedArray, JSON_PRETTY_PRINT) . ";\n");
+    echo "Updated table JSON file - " . $params['outputJson'] . "\n";
+  }
 
 }
