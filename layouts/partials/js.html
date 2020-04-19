@@ -1,3 +1,20 @@
+<!-- Details modal -->
+<div class="modal fade" tabindex="-1" role="dialog" id="modal-details">
+  <div class="modal-dialog modal-lg" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+        <h4 class="modal-title">Project Details</h4>
+      </div>
+      <div class="modal-body" id="modal-details-body">
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+      </div>
+    </div><!-- /.modal-content -->
+  </div><!-- /.modal-dialog -->
+</div><!-- /.modal -->
+
 <!-- Lodash templates -->
 {{ (partial "lodash_templates.ejs" .) | safeHTML }}
 
@@ -10,6 +27,18 @@
 <!-- Bootstrap Core JavaScript -->
 <script src="js/bootstrap.min.js"></script>
 
+<!-- Page-specific data to load -->
+{{ if not (.Params.url) -}}
+<script src="js/generated/tabledata_combined.js"></script>
+{{- end }}
+{{ if eq (.Params.url) ("2016") -}}
+<script src="js/generated/tabledata_2016.js"></script>
+{{- end }}
+{{ if eq (.Params.url) ("2019") -}}
+<script src="js/generated/tabledata_2019.js"></script>
+{{- end }}
+
+
 <script>
 
 var app = app || {};
@@ -21,18 +50,23 @@ $(function() {
 
 	app.hashChanged = function(anchor) {
 		var targetId;
-		var elem;
+		var item;
 		console.log(anchor);
 		if(anchor.startsWith("#uid=") === true) {
 			targetId = anchor.substring(5);
-			elem = $('#' + targetId);
-			if(elem.length) {
-				console.log($(elem));
-			}
-			else {
-				console.log('target ' + targetId + ' not found');
+			item = _.get(app.data,targetId);
+			console.log("targetId = " + targetId);
+
+			if(_.isObject(item)) {
+				// console.log(app.modalContentsTemplate(item));
+				$('#modal-details-body').html(app.modalContentsTemplate(item));
+				$('#modal-details').modal('show')
+				return true;
 			}
 		}
+		console.log('Hide modal here');
+		$('#modal-details').modal('hide')
+
 	}
 
 	// Thanks to

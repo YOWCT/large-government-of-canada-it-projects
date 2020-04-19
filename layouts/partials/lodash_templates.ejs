@@ -3,9 +3,11 @@
 <!-- projectName	projectDescription2016	projectDescription2019	totalBudget2016	estimatedCompletionDate2016	totalBudget2019	estimatedCompletionDate2019	mostRecentBudget	peakBudget	hasComparisonBudgets	hasComparisonDates	budgetDelta	budgetDeltaPercentage	datesDeltaYear	estimatedStatus
  -->
 
-  <h4><%- projectName %></h4>
-
-  <dl class="dl-horizontal">
+  <dl>
+    <% if(_.isEmpty(projectName) === false) { %>
+      <dt>Project Name</dt>
+      <dd><%- projectName %></dd>
+    <% } %>
     <% if(_.isEmpty(projectDescription2016) === false) { %>
       <dt>2016 Project Description</dt>
       <dd><%- projectDescription2016 %></dd>
@@ -15,8 +17,44 @@
       <dd><%- projectDescription2019 %></dd>
     <% } %>
   </dl>
+  <dl class="dl-horizontal">
+    <% if(_.isEmpty(totalBudget2016) === false) { %>
+      <dt>2016 Budget</dt>
+      <dd><%- totalBudget2016 %></dd>
+    <% } %>
+    <% if(_.isEmpty(totalBudget2019) === false) { %>
+      <dt>2019 Budget</dt>
+      <dd><%- totalBudget2019 %></dd>
+    <% } %>
+    <% if(_.isEmpty(peakBudget) === false) { %>
+      <dt>Peak Budget</dt>
+      <dd><%- peakBudget %></dd>
+    <% } %>
+    <% if(_.isEmpty(budgetDelta) === false) { %>
+      <dt>Change in Budget</dt>
+      <dd><%- budgetDelta %></dd>
+    <% } %>
+    <% if(_.isEmpty(budgetDeltaPercentage) === false) { %>
+      <dt>% Change in Budget</dt>
+      <dd><%- budgetDeltaPercentage %></dd>
+    <% } %>
+    <% if(_.isEmpty(estimatedCompletionDate2016) === false) { %>
+      <dt>2016 Estimated Completion Date</dt>
+      <dd><%- estimatedCompletionDate2016 %></dd>
+    <% } %>
+    <% if(_.isEmpty(estimatedCompletionDate2019) === false) { %>
+      <dt>2019 Estimated Completion Date</dt>
+      <dd><%- estimatedCompletionDate2019 %></dd>
+    <% } %>
+    <% if(_.isEmpty(datesDeltaYear) === false) { %>
+      <dt>Change in completion date (years)</dt>
+      <dd><%- datesDeltaYear %></dd>
+    <% } %>
+    <% if(_.isEmpty(estimatedStatus) === false) { %>
+      <dt>Estimated status</dt>
+      <dd><%- estimatedStatus %></dd>
+    <% } %>
+  </dl>
 
-  <h5>Description</h5>
-  <pre><%- projectDescription2016 %></pre>
 
 </script>
