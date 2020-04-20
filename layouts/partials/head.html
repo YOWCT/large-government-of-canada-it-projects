@@ -9,7 +9,7 @@
     
 	<meta name="author" content="{{ .Site.Params.author | default .Site.Author }}">  
     <base href="{{ .Site.BaseURL }}">
-    <title>{{ if .Title }}{{ .Title }}{{ else }}{{ .Site.Title }}{{ end }}</title>
+    <title>{{ if .Title }}{{ .Title }} – {{ .Site.Title }}{{ else }}{{ .Site.Title }}{{ end }}</title>
 
 {{ template "_internal/opengraph.html" . }}
 {{ template "_internal/twitter_cards.html" . }}
