@@ -24,7 +24,13 @@ app.data = {
         "budgetDelta": "$170,786,581",
         "budgetDeltaPercentage": "85.61%",
         "datesDeltaYear": "2.83",
-        "estimatedStatus": "behind schedule"
+        "estimatedStatus": "behind schedule",
+        "has2016data": "1",
+        "has2019data": "1",
+        "isOver10m2016": "1",
+        "isOver100m2016": "0",
+        "isOver10m2019": "1",
+        "isOver100m2019": "1"
     },
     "pspc-eps": {
         "uniqueId": "pspc-eps",
@@ -44,7 +50,13 @@ app.data = {
         "budgetDelta": "$168,574,730",
         "budgetDeltaPercentage": "78.60%",
         "datesDeltaYear": "4.25",
-        "estimatedStatus": "behind schedule"
+        "estimatedStatus": "behind schedule",
+        "has2016data": "1",
+        "has2019data": "1",
+        "isOver10m2016": "1",
+        "isOver100m2016": "0",
+        "isOver10m2019": "1",
+        "isOver100m2019": "1"
     },
     "ircc-bep": {
         "uniqueId": "ircc-bep",
@@ -64,7 +76,13 @@ app.data = {
         "budgetDelta": "$151,228,280",
         "budgetDeltaPercentage": "91.96%",
         "datesDeltaYear": "1.83",
-        "estimatedStatus": "behind schedule"
+        "estimatedStatus": "behind schedule",
+        "has2016data": "1",
+        "has2019data": "1",
+        "isOver10m2016": "1",
+        "isOver100m2016": "0",
+        "isOver10m2019": "1",
+        "isOver100m2019": "1"
     },
     "csc-omsm": {
         "uniqueId": "csc-omsm",
@@ -84,7 +102,13 @@ app.data = {
         "budgetDelta": "$98,456,140",
         "budgetDeltaPercentage": "90.60%",
         "datesDeltaYear": "8.74",
-        "estimatedStatus": "behind schedule"
+        "estimatedStatus": "behind schedule",
+        "has2016data": "1",
+        "has2019data": "1",
+        "isOver10m2016": "1",
+        "isOver100m2016": "0",
+        "isOver10m2019": "1",
+        "isOver100m2019": "1"
     },
     "ssc-wcs": {
         "uniqueId": "ssc-wcs",
@@ -104,7 +128,13 @@ app.data = {
         "budgetDelta": "$71,216,160",
         "budgetDeltaPercentage": "54.43%",
         "datesDeltaYear": "2.01",
-        "estimatedStatus": "behind schedule"
+        "estimatedStatus": "behind schedule",
+        "has2016data": "1",
+        "has2019data": "1",
+        "isOver10m2016": "1",
+        "isOver100m2016": "0",
+        "isOver10m2019": "1",
+        "isOver100m2019": "1"
     },
     "gac-eics-2": {
         "uniqueId": "gac-eics-2",
@@ -124,7 +154,13 @@ app.data = {
         "budgetDelta": "$55,257,495",
         "budgetDeltaPercentage": "62.21%",
         "datesDeltaYear": "3.17",
-        "estimatedStatus": "behind schedule"
+        "estimatedStatus": "behind schedule",
+        "has2016data": "1",
+        "has2019data": "1",
+        "isOver10m2016": "1",
+        "isOver100m2016": "0",
+        "isOver10m2019": "1",
+        "isOver100m2019": "0"
     },
     "cra-wm": {
         "uniqueId": "cra-wm",
@@ -144,7 +180,13 @@ app.data = {
         "budgetDelta": "$50,580,000",
         "budgetDeltaPercentage": "40.96%",
         "datesDeltaYear": "4.00",
-        "estimatedStatus": "behind schedule"
+        "estimatedStatus": "behind schedule",
+        "has2016data": "1",
+        "has2019data": "1",
+        "isOver10m2016": "1",
+        "isOver100m2016": "0",
+        "isOver10m2019": "1",
+        "isOver100m2019": "1"
     },
     "esdc-oas-sis": {
         "uniqueId": "esdc-oas-sis",
@@ -164,7 +206,13 @@ app.data = {
         "budgetDelta": "$44,231,096",
         "budgetDeltaPercentage": "34.11%",
         "datesDeltaYear": "1.20",
-        "estimatedStatus": "behind schedule"
+        "estimatedStatus": "behind schedule",
+        "has2016data": "1",
+        "has2019data": "1",
+        "isOver10m2016": "1",
+        "isOver100m2016": "0",
+        "isOver10m2019": "1",
+        "isOver100m2019": "1"
     },
     "cra-spr": {
         "uniqueId": "cra-spr",
@@ -184,7 +232,13 @@ app.data = {
         "budgetDelta": "$33,495,000",
         "budgetDeltaPercentage": "76.13%",
         "datesDeltaYear": "3.00",
-        "estimatedStatus": "behind schedule"
+        "estimatedStatus": "behind schedule",
+        "has2016data": "1",
+        "has2019data": "1",
+        "isOver10m2016": "1",
+        "isOver100m2016": "0",
+        "isOver10m2019": "1",
+        "isOver100m2019": "0"
     },
     "rcmp-emcm": {
         "uniqueId": "rcmp-emcm",
@@ -204,7 +258,13 @@ app.data = {
         "budgetDelta": "$30,096,000",
         "budgetDeltaPercentage": "62.70%",
         "datesDeltaYear": "2.00",
-        "estimatedStatus": "behind schedule"
+        "estimatedStatus": "behind schedule",
+        "has2016data": "1",
+        "has2019data": "1",
+        "isOver10m2016": "1",
+        "isOver100m2016": "0",
+        "isOver10m2019": "1",
+        "isOver100m2019": "0"
     },
     "dnd-cse-csmi-2b": {
         "uniqueId": "dnd-cse-csmi-2b",
@@ -224,7 +284,13 @@ app.data = {
         "budgetDelta": "$29,808,855",
         "budgetDeltaPercentage": "48.56%",
         "datesDeltaYear": "0.00",
-        "estimatedStatus": "on schedule"
+        "estimatedStatus": "on schedule",
+        "has2016data": "1",
+        "has2019data": "1",
+        "isOver10m2016": "1",
+        "isOver100m2016": "0",
+        "isOver10m2019": "1",
+        "isOver100m2019": "0"
     },
     "ssc-vc-3": {
         "uniqueId": "ssc-vc-3",
@@ -244,7 +310,13 @@ app.data = {
         "budgetDelta": "$26,509,000",
         "budgetDeltaPercentage": "92.17%",
         "datesDeltaYear": "0.92",
-        "estimatedStatus": "behind schedule"
+        "estimatedStatus": "behind schedule",
+        "has2016data": "1",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "1",
+        "isOver100m2019": "0"
     },
     "ssc-hccs": {
         "uniqueId": "ssc-hccs",
@@ -264,7 +336,13 @@ app.data = {
         "budgetDelta": "$26,459,000",
         "budgetDeltaPercentage": "60.05%",
         "datesDeltaYear": "-3.00",
-        "estimatedStatus": "ahead of schedule"
+        "estimatedStatus": "ahead of schedule",
+        "has2016data": "1",
+        "has2019data": "1",
+        "isOver10m2016": "1",
+        "isOver100m2016": "0",
+        "isOver10m2019": "1",
+        "isOver100m2019": "0"
     },
     "pch-gcmp": {
         "uniqueId": "pch-gcmp",
@@ -284,7 +362,13 @@ app.data = {
         "budgetDelta": "$18,639,733",
         "budgetDeltaPercentage": "86.97%",
         "datesDeltaYear": "2.76",
-        "estimatedStatus": "behind schedule"
+        "estimatedStatus": "behind schedule",
+        "has2016data": "1",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "1",
+        "isOver100m2019": "0"
     },
     "rcmp-gcdocs": {
         "uniqueId": "rcmp-gcdocs",
@@ -304,7 +388,13 @@ app.data = {
         "budgetDelta": "$16,918,000",
         "budgetDeltaPercentage": "52.87%",
         "datesDeltaYear": "1.56",
-        "estimatedStatus": "behind schedule"
+        "estimatedStatus": "behind schedule",
+        "has2016data": "1",
+        "has2019data": "1",
+        "isOver10m2016": "1",
+        "isOver100m2016": "0",
+        "isOver10m2019": "1",
+        "isOver100m2019": "0"
     },
     "cbsa-ee-rfid": {
         "uniqueId": "cbsa-ee-rfid",
@@ -324,7 +414,13 @@ app.data = {
         "budgetDelta": "$12,400,777",
         "budgetDeltaPercentage": "8.62%",
         "datesDeltaYear": "1.59",
-        "estimatedStatus": "behind schedule"
+        "estimatedStatus": "behind schedule",
+        "has2016data": "1",
+        "has2019data": "1",
+        "isOver10m2016": "1",
+        "isOver100m2016": "1",
+        "isOver10m2019": "1",
+        "isOver100m2019": "1"
     },
     "dfo-efmsi": {
         "uniqueId": "dfo-efmsi",
@@ -344,7 +440,13 @@ app.data = {
         "budgetDelta": "$10,822,900",
         "budgetDeltaPercentage": "45.47%",
         "datesDeltaYear": "0.75",
-        "estimatedStatus": "behind schedule"
+        "estimatedStatus": "behind schedule",
+        "has2016data": "1",
+        "has2019data": "1",
+        "isOver10m2016": "1",
+        "isOver100m2016": "0",
+        "isOver10m2019": "1",
+        "isOver100m2019": "0"
     },
     "cbsa-pik": {
         "uniqueId": "cbsa-pik",
@@ -364,7 +466,13 @@ app.data = {
         "budgetDelta": "$10,431,505",
         "budgetDeltaPercentage": "76.70%",
         "datesDeltaYear": "2.76",
-        "estimatedStatus": "behind schedule"
+        "estimatedStatus": "behind schedule",
+        "has2016data": "1",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "1",
+        "isOver100m2019": "0"
     },
     "cra-bsr": {
         "uniqueId": "cra-bsr",
@@ -384,7 +492,13 @@ app.data = {
         "budgetDelta": "$9,781,000",
         "budgetDeltaPercentage": "11.01%",
         "datesDeltaYear": "1.00",
-        "estimatedStatus": "behind schedule"
+        "estimatedStatus": "behind schedule",
+        "has2016data": "1",
+        "has2019data": "1",
+        "isOver10m2016": "1",
+        "isOver100m2016": "0",
+        "isOver10m2019": "1",
+        "isOver100m2019": "0"
     },
     "ssc-edc-borden-1": {
         "uniqueId": "ssc-edc-borden-1",
@@ -404,7 +518,13 @@ app.data = {
         "budgetDelta": "$7,267,816",
         "budgetDeltaPercentage": "22.95%",
         "datesDeltaYear": "1.50",
-        "estimatedStatus": "behind schedule"
+        "estimatedStatus": "behind schedule",
+        "has2016data": "1",
+        "has2019data": "1",
+        "isOver10m2016": "1",
+        "isOver100m2016": "0",
+        "isOver10m2019": "1",
+        "isOver100m2019": "0"
     },
     "hc-csrs": {
         "uniqueId": "hc-csrs",
@@ -424,7 +544,13 @@ app.data = {
         "budgetDelta": "$7,105,730",
         "budgetDeltaPercentage": "60.70%",
         "datesDeltaYear": "2.00",
-        "estimatedStatus": "behind schedule"
+        "estimatedStatus": "behind schedule",
+        "has2016data": "1",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "1",
+        "isOver100m2019": "0"
     },
     "ised-wlm": {
         "uniqueId": "ised-wlm",
@@ -444,7 +570,13 @@ app.data = {
         "budgetDelta": "$7,066,166",
         "budgetDeltaPercentage": "75.01%",
         "datesDeltaYear": "0.00",
-        "estimatedStatus": "on schedule"
+        "estimatedStatus": "on schedule",
+        "has2016data": "1",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "csc-gcdocs": {
         "uniqueId": "csc-gcdocs",
@@ -464,7 +596,13 @@ app.data = {
         "budgetDelta": "$7,035,940",
         "budgetDeltaPercentage": "61.86%",
         "datesDeltaYear": "4.01",
-        "estimatedStatus": "behind schedule"
+        "estimatedStatus": "behind schedule",
+        "has2016data": "1",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "1",
+        "isOver100m2019": "0"
     },
     "hc-csi": {
         "uniqueId": "hc-csi",
@@ -484,7 +622,13 @@ app.data = {
         "budgetDelta": "$6,593,000",
         "budgetDeltaPercentage": "44.27%",
         "datesDeltaYear": "1.00",
-        "estimatedStatus": "behind schedule"
+        "estimatedStatus": "behind schedule",
+        "has2016data": "1",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "1",
+        "isOver100m2019": "0"
     },
     "ised-copi-idit": {
         "uniqueId": "ised-copi-idit",
@@ -504,7 +648,13 @@ app.data = {
         "budgetDelta": "$6,489,082",
         "budgetDeltaPercentage": "76.97%",
         "datesDeltaYear": "1.83",
-        "estimatedStatus": "behind schedule"
+        "estimatedStatus": "behind schedule",
+        "has2016data": "1",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "esdc-ils": {
         "uniqueId": "esdc-ils",
@@ -524,13 +674,19 @@ app.data = {
         "budgetDelta": "$6,226,308",
         "budgetDeltaPercentage": "36.82%",
         "datesDeltaYear": "-1.35",
-        "estimatedStatus": "ahead of schedule"
+        "estimatedStatus": "ahead of schedule",
+        "has2016data": "1",
+        "has2019data": "1",
+        "isOver10m2016": "1",
+        "isOver100m2016": "0",
+        "isOver10m2019": "1",
+        "isOver100m2019": "0"
     },
     "csc-ohis-oscar": {
         "uniqueId": "csc-ohis-oscar",
         "deptAcronym": "csc",
         "department": "Correctional Service Canada",
-        "projectName": "Offender Health Information System - Open Source Clinical Application Resource",
+        "projectName": "Offender Health Information System Open Source Clinical Application Resource",
         "projectDescription2016": "Offender Health lnform_ation System - Open Source Clinical Application Resource (OSCAR) - National implementation of an electronic medical record, which will be available at all CSC institutions, regional headquarters\n and National Headauarters.",
         "projectDescription2019": "Offender Health Information System (OHIS) - Open Source Clinical Application Resource (OSCAR) - Support for testing of system updates, configuration updates and second level end user support.",
         "totalBudget2016": "$1,125,168",
@@ -544,7 +700,13 @@ app.data = {
         "budgetDelta": "$6,191,706",
         "budgetDeltaPercentage": "84.62%",
         "datesDeltaYear": "4.44",
-        "estimatedStatus": "behind schedule"
+        "estimatedStatus": "behind schedule",
+        "has2016data": "1",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "cra-psm": {
         "uniqueId": "cra-psm",
@@ -564,7 +726,13 @@ app.data = {
         "budgetDelta": "$6,104,000",
         "budgetDeltaPercentage": "53.01%",
         "datesDeltaYear": "2.00",
-        "estimatedStatus": "behind schedule"
+        "estimatedStatus": "behind schedule",
+        "has2016data": "1",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "1",
+        "isOver100m2019": "0"
     },
     "rcmp-cencis-3": {
         "uniqueId": "rcmp-cencis-3",
@@ -584,7 +752,13 @@ app.data = {
         "budgetDelta": "$5,999,000",
         "budgetDeltaPercentage": "53.56%",
         "datesDeltaYear": "3.00",
-        "estimatedStatus": "behind schedule"
+        "estimatedStatus": "behind schedule",
+        "has2016data": "1",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "1",
+        "isOver100m2019": "0"
     },
     "tc-wlm": {
         "uniqueId": "tc-wlm",
@@ -604,7 +778,13 @@ app.data = {
         "budgetDelta": "$5,375,659",
         "budgetDeltaPercentage": "58.88%",
         "datesDeltaYear": "1.00",
-        "estimatedStatus": "behind schedule"
+        "estimatedStatus": "behind schedule",
+        "has2016data": "1",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "tc-tdgc": {
         "uniqueId": "tc-tdgc",
@@ -624,7 +804,13 @@ app.data = {
         "budgetDelta": "$5,333,013",
         "budgetDeltaPercentage": "54.07%",
         "datesDeltaYear": "3.25",
-        "estimatedStatus": "behind schedule"
+        "estimatedStatus": "behind schedule",
+        "has2016data": "1",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "cbsa-biometric-expansion": {
         "uniqueId": "cbsa-biometric-expansion",
@@ -644,7 +830,13 @@ app.data = {
         "budgetDelta": "$5,200,000",
         "budgetDeltaPercentage": "7.32%",
         "datesDeltaYear": "0.67",
-        "estimatedStatus": "behind schedule"
+        "estimatedStatus": "behind schedule",
+        "has2016data": "1",
+        "has2019data": "1",
+        "isOver10m2016": "1",
+        "isOver100m2016": "0",
+        "isOver10m2019": "1",
+        "isOver100m2019": "0"
     },
     "justice-scms": {
         "uniqueId": "justice-scms",
@@ -664,7 +856,13 @@ app.data = {
         "budgetDelta": "$4,900,000",
         "budgetDeltaPercentage": "35.25%",
         "datesDeltaYear": "2.08",
-        "estimatedStatus": "behind schedule"
+        "estimatedStatus": "behind schedule",
+        "has2016data": "1",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "1",
+        "isOver100m2019": "0"
     },
     "rcmp-nsorm": {
         "uniqueId": "rcmp-nsorm",
@@ -684,7 +882,13 @@ app.data = {
         "budgetDelta": "$4,810,000",
         "budgetDeltaPercentage": "65.89%",
         "datesDeltaYear": "2.48",
-        "estimatedStatus": "behind schedule"
+        "estimatedStatus": "behind schedule",
+        "has2016data": "1",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "ised-cipo-pit": {
         "uniqueId": "ised-cipo-pit",
@@ -704,7 +908,13 @@ app.data = {
         "budgetDelta": "$3,855,278",
         "budgetDeltaPercentage": "67.31%",
         "datesDeltaYear": "1.83",
-        "estimatedStatus": "behind schedule"
+        "estimatedStatus": "behind schedule",
+        "has2016data": "1",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "pc-maximo": {
         "uniqueId": "pc-maximo",
@@ -724,7 +934,13 @@ app.data = {
         "budgetDelta": "$3,741,456",
         "budgetDeltaPercentage": "55.75%",
         "datesDeltaYear": "0.00",
-        "estimatedStatus": "on schedule"
+        "estimatedStatus": "on schedule",
+        "has2016data": "1",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "esdc-tfwp": {
         "uniqueId": "esdc-tfwp",
@@ -744,7 +960,13 @@ app.data = {
         "budgetDelta": "$3,732,206",
         "budgetDeltaPercentage": "37.12%",
         "datesDeltaYear": "4.04",
-        "estimatedStatus": "behind schedule"
+        "estimatedStatus": "behind schedule",
+        "has2016data": "1",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "1",
+        "isOver100m2019": "0"
     },
     "ssc-itsm": {
         "uniqueId": "ssc-itsm",
@@ -764,7 +986,13 @@ app.data = {
         "budgetDelta": "$3,459,147",
         "budgetDeltaPercentage": "11.39%",
         "datesDeltaYear": "",
-        "estimatedStatus": "new"
+        "estimatedStatus": "new",
+        "has2016data": "1",
+        "has2019data": "1",
+        "isOver10m2016": "1",
+        "isOver100m2016": "0",
+        "isOver10m2019": "1",
+        "isOver100m2019": "0"
     },
     "hc-gcdocs": {
         "uniqueId": "hc-gcdocs",
@@ -784,7 +1012,13 @@ app.data = {
         "budgetDelta": "$3,452,169",
         "budgetDeltaPercentage": "18.61%",
         "datesDeltaYear": "1.00",
-        "estimatedStatus": "behind schedule"
+        "estimatedStatus": "behind schedule",
+        "has2016data": "1",
+        "has2019data": "1",
+        "isOver10m2016": "1",
+        "isOver100m2016": "0",
+        "isOver10m2019": "1",
+        "isOver100m2019": "0"
     },
     "cra-dm": {
         "uniqueId": "cra-dm",
@@ -804,7 +1038,13 @@ app.data = {
         "budgetDelta": "$2,819,000",
         "budgetDeltaPercentage": "32.18%",
         "datesDeltaYear": "3.00",
-        "estimatedStatus": "behind schedule"
+        "estimatedStatus": "behind schedule",
+        "has2016data": "1",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "cra-apmd": {
         "uniqueId": "cra-apmd",
@@ -824,7 +1064,13 @@ app.data = {
         "budgetDelta": "$2,808,000",
         "budgetDeltaPercentage": "38.85%",
         "datesDeltaYear": "4.00",
-        "estimatedStatus": "behind schedule"
+        "estimatedStatus": "behind schedule",
+        "has2016data": "1",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "cra-nrsdi": {
         "uniqueId": "cra-nrsdi",
@@ -844,7 +1090,13 @@ app.data = {
         "budgetDelta": "$2,200,000",
         "budgetDeltaPercentage": "18.98%",
         "datesDeltaYear": "1.00",
-        "estimatedStatus": "behind schedule"
+        "estimatedStatus": "behind schedule",
+        "has2016data": "1",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "1",
+        "isOver100m2019": "0"
     },
     "ised-cipo-itm-search": {
         "uniqueId": "ised-cipo-itm-search",
@@ -864,7 +1116,13 @@ app.data = {
         "budgetDelta": "$1,944,943",
         "budgetDeltaPercentage": "49.23%",
         "datesDeltaYear": "3.17",
-        "estimatedStatus": "behind schedule"
+        "estimatedStatus": "behind schedule",
+        "has2016data": "1",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "cra-bpf": {
         "uniqueId": "cra-bpf",
@@ -884,7 +1142,13 @@ app.data = {
         "budgetDelta": "$1,943,000",
         "budgetDeltaPercentage": "27.99%",
         "datesDeltaYear": "2.00",
-        "estimatedStatus": "behind schedule"
+        "estimatedStatus": "behind schedule",
+        "has2016data": "1",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "dnd-tcds-us": {
         "uniqueId": "dnd-tcds-us",
@@ -904,7 +1168,13 @@ app.data = {
         "budgetDelta": "$1,609,628",
         "budgetDeltaPercentage": "32.26%",
         "datesDeltaYear": "1.00",
-        "estimatedStatus": "behind schedule"
+        "estimatedStatus": "behind schedule",
+        "has2016data": "1",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "tc-enterprise-bi": {
         "uniqueId": "tc-enterprise-bi",
@@ -924,7 +1194,13 @@ app.data = {
         "budgetDelta": "$1,577,451",
         "budgetDeltaPercentage": "21.49%",
         "datesDeltaYear": "4.00",
-        "estimatedStatus": "behind schedule"
+        "estimatedStatus": "behind schedule",
+        "has2016data": "1",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "dnd-cdrsn-pbx": {
         "uniqueId": "dnd-cdrsn-pbx",
@@ -944,7 +1220,13 @@ app.data = {
         "budgetDelta": "$1,337,140",
         "budgetDeltaPercentage": "50.70%",
         "datesDeltaYear": "2.92",
-        "estimatedStatus": "behind schedule"
+        "estimatedStatus": "behind schedule",
+        "has2016data": "1",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "hc-nohis": {
         "uniqueId": "hc-nohis",
@@ -964,7 +1246,13 @@ app.data = {
         "budgetDelta": "$1,283,569",
         "budgetDeltaPercentage": "56.21%",
         "datesDeltaYear": "2.76",
-        "estimatedStatus": "behind schedule"
+        "estimatedStatus": "behind schedule",
+        "has2016data": "1",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "ppsc-lcms": {
         "uniqueId": "ppsc-lcms",
@@ -984,7 +1272,13 @@ app.data = {
         "budgetDelta": "$1,021,000",
         "budgetDeltaPercentage": "21.27%",
         "datesDeltaYear": "2.17",
-        "estimatedStatus": "behind schedule"
+        "estimatedStatus": "behind schedule",
+        "has2016data": "1",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "esdc-pmis": {
         "uniqueId": "esdc-pmis",
@@ -1004,7 +1298,13 @@ app.data = {
         "budgetDelta": "$953,881",
         "budgetDeltaPercentage": "38.19%",
         "datesDeltaYear": "3.81",
-        "estimatedStatus": "behind schedule"
+        "estimatedStatus": "behind schedule",
+        "has2016data": "1",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "ised-cipo-itm-online": {
         "uniqueId": "ised-cipo-itm-online",
@@ -1024,7 +1324,13 @@ app.data = {
         "budgetDelta": "$914,706",
         "budgetDeltaPercentage": "22.03%",
         "datesDeltaYear": "3.50",
-        "estimatedStatus": "behind schedule"
+        "estimatedStatus": "behind schedule",
+        "has2016data": "1",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "cra-ccti": {
         "uniqueId": "cra-ccti",
@@ -1044,7 +1350,13 @@ app.data = {
         "budgetDelta": "$821,000",
         "budgetDeltaPercentage": "6.22%",
         "datesDeltaYear": "0.00",
-        "estimatedStatus": "on schedule"
+        "estimatedStatus": "on schedule",
+        "has2016data": "1",
+        "has2019data": "1",
+        "isOver10m2016": "1",
+        "isOver100m2016": "0",
+        "isOver10m2019": "1",
+        "isOver100m2019": "0"
     },
     "pch-gcdocs": {
         "uniqueId": "pch-gcdocs",
@@ -1064,7 +1376,13 @@ app.data = {
         "budgetDelta": "$630,411",
         "budgetDeltaPercentage": "13.71%",
         "datesDeltaYear": "2.76",
-        "estimatedStatus": "behind schedule"
+        "estimatedStatus": "behind schedule",
+        "has2016data": "1",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "esdc-leaf": {
         "uniqueId": "esdc-leaf",
@@ -1084,7 +1402,13 @@ app.data = {
         "budgetDelta": "$574,788",
         "budgetDeltaPercentage": "10.02%",
         "datesDeltaYear": "3.60",
-        "estimatedStatus": "behind schedule"
+        "estimatedStatus": "behind schedule",
+        "has2016data": "1",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "pc-nirs": {
         "uniqueId": "pc-nirs",
@@ -1104,7 +1428,13 @@ app.data = {
         "budgetDelta": "$463,100",
         "budgetDeltaPercentage": "20.70%",
         "datesDeltaYear": "0.00",
-        "estimatedStatus": "on schedule"
+        "estimatedStatus": "on schedule",
+        "has2016data": "1",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "ised-cipo-e-filing": {
         "uniqueId": "ised-cipo-e-filing",
@@ -1124,7 +1454,13 @@ app.data = {
         "budgetDelta": "$442,138",
         "budgetDeltaPercentage": "22.47%",
         "datesDeltaYear": "3.21",
-        "estimatedStatus": "behind schedule"
+        "estimatedStatus": "behind schedule",
+        "has2016data": "1",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "hc-eam": {
         "uniqueId": "hc-eam",
@@ -1144,7 +1480,13 @@ app.data = {
         "budgetDelta": "$429,040",
         "budgetDeltaPercentage": "8.53%",
         "datesDeltaYear": "3.76",
-        "estimatedStatus": "behind schedule"
+        "estimatedStatus": "behind schedule",
+        "has2016data": "1",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "csc-lms": {
         "uniqueId": "csc-lms",
@@ -1164,7 +1506,13 @@ app.data = {
         "budgetDelta": "$248,400",
         "budgetDeltaPercentage": "5.84%",
         "datesDeltaYear": "4.00",
-        "estimatedStatus": "behind schedule"
+        "estimatedStatus": "behind schedule",
+        "has2016data": "1",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "pc-crmis": {
         "uniqueId": "pc-crmis",
@@ -1184,7 +1532,13 @@ app.data = {
         "budgetDelta": "$238,500",
         "budgetDeltaPercentage": "11.11%",
         "datesDeltaYear": "1.00",
-        "estimatedStatus": "behind schedule"
+        "estimatedStatus": "behind schedule",
+        "has2016data": "1",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "esdc-cpp-sis": {
         "uniqueId": "esdc-cpp-sis",
@@ -1204,7 +1558,13 @@ app.data = {
         "budgetDelta": "$164,111",
         "budgetDeltaPercentage": "0.29%",
         "datesDeltaYear": "2.59",
-        "estimatedStatus": "behind schedule"
+        "estimatedStatus": "behind schedule",
+        "has2016data": "1",
+        "has2019data": "1",
+        "isOver10m2016": "1",
+        "isOver100m2016": "0",
+        "isOver10m2019": "1",
+        "isOver100m2019": "0"
     },
     "hc-eprs-modernization": {
         "uniqueId": "hc-eprs-modernization",
@@ -1224,7 +1584,13 @@ app.data = {
         "budgetDelta": "$134,816",
         "budgetDeltaPercentage": "3.92%",
         "datesDeltaYear": "2.76",
-        "estimatedStatus": "behind schedule"
+        "estimatedStatus": "behind schedule",
+        "has2016data": "1",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "cra-eftm-2": {
         "uniqueId": "cra-eftm-2",
@@ -1244,7 +1610,13 @@ app.data = {
         "budgetDelta": "$127,000",
         "budgetDeltaPercentage": "0.99%",
         "datesDeltaYear": "1.00",
-        "estimatedStatus": "behind schedule"
+        "estimatedStatus": "behind schedule",
+        "has2016data": "1",
+        "has2019data": "1",
+        "isOver10m2016": "1",
+        "isOver100m2016": "0",
+        "isOver10m2019": "1",
+        "isOver100m2019": "0"
     },
     "csc-pos": {
         "uniqueId": "csc-pos",
@@ -1264,7 +1636,13 @@ app.data = {
         "budgetDelta": "$103,354",
         "budgetDeltaPercentage": "3.90%",
         "datesDeltaYear": "2.53",
-        "estimatedStatus": "behind schedule"
+        "estimatedStatus": "behind schedule",
+        "has2016data": "1",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "hc-fm": {
         "uniqueId": "hc-fm",
@@ -1284,7 +1662,13 @@ app.data = {
         "budgetDelta": "$55,000",
         "budgetDeltaPercentage": "2.34%",
         "datesDeltaYear": "1.00",
-        "estimatedStatus": "behind schedule"
+        "estimatedStatus": "behind schedule",
+        "has2016data": "1",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "dfo-modip": {
         "uniqueId": "dfo-modip",
@@ -1304,7 +1688,13 @@ app.data = {
         "budgetDelta": "$490",
         "budgetDeltaPercentage": "0.02%",
         "datesDeltaYear": "0.33",
-        "estimatedStatus": "behind schedule"
+        "estimatedStatus": "behind schedule",
+        "has2016data": "1",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "tc-saar": {
         "uniqueId": "tc-saar",
@@ -1324,7 +1714,13 @@ app.data = {
         "budgetDelta": "$0",
         "budgetDeltaPercentage": "0.00%",
         "datesDeltaYear": "0.08",
-        "estimatedStatus": "behind schedule"
+        "estimatedStatus": "behind schedule",
+        "has2016data": "1",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "cra-t1sr": {
         "uniqueId": "cra-t1sr",
@@ -1344,7 +1740,13 @@ app.data = {
         "budgetDelta": "$0",
         "budgetDeltaPercentage": "0.00%",
         "datesDeltaYear": "0.00",
-        "estimatedStatus": "on schedule"
+        "estimatedStatus": "on schedule",
+        "has2016data": "1",
+        "has2019data": "1",
+        "isOver10m2016": "1",
+        "isOver100m2016": "1",
+        "isOver10m2019": "1",
+        "isOver100m2019": "1"
     },
     "dnd-cvoip": {
         "uniqueId": "dnd-cvoip",
@@ -1364,7 +1766,13 @@ app.data = {
         "budgetDelta": "-$1,500",
         "budgetDeltaPercentage": "-0.07%",
         "datesDeltaYear": "2.50",
-        "estimatedStatus": "behind schedule"
+        "estimatedStatus": "behind schedule",
+        "has2016data": "1",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "cbsa-carm": {
         "uniqueId": "cbsa-carm",
@@ -1384,7 +1792,13 @@ app.data = {
         "budgetDelta": "-$2,595",
         "budgetDeltaPercentage": "0.00%",
         "datesDeltaYear": "1.33",
-        "estimatedStatus": "behind schedule"
+        "estimatedStatus": "behind schedule",
+        "has2016data": "1",
+        "has2019data": "1",
+        "isOver10m2016": "1",
+        "isOver100m2016": "1",
+        "isOver10m2019": "1",
+        "isOver100m2019": "1"
     },
     "pspc-procure2pay": {
         "uniqueId": "pspc-procure2pay",
@@ -1404,7 +1818,13 @@ app.data = {
         "budgetDelta": "-$31,000",
         "budgetDeltaPercentage": "-0.29%",
         "datesDeltaYear": "2.01",
-        "estimatedStatus": "behind schedule"
+        "estimatedStatus": "behind schedule",
+        "has2016data": "1",
+        "has2019data": "1",
+        "isOver10m2016": "1",
+        "isOver100m2016": "0",
+        "isOver10m2019": "1",
+        "isOver100m2019": "0"
     },
     "cbsa-e-manifest": {
         "uniqueId": "cbsa-e-manifest",
@@ -1424,7 +1844,13 @@ app.data = {
         "budgetDelta": "-$109,292",
         "budgetDeltaPercentage": "-0.03%",
         "datesDeltaYear": "2.25",
-        "estimatedStatus": "behind schedule"
+        "estimatedStatus": "behind schedule",
+        "has2016data": "1",
+        "has2019data": "1",
+        "isOver10m2016": "1",
+        "isOver100m2016": "1",
+        "isOver10m2019": "1",
+        "isOver100m2019": "1"
     },
     "ssc-icas": {
         "uniqueId": "ssc-icas",
@@ -1444,7 +1870,13 @@ app.data = {
         "budgetDelta": "-$165,001",
         "budgetDeltaPercentage": "-2.89%",
         "datesDeltaYear": "2.00",
-        "estimatedStatus": "behind schedule"
+        "estimatedStatus": "behind schedule",
+        "has2016data": "1",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "csc-windows-10": {
         "uniqueId": "csc-windows-10",
@@ -1464,7 +1896,13 @@ app.data = {
         "budgetDelta": "-$244,046",
         "budgetDeltaPercentage": "-6.41%",
         "datesDeltaYear": "1.01",
-        "estimatedStatus": "behind schedule"
+        "estimatedStatus": "behind schedule",
+        "has2016data": "1",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "dnd-stcscr": {
         "uniqueId": "dnd-stcscr",
@@ -1484,7 +1922,13 @@ app.data = {
         "budgetDelta": "-$569,469",
         "budgetDeltaPercentage": "-11.50%",
         "datesDeltaYear": "2.00",
-        "estimatedStatus": "behind schedule"
+        "estimatedStatus": "behind schedule",
+        "has2016data": "1",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "rcmp-viclas": {
         "uniqueId": "rcmp-viclas",
@@ -1504,7 +1948,13 @@ app.data = {
         "budgetDelta": "-$735,000",
         "budgetDeltaPercentage": "-34.43%",
         "datesDeltaYear": "",
-        "estimatedStatus": "unknown"
+        "estimatedStatus": "unknown (past due)",
+        "has2016data": "1",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "cra-cbcr": {
         "uniqueId": "cra-cbcr",
@@ -1524,7 +1974,13 @@ app.data = {
         "budgetDelta": "-$815,000",
         "budgetDeltaPercentage": "-7.11%",
         "datesDeltaYear": "1.00",
-        "estimatedStatus": "behind schedule"
+        "estimatedStatus": "behind schedule",
+        "has2016data": "1",
+        "has2019data": "1",
+        "isOver10m2016": "1",
+        "isOver100m2016": "0",
+        "isOver10m2019": "1",
+        "isOver100m2019": "0"
     },
     "ssc-canarie": {
         "uniqueId": "ssc-canarie",
@@ -1544,7 +2000,13 @@ app.data = {
         "budgetDelta": "-$1,073,531",
         "budgetDeltaPercentage": "-3.28%",
         "datesDeltaYear": "1.75",
-        "estimatedStatus": "behind schedule"
+        "estimatedStatus": "behind schedule",
+        "has2016data": "1",
+        "has2019data": "1",
+        "isOver10m2016": "1",
+        "isOver100m2016": "0",
+        "isOver10m2019": "1",
+        "isOver100m2019": "0"
     },
     "ised-cipo-ipdfm": {
         "uniqueId": "ised-cipo-ipdfm",
@@ -1564,7 +2026,13 @@ app.data = {
         "budgetDelta": "-$1,166,336",
         "budgetDeltaPercentage": "-20.25%",
         "datesDeltaYear": "2.25",
-        "estimatedStatus": "behind schedule"
+        "estimatedStatus": "behind schedule",
+        "has2016data": "1",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "ssc-eps": {
         "uniqueId": "ssc-eps",
@@ -1584,7 +2052,13 @@ app.data = {
         "budgetDelta": "-$1,525,153",
         "budgetDeltaPercentage": "-6.58%",
         "datesDeltaYear": "-1.00",
-        "estimatedStatus": "ahead of schedule"
+        "estimatedStatus": "ahead of schedule",
+        "has2016data": "1",
+        "has2019data": "1",
+        "isOver10m2016": "1",
+        "isOver100m2016": "0",
+        "isOver10m2019": "1",
+        "isOver100m2019": "0"
     },
     "justice-gcsi": {
         "uniqueId": "justice-gcsi",
@@ -1604,13 +2078,19 @@ app.data = {
         "budgetDelta": "-$1,700,000",
         "budgetDeltaPercentage": "-28.33%",
         "datesDeltaYear": "1.00",
-        "estimatedStatus": "behind schedule"
+        "estimatedStatus": "behind schedule",
+        "has2016data": "1",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "csc-ohis-pharm": {
         "uniqueId": "csc-ohis-pharm",
         "deptAcronym": "csc",
         "department": "Correctional Service Canada",
-        "projectName": "Offender Health Information System - Regional Pharmacy Management Solution",
+        "projectName": "Offender Health Information System Regional Pharmacy Management Solution",
         "projectDescription2016": "Offender Health Information System - PHARM -A bilingual National Pharmacy system that will include pharmacy management and inventory\n management as well as the l;lectronic Management Administration Record.",
         "projectDescription2019": "Offender Management Health Information System - Implement a consistent industry leading Regional Pharmacy Management Solution (RPMS) with standardized management of medication dispensing and inventory control. Urgent initiative to replace legacy pharmacy systems.",
         "totalBudget2016": "$9,494,226",
@@ -1624,7 +2104,13 @@ app.data = {
         "budgetDelta": "-$1,755,935",
         "budgetDeltaPercentage": "-18.49%",
         "datesDeltaYear": "3.34",
-        "estimatedStatus": "behind schedule"
+        "estimatedStatus": "behind schedule",
+        "has2016data": "1",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "justice-dls-network": {
         "uniqueId": "justice-dls-network",
@@ -1644,7 +2130,13 @@ app.data = {
         "budgetDelta": "-$1,800,000",
         "budgetDeltaPercentage": "-21.69%",
         "datesDeltaYear": "2.00",
-        "estimatedStatus": "behind schedule"
+        "estimatedStatus": "behind schedule",
+        "has2016data": "1",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "phac-gphin": {
         "uniqueId": "phac-gphin",
@@ -1664,7 +2156,13 @@ app.data = {
         "budgetDelta": "-$1,900,000",
         "budgetDeltaPercentage": "-18.81%",
         "datesDeltaYear": "1.50",
-        "estimatedStatus": "behind schedule"
+        "estimatedStatus": "behind schedule",
+        "has2016data": "1",
+        "has2019data": "1",
+        "isOver10m2016": "1",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "dfo-wlm": {
         "uniqueId": "dfo-wlm",
@@ -1684,7 +2182,13 @@ app.data = {
         "budgetDelta": "-$1,901,800",
         "budgetDeltaPercentage": "-44.89%",
         "datesDeltaYear": "1.00",
-        "estimatedStatus": "behind schedule"
+        "estimatedStatus": "behind schedule",
+        "has2016data": "1",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "cra-ets": {
         "uniqueId": "cra-ets",
@@ -1704,7 +2208,13 @@ app.data = {
         "budgetDelta": "-$2,009,000",
         "budgetDeltaPercentage": "-29.63%",
         "datesDeltaYear": "2.00",
-        "estimatedStatus": "behind schedule"
+        "estimatedStatus": "behind schedule",
+        "has2016data": "1",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "cra-citm": {
         "uniqueId": "cra-citm",
@@ -1724,7 +2234,13 @@ app.data = {
         "budgetDelta": "-$2,106,000",
         "budgetDeltaPercentage": "-9.17%",
         "datesDeltaYear": "1.00",
-        "estimatedStatus": "behind schedule"
+        "estimatedStatus": "behind schedule",
+        "has2016data": "1",
+        "has2019data": "1",
+        "isOver10m2016": "1",
+        "isOver100m2016": "0",
+        "isOver10m2019": "1",
+        "isOver100m2019": "0"
     },
     "inac-gcdocs": {
         "uniqueId": "inac-gcdocs",
@@ -1744,7 +2260,13 @@ app.data = {
         "budgetDelta": "-$2,300,000",
         "budgetDeltaPercentage": "-19.17%",
         "datesDeltaYear": "2.25",
-        "estimatedStatus": "behind schedule"
+        "estimatedStatus": "behind schedule",
+        "has2016data": "1",
+        "has2019data": "1",
+        "isOver10m2016": "1",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "rcmp-ce": {
         "uniqueId": "rcmp-ce",
@@ -1764,7 +2286,13 @@ app.data = {
         "budgetDelta": "-$3,448,000",
         "budgetDeltaPercentage": "-74.18%",
         "datesDeltaYear": "1.84",
-        "estimatedStatus": "behind schedule"
+        "estimatedStatus": "behind schedule",
+        "has2016data": "1",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "cbsa-iapi": {
         "uniqueId": "cbsa-iapi",
@@ -1784,7 +2312,13 @@ app.data = {
         "budgetDelta": "-$4,187,380",
         "budgetDeltaPercentage": "-8.38%",
         "datesDeltaYear": "1.42",
-        "estimatedStatus": "behind schedule"
+        "estimatedStatus": "behind schedule",
+        "has2016data": "1",
+        "has2019data": "1",
+        "isOver10m2016": "1",
+        "isOver100m2016": "0",
+        "isOver10m2019": "1",
+        "isOver100m2019": "0"
     },
     "cbsa-pmi": {
         "uniqueId": "cbsa-pmi",
@@ -1804,7 +2338,13 @@ app.data = {
         "budgetDelta": "-$4,788,710",
         "budgetDeltaPercentage": "-12.77%",
         "datesDeltaYear": "",
-        "estimatedStatus": "unknown"
+        "estimatedStatus": "unknown (past due)",
+        "has2016data": "1",
+        "has2019data": "1",
+        "isOver10m2016": "1",
+        "isOver100m2016": "0",
+        "isOver10m2019": "1",
+        "isOver100m2019": "0"
     },
     "inac-rims-2": {
         "uniqueId": "inac-rims-2",
@@ -1824,7 +2364,13 @@ app.data = {
         "budgetDelta": "-$5,242,500",
         "budgetDeltaPercentage": "-58.40%",
         "datesDeltaYear": "1.74",
-        "estimatedStatus": "behind schedule"
+        "estimatedStatus": "behind schedule",
+        "has2016data": "1",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "ssc-gcnet-wan": {
         "uniqueId": "ssc-gcnet-wan",
@@ -1844,7 +2390,13 @@ app.data = {
         "budgetDelta": "-$5,396,351",
         "budgetDeltaPercentage": "-6.31%",
         "datesDeltaYear": "0.00",
-        "estimatedStatus": "on schedule"
+        "estimatedStatus": "on schedule",
+        "has2016data": "1",
+        "has2019data": "1",
+        "isOver10m2016": "1",
+        "isOver100m2016": "0",
+        "isOver10m2019": "1",
+        "isOver100m2019": "0"
     },
     "rcmp-afis": {
         "uniqueId": "rcmp-afis",
@@ -1864,7 +2416,13 @@ app.data = {
         "budgetDelta": "-$7,000,000",
         "budgetDeltaPercentage": "-77.78%",
         "datesDeltaYear": "1.17",
-        "estimatedStatus": "behind schedule"
+        "estimatedStatus": "behind schedule",
+        "has2016data": "1",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "rcmp-edw": {
         "uniqueId": "rcmp-edw",
@@ -1884,7 +2442,13 @@ app.data = {
         "budgetDelta": "-$7,791,000",
         "budgetDeltaPercentage": "-83.86%",
         "datesDeltaYear": "1.96",
-        "estimatedStatus": "behind schedule"
+        "estimatedStatus": "behind schedule",
+        "has2016data": "1",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "ssc-evcm": {
         "uniqueId": "ssc-evcm",
@@ -1904,7 +2468,13 @@ app.data = {
         "budgetDelta": "-$8,006,945",
         "budgetDeltaPercentage": "-27.19%",
         "datesDeltaYear": "-1.00",
-        "estimatedStatus": "ahead of schedule"
+        "estimatedStatus": "ahead of schedule",
+        "has2016data": "1",
+        "has2019data": "1",
+        "isOver10m2016": "1",
+        "isOver100m2016": "0",
+        "isOver10m2019": "1",
+        "isOver100m2019": "0"
     },
     "ssc-aacs": {
         "uniqueId": "ssc-aacs",
@@ -1924,7 +2494,13 @@ app.data = {
         "budgetDelta": "-$9,678,000",
         "budgetDeltaPercentage": "-40.85%",
         "datesDeltaYear": "1.30",
-        "estimatedStatus": "behind schedule"
+        "estimatedStatus": "behind schedule",
+        "has2016data": "1",
+        "has2019data": "1",
+        "isOver10m2016": "1",
+        "isOver100m2016": "0",
+        "isOver10m2019": "1",
+        "isOver100m2019": "0"
     },
     "rcmp-biometric-expansion": {
         "uniqueId": "rcmp-biometric-expansion",
@@ -1944,7 +2520,13 @@ app.data = {
         "budgetDelta": "-$12,080,000",
         "budgetDeltaPercentage": "-91.65%",
         "datesDeltaYear": "0.00",
-        "estimatedStatus": "on schedule"
+        "estimatedStatus": "on schedule",
+        "has2016data": "1",
+        "has2019data": "1",
+        "isOver10m2016": "1",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "aafc-cnsc-sap": {
         "uniqueId": "aafc-cnsc-sap",
@@ -1964,7 +2546,13 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "new"
+        "estimatedStatus": "new",
+        "has2016data": "0",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "aafc-dcalcrbc": {
         "uniqueId": "aafc-dcalcrbc",
@@ -1984,7 +2572,13 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "completed"
+        "estimatedStatus": "completed",
+        "has2016data": "1",
+        "has2019data": "0",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "aafc-dina-geo": {
         "uniqueId": "aafc-dina-geo",
@@ -2004,7 +2598,13 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "new"
+        "estimatedStatus": "new",
+        "has2016data": "0",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "aafc-e-discovery": {
         "uniqueId": "aafc-e-discovery",
@@ -2024,7 +2624,13 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "new"
+        "estimatedStatus": "unknown (no dates specified)",
+        "has2016data": "0",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "aafc-etir": {
         "uniqueId": "aafc-etir",
@@ -2044,7 +2650,13 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "completed"
+        "estimatedStatus": "completed",
+        "has2016data": "1",
+        "has2019data": "0",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "aafc-gc-admin": {
         "uniqueId": "aafc-gc-admin",
@@ -2064,7 +2676,13 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "new"
+        "estimatedStatus": "new",
+        "has2016data": "0",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "aafc-gcdp-crm": {
         "uniqueId": "aafc-gcdp-crm",
@@ -2084,7 +2702,13 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "new"
+        "estimatedStatus": "new",
+        "has2016data": "0",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "1",
+        "isOver100m2019": "0"
     },
     "aafc-gcsi": {
         "uniqueId": "aafc-gcsi",
@@ -2104,7 +2728,13 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "completed"
+        "estimatedStatus": "completed",
+        "has2016data": "1",
+        "has2019data": "0",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "aafc-grdisppdap": {
         "uniqueId": "aafc-grdisppdap",
@@ -2124,7 +2754,13 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "completed"
+        "estimatedStatus": "completed",
+        "has2016data": "1",
+        "has2019data": "0",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "aafc-it-sdm": {
         "uniqueId": "aafc-it-sdm",
@@ -2144,7 +2780,13 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "new"
+        "estimatedStatus": "unknown (no dates specified)",
+        "has2016data": "0",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "aafc-lti": {
         "uniqueId": "aafc-lti",
@@ -2164,7 +2806,13 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "completed"
+        "estimatedStatus": "completed",
+        "has2016data": "1",
+        "has2019data": "0",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "aafc-ogii": {
         "uniqueId": "aafc-ogii",
@@ -2184,7 +2832,13 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "unknown"
+        "estimatedStatus": "unknown (past due)",
+        "has2016data": "1",
+        "has2019data": "0",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "aafc-pssstp": {
         "uniqueId": "aafc-pssstp",
@@ -2204,7 +2858,13 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "completed"
+        "estimatedStatus": "completed",
+        "has2016data": "1",
+        "has2019data": "0",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "aafc-sap-renewal": {
         "uniqueId": "aafc-sap-renewal",
@@ -2224,7 +2884,13 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "new"
+        "estimatedStatus": "new",
+        "has2016data": "0",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "aafc-sp-gcdocs": {
         "uniqueId": "aafc-sp-gcdocs",
@@ -2244,7 +2910,13 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "new"
+        "estimatedStatus": "unknown (no dates specified)",
+        "has2016data": "0",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "aafc-supsd": {
         "uniqueId": "aafc-supsd",
@@ -2264,7 +2936,13 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "completed"
+        "estimatedStatus": "completed",
+        "has2016data": "1",
+        "has2019data": "0",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "aafc-wmi": {
         "uniqueId": "aafc-wmi",
@@ -2284,7 +2962,13 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "completed"
+        "estimatedStatus": "completed",
+        "has2016data": "1",
+        "has2019data": "0",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "aafc-wri": {
         "uniqueId": "aafc-wri",
@@ -2304,7 +2988,13 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "completed"
+        "estimatedStatus": "completed",
+        "has2016data": "1",
+        "has2019data": "0",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "acoa-gcpm": {
         "uniqueId": "acoa-gcpm",
@@ -2324,7 +3014,13 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "completed"
+        "estimatedStatus": "completed",
+        "has2016data": "1",
+        "has2019data": "0",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "atssc-cms": {
         "uniqueId": "atssc-cms",
@@ -2344,7 +3040,13 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "new"
+        "estimatedStatus": "new",
+        "has2016data": "0",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "cannor-gcpm": {
         "uniqueId": "cannor-gcpm",
@@ -2364,7 +3066,13 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "completed"
+        "estimatedStatus": "completed",
+        "has2016data": "1",
+        "has2019data": "0",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "cbsa-apm": {
         "uniqueId": "cbsa-apm",
@@ -2384,7 +3092,13 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "new"
+        "estimatedStatus": "unknown (no dates specified)",
+        "has2016data": "0",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "cbsa-atdp": {
         "uniqueId": "cbsa-atdp",
@@ -2404,7 +3118,13 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "new"
+        "estimatedStatus": "unknown (no dates specified)",
+        "has2016data": "1",
+        "has2019data": "0",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "cbsa-caed": {
         "uniqueId": "cbsa-caed",
@@ -2424,7 +3144,13 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "new"
+        "estimatedStatus": "unknown (no dates specified)",
+        "has2016data": "1",
+        "has2019data": "0",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "cbsa-cas": {
         "uniqueId": "cbsa-cas",
@@ -2444,7 +3170,13 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "completed"
+        "estimatedStatus": "completed",
+        "has2016data": "1",
+        "has2019data": "0",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "cbsa-cers": {
         "uniqueId": "cbsa-cers",
@@ -2464,7 +3196,13 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "new"
+        "estimatedStatus": "new",
+        "has2016data": "0",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "cbsa-ctms": {
         "uniqueId": "cbsa-ctms",
@@ -2484,7 +3222,13 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "new"
+        "estimatedStatus": "unknown (no dates specified)",
+        "has2016data": "0",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "cbsa-e-portal-nexus": {
         "uniqueId": "cbsa-e-portal-nexus",
@@ -2504,7 +3248,13 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "completed"
+        "estimatedStatus": "completed",
+        "has2016data": "1",
+        "has2019data": "0",
+        "isOver10m2016": "1",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "cbsa-edrms": {
         "uniqueId": "cbsa-edrms",
@@ -2524,7 +3274,13 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "completed"
+        "estimatedStatus": "completed",
+        "has2016data": "1",
+        "has2019data": "0",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "cbsa-erass": {
         "uniqueId": "cbsa-erass",
@@ -2544,7 +3300,13 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "new"
+        "estimatedStatus": "new",
+        "has2016data": "0",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "cbsa-eti": {
         "uniqueId": "cbsa-eti",
@@ -2564,7 +3326,13 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "completed"
+        "estimatedStatus": "completed",
+        "has2016data": "1",
+        "has2019data": "0",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "cbsa-fmt": {
         "uniqueId": "cbsa-fmt",
@@ -2584,7 +3352,13 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "new"
+        "estimatedStatus": "new",
+        "has2016data": "0",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "cbsa-iss": {
         "uniqueId": "cbsa-iss",
@@ -2604,7 +3378,13 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "new"
+        "estimatedStatus": "new",
+        "has2016data": "0",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "cbsa-paxis": {
         "uniqueId": "cbsa-paxis",
@@ -2624,7 +3404,13 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "new"
+        "estimatedStatus": "new",
+        "has2016data": "0",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "cbsa-pay-system": {
         "uniqueId": "cbsa-pay-system",
@@ -2644,7 +3430,13 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "completed"
+        "estimatedStatus": "completed",
+        "has2016data": "1",
+        "has2019data": "0",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "cbsa-pbfp": {
         "uniqueId": "cbsa-pbfp",
@@ -2664,7 +3456,13 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "completed"
+        "estimatedStatus": "completed",
+        "has2016data": "1",
+        "has2019data": "0",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "cbsa-pik-2": {
         "uniqueId": "cbsa-pik-2",
@@ -2684,7 +3482,13 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "new"
+        "estimatedStatus": "unknown (no dates specified)",
+        "has2016data": "1",
+        "has2019data": "0",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "cbsa-poems": {
         "uniqueId": "cbsa-poems",
@@ -2704,7 +3508,13 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "new"
+        "estimatedStatus": "new",
+        "has2016data": "0",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "cbsa-ppp": {
         "uniqueId": "cbsa-ppp",
@@ -2724,7 +3534,13 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "new"
+        "estimatedStatus": "new",
+        "has2016data": "0",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "1",
+        "isOver100m2019": "0"
     },
     "cbsa-rcms": {
         "uniqueId": "cbsa-rcms",
@@ -2744,7 +3560,13 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "completed"
+        "estimatedStatus": "completed",
+        "has2016data": "1",
+        "has2019data": "0",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "cbsa-soa": {
         "uniqueId": "cbsa-soa",
@@ -2764,7 +3586,13 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "new"
+        "estimatedStatus": "new",
+        "has2016data": "0",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "cbsa-srpoe": {
         "uniqueId": "cbsa-srpoe",
@@ -2784,7 +3612,13 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "completed"
+        "estimatedStatus": "completed",
+        "has2016data": "1",
+        "has2019data": "0",
+        "isOver10m2016": "1",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "cbsa-swi": {
         "uniqueId": "cbsa-swi",
@@ -2804,7 +3638,13 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "completed"
+        "estimatedStatus": "completed",
+        "has2016data": "1",
+        "has2019data": "0",
+        "isOver10m2016": "1",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "cbsa-tpm": {
         "uniqueId": "cbsa-tpm",
@@ -2824,7 +3664,13 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "new"
+        "estimatedStatus": "unknown (no dates specified)",
+        "has2016data": "0",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "cbsa-windows-server": {
         "uniqueId": "cbsa-windows-server",
@@ -2844,7 +3690,13 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "new"
+        "estimatedStatus": "unknown (no dates specified)",
+        "has2016data": "0",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "cbsa-wlm": {
         "uniqueId": "cbsa-wlm",
@@ -2864,7 +3716,13 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "new"
+        "estimatedStatus": "unknown (no dates specified)",
+        "has2016data": "0",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "ceaa-iarp": {
         "uniqueId": "ceaa-iarp",
@@ -2884,7 +3742,13 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "new"
+        "estimatedStatus": "new",
+        "has2016data": "0",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "ced-gcpm": {
         "uniqueId": "ced-gcpm",
@@ -2904,7 +3768,13 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "completed"
+        "estimatedStatus": "completed",
+        "has2016data": "1",
+        "has2019data": "0",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "ced-sap": {
         "uniqueId": "ced-sap",
@@ -2924,7 +3794,13 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "new"
+        "estimatedStatus": "new",
+        "has2016data": "0",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "cfia-cpd": {
         "uniqueId": "cfia-cpd",
@@ -2944,7 +3820,13 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "new"
+        "estimatedStatus": "new",
+        "has2016data": "0",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "cfia-e-billing": {
         "uniqueId": "cfia-e-billing",
@@ -2964,7 +3846,13 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "new"
+        "estimatedStatus": "new",
+        "has2016data": "0",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "cfia-ecbpd": {
         "uniqueId": "cfia-ecbpd",
@@ -2984,7 +3872,13 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "new"
+        "estimatedStatus": "new",
+        "has2016data": "0",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "cfia-era": {
         "uniqueId": "cfia-era",
@@ -3004,7 +3898,13 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "new"
+        "estimatedStatus": "new",
+        "has2016data": "0",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "cfia-eti": {
         "uniqueId": "cfia-eti",
@@ -3024,7 +3924,13 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "new"
+        "estimatedStatus": "unknown (no dates specified)",
+        "has2016data": "1",
+        "has2019data": "0",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "cfia-gcdocs": {
         "uniqueId": "cfia-gcdocs",
@@ -3044,7 +3950,13 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "unknown"
+        "estimatedStatus": "unknown (past due)",
+        "has2016data": "1",
+        "has2019data": "0",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "cfia-hrbi": {
         "uniqueId": "cfia-hrbi",
@@ -3064,7 +3976,13 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "new"
+        "estimatedStatus": "new",
+        "has2016data": "0",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "cfia-isip": {
         "uniqueId": "cfia-isip",
@@ -3084,7 +4002,13 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "new"
+        "estimatedStatus": "new",
+        "has2016data": "0",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "cfia-opengov": {
         "uniqueId": "cfia-opengov",
@@ -3104,7 +4028,13 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "unknown"
+        "estimatedStatus": "unknown (past due)",
+        "has2016data": "1",
+        "has2019data": "0",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "cfia-oracle": {
         "uniqueId": "cfia-oracle",
@@ -3124,7 +4054,13 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "completed"
+        "estimatedStatus": "completed",
+        "has2016data": "1",
+        "has2019data": "0",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "cfia-sfcr": {
         "uniqueId": "cfia-sfcr",
@@ -3144,7 +4080,13 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "new"
+        "estimatedStatus": "new",
+        "has2016data": "0",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "cfia-w2k3": {
         "uniqueId": "cfia-w2k3",
@@ -3164,7 +4106,13 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "new"
+        "estimatedStatus": "new",
+        "has2016data": "0",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "cfia-wlm": {
         "uniqueId": "cfia-wlm",
@@ -3184,7 +4132,13 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "unknown"
+        "estimatedStatus": "unknown (past due)",
+        "has2016data": "1",
+        "has2019data": "0",
+        "isOver10m2016": "1",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "chrc-cms": {
         "uniqueId": "chrc-cms",
@@ -3204,7 +4158,13 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "new"
+        "estimatedStatus": "new",
+        "has2016data": "0",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "cihr-enables": {
         "uniqueId": "cihr-enables",
@@ -3224,7 +4184,13 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "unknown"
+        "estimatedStatus": "unknown (past due)",
+        "has2016data": "1",
+        "has2019data": "0",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "cnsc-cms-compliance": {
         "uniqueId": "cnsc-cms-compliance",
@@ -3244,7 +4210,13 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "new"
+        "estimatedStatus": "unknown (no dates specified)",
+        "has2016data": "0",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "cnsc-cms-licensing": {
         "uniqueId": "cnsc-cms-licensing",
@@ -3264,7 +4236,13 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "new"
+        "estimatedStatus": "unknown (no dates specified)",
+        "has2016data": "0",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "cnsc-cms-workflows": {
         "uniqueId": "cnsc-cms-workflows",
@@ -3284,7 +4262,13 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "new"
+        "estimatedStatus": "unknown (no dates specified)",
+        "has2016data": "0",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "cnsc-emm": {
         "uniqueId": "cnsc-emm",
@@ -3304,7 +4288,13 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "new"
+        "estimatedStatus": "new",
+        "has2016data": "0",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "cnsc-gcsi": {
         "uniqueId": "cnsc-gcsi",
@@ -3324,7 +4314,13 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "new"
+        "estimatedStatus": "new",
+        "has2016data": "0",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "cnsc-sap": {
         "uniqueId": "cnsc-sap",
@@ -3344,7 +4340,13 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "new"
+        "estimatedStatus": "new",
+        "has2016data": "0",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "cnsc-ssts": {
         "uniqueId": "cnsc-ssts",
@@ -3364,7 +4366,13 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "new"
+        "estimatedStatus": "new",
+        "has2016data": "0",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "cra-agitpr": {
         "uniqueId": "cra-agitpr",
@@ -3384,7 +4392,13 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "unknown"
+        "estimatedStatus": "unknown (past due)",
+        "has2016data": "1",
+        "has2019data": "0",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "cra-am": {
         "uniqueId": "cra-am",
@@ -3404,7 +4418,13 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "new"
+        "estimatedStatus": "new",
+        "has2016data": "0",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "1",
+        "isOver100m2019": "0"
     },
     "cra-asp": {
         "uniqueId": "cra-asp",
@@ -3424,7 +4444,13 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "completed"
+        "estimatedStatus": "completed",
+        "has2016data": "1",
+        "has2019data": "0",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "cra-bir": {
         "uniqueId": "cra-bir",
@@ -3444,7 +4470,13 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "unknown"
+        "estimatedStatus": "unknown (past due)",
+        "has2016data": "1",
+        "has2019data": "0",
+        "isOver10m2016": "1",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "cra-bniip": {
         "uniqueId": "cra-bniip",
@@ -3464,7 +4496,13 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "completed"
+        "estimatedStatus": "completed",
+        "has2016data": "1",
+        "has2019data": "0",
+        "isOver10m2016": "1",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "cra-ccte": {
         "uniqueId": "cra-ccte",
@@ -3484,7 +4522,13 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "unknown"
+        "estimatedStatus": "unknown (past due)",
+        "has2016data": "1",
+        "has2019data": "0",
+        "isOver10m2016": "1",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "cra-ci-vpn": {
         "uniqueId": "cra-ci-vpn",
@@ -3504,7 +4548,13 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "completed"
+        "estimatedStatus": "completed",
+        "has2016data": "1",
+        "has2019data": "0",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "cra-clp": {
         "uniqueId": "cra-clp",
@@ -3524,7 +4574,13 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "completed"
+        "estimatedStatus": "completed",
+        "has2016data": "1",
+        "has2019data": "0",
+        "isOver10m2016": "1",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "cra-common-identifier": {
         "uniqueId": "cra-common-identifier",
@@ -3544,7 +4600,13 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "unknown"
+        "estimatedStatus": "unknown (past due)",
+        "has2016data": "1",
+        "has2019data": "0",
+        "isOver10m2016": "1",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "cra-cpp-1": {
         "uniqueId": "cra-cpp-1",
@@ -3564,7 +4626,13 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "new"
+        "estimatedStatus": "new",
+        "has2016data": "0",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "1",
+        "isOver100m2019": "0"
     },
     "cra-crs": {
         "uniqueId": "cra-crs",
@@ -3584,7 +4652,13 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "unknown"
+        "estimatedStatus": "unknown (past due)",
+        "has2016data": "1",
+        "has2019data": "0",
+        "isOver10m2016": "1",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "cra-crs-1": {
         "uniqueId": "cra-crs-1",
@@ -3604,7 +4678,13 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "new"
+        "estimatedStatus": "new",
+        "has2016data": "0",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "1",
+        "isOver100m2019": "0"
     },
     "cra-crs-2": {
         "uniqueId": "cra-crs-2",
@@ -3624,7 +4704,13 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "new"
+        "estimatedStatus": "new",
+        "has2016data": "0",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "1",
+        "isOver100m2019": "0"
     },
     "cra-csr": {
         "uniqueId": "cra-csr",
@@ -3644,7 +4730,13 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "completed"
+        "estimatedStatus": "completed",
+        "has2016data": "1",
+        "has2019data": "0",
+        "isOver10m2016": "1",
+        "isOver100m2016": "1",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "cra-diu": {
         "uniqueId": "cra-diu",
@@ -3664,7 +4756,13 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "completed"
+        "estimatedStatus": "completed",
+        "has2016data": "1",
+        "has2019data": "0",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "cra-dsi": {
         "uniqueId": "cra-dsi",
@@ -3684,7 +4782,13 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "unknown"
+        "estimatedStatus": "unknown (past due)",
+        "has2016data": "1",
+        "has2019data": "0",
+        "isOver10m2016": "1",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "cra-dsi-1": {
         "uniqueId": "cra-dsi-1",
@@ -3704,7 +4808,13 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "new"
+        "estimatedStatus": "new",
+        "has2016data": "0",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "cra-dsi-2": {
         "uniqueId": "cra-dsi-2",
@@ -3724,7 +4834,13 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "new"
+        "estimatedStatus": "new",
+        "has2016data": "0",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "cra-e-interactions": {
         "uniqueId": "cra-e-interactions",
@@ -3744,7 +4860,13 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "unknown"
+        "estimatedStatus": "unknown (past due)",
+        "has2016data": "1",
+        "has2019data": "0",
+        "isOver10m2016": "1",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "cra-e-procurement": {
         "uniqueId": "cra-e-procurement",
@@ -3764,7 +4886,13 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "new"
+        "estimatedStatus": "new",
+        "has2016data": "0",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "cra-eac-1": {
         "uniqueId": "cra-eac-1",
@@ -3784,7 +4912,13 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "completed"
+        "estimatedStatus": "completed",
+        "has2016data": "1",
+        "has2019data": "0",
+        "isOver10m2016": "1",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "cra-eac-2": {
         "uniqueId": "cra-eac-2",
@@ -3804,7 +4938,13 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "completed"
+        "estimatedStatus": "completed",
+        "has2016data": "1",
+        "has2019data": "0",
+        "isOver10m2016": "1",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "cra-ecs": {
         "uniqueId": "cra-ecs",
@@ -3824,7 +4964,13 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "completed"
+        "estimatedStatus": "completed",
+        "has2016data": "1",
+        "has2019data": "0",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "cra-edi": {
         "uniqueId": "cra-edi",
@@ -3844,7 +4990,13 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "completed"
+        "estimatedStatus": "completed",
+        "has2016data": "1",
+        "has2019data": "0",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "cra-edrm": {
         "uniqueId": "cra-edrm",
@@ -3864,7 +5016,13 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "completed"
+        "estimatedStatus": "completed",
+        "has2016data": "1",
+        "has2019data": "0",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "cra-eftm-1": {
         "uniqueId": "cra-eftm-1",
@@ -3884,7 +5042,13 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "completed"
+        "estimatedStatus": "completed",
+        "has2016data": "1",
+        "has2019data": "0",
+        "isOver10m2016": "1",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "cra-fev": {
         "uniqueId": "cra-fev",
@@ -3904,7 +5068,13 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "unknown"
+        "estimatedStatus": "unknown (past due)",
+        "has2016data": "1",
+        "has2019data": "0",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "cra-gst": {
         "uniqueId": "cra-gst",
@@ -3924,7 +5094,13 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "completed"
+        "estimatedStatus": "completed",
+        "has2016data": "1",
+        "has2019data": "0",
+        "isOver10m2016": "1",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "cra-hrb-bi": {
         "uniqueId": "cra-hrb-bi",
@@ -3944,7 +5120,13 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "new"
+        "estimatedStatus": "new",
+        "has2016data": "0",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "cra-hrsm": {
         "uniqueId": "cra-hrsm",
@@ -3964,7 +5146,13 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "completed"
+        "estimatedStatus": "completed",
+        "has2016data": "1",
+        "has2019data": "0",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "cra-iam-3": {
         "uniqueId": "cra-iam-3",
@@ -3984,7 +5172,13 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "completed"
+        "estimatedStatus": "completed",
+        "has2016data": "1",
+        "has2019data": "0",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "cra-iam-4": {
         "uniqueId": "cra-iam-4",
@@ -4004,7 +5198,13 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "completed"
+        "estimatedStatus": "completed",
+        "has2016data": "1",
+        "has2019data": "0",
+        "isOver10m2016": "1",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "cra-interop": {
         "uniqueId": "cra-interop",
@@ -4024,7 +5224,13 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "new"
+        "estimatedStatus": "new",
+        "has2016data": "0",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "cra-iuef": {
         "uniqueId": "cra-iuef",
@@ -4044,7 +5250,13 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "completed"
+        "estimatedStatus": "completed",
+        "has2016data": "1",
+        "has2019data": "0",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "cra-ksp": {
         "uniqueId": "cra-ksp",
@@ -4064,7 +5276,13 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "new"
+        "estimatedStatus": "new",
+        "has2016data": "0",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "cra-ma-2": {
         "uniqueId": "cra-ma-2",
@@ -4084,7 +5302,13 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "completed"
+        "estimatedStatus": "completed",
+        "has2016data": "1",
+        "has2019data": "0",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "cra-mme": {
         "uniqueId": "cra-mme",
@@ -4104,7 +5328,13 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "completed"
+        "estimatedStatus": "completed",
+        "has2016data": "1",
+        "has2019data": "0",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "cra-nats": {
         "uniqueId": "cra-nats",
@@ -4124,7 +5354,13 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "completed"
+        "estimatedStatus": "completed",
+        "has2016data": "1",
+        "has2019data": "0",
+        "isOver10m2016": "1",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "cra-nrtoifp": {
         "uniqueId": "cra-nrtoifp",
@@ -4144,7 +5380,13 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "completed"
+        "estimatedStatus": "completed",
+        "has2016data": "1",
+        "has2019data": "0",
+        "isOver10m2016": "1",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "cra-pay-system": {
         "uniqueId": "cra-pay-system",
@@ -4164,7 +5406,13 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "completed"
+        "estimatedStatus": "completed",
+        "has2016data": "1",
+        "has2019data": "0",
+        "isOver10m2016": "1",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "cra-primus": {
         "uniqueId": "cra-primus",
@@ -4184,7 +5432,13 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "new"
+        "estimatedStatus": "new",
+        "has2016data": "0",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "1",
+        "isOver100m2019": "0"
     },
     "cra-quantum": {
         "uniqueId": "cra-quantum",
@@ -4204,7 +5458,13 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "new"
+        "estimatedStatus": "new",
+        "has2016data": "0",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "1",
+        "isOver100m2019": "0"
     },
     "cra-ram": {
         "uniqueId": "cra-ram",
@@ -4224,7 +5484,13 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "new"
+        "estimatedStatus": "new",
+        "has2016data": "0",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "1",
+        "isOver100m2019": "0"
     },
     "cra-sd": {
         "uniqueId": "cra-sd",
@@ -4244,7 +5510,13 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "completed"
+        "estimatedStatus": "completed",
+        "has2016data": "1",
+        "has2019data": "0",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "cra-ser-cda": {
         "uniqueId": "cra-ser-cda",
@@ -4264,7 +5536,13 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "new"
+        "estimatedStatus": "new",
+        "has2016data": "0",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "1",
+        "isOver100m2019": "0"
     },
     "cra-sf-1": {
         "uniqueId": "cra-sf-1",
@@ -4284,7 +5562,13 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "unknown"
+        "estimatedStatus": "unknown (past due)",
+        "has2016data": "1",
+        "has2019data": "0",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "cra-sf-2": {
         "uniqueId": "cra-sf-2",
@@ -4304,7 +5588,13 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "new"
+        "estimatedStatus": "new",
+        "has2016data": "0",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "1",
+        "isOver100m2019": "0"
     },
     "cra-sss": {
         "uniqueId": "cra-sss",
@@ -4324,7 +5614,13 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "completed"
+        "estimatedStatus": "completed",
+        "has2016data": "1",
+        "has2019data": "0",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "cra-t3m": {
         "uniqueId": "cra-t3m",
@@ -4344,7 +5640,13 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "new"
+        "estimatedStatus": "new",
+        "has2016data": "0",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "1",
+        "isOver100m2019": "0"
     },
     "cra-tsa-desktop": {
         "uniqueId": "cra-tsa-desktop",
@@ -4364,7 +5666,13 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "new"
+        "estimatedStatus": "new",
+        "has2016data": "0",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "cra-wri": {
         "uniqueId": "cra-wri",
@@ -4384,7 +5692,13 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "completed"
+        "estimatedStatus": "completed",
+        "has2016data": "1",
+        "has2019data": "0",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "csc-cmms": {
         "uniqueId": "csc-cmms",
@@ -4404,7 +5718,13 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "completed"
+        "estimatedStatus": "completed",
+        "has2016data": "1",
+        "has2019data": "0",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "csc-corcan": {
         "uniqueId": "csc-corcan",
@@ -4424,7 +5744,13 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "new"
+        "estimatedStatus": "new",
+        "has2016data": "0",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "csc-dr": {
         "uniqueId": "csc-dr",
@@ -4444,7 +5770,13 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "new"
+        "estimatedStatus": "new",
+        "has2016data": "0",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "csc-e-discovery": {
         "uniqueId": "csc-e-discovery",
@@ -4464,13 +5796,19 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "new"
+        "estimatedStatus": "new",
+        "has2016data": "0",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "csc-emar": {
         "uniqueId": "csc-emar",
         "deptAcronym": "csc",
         "department": "Correctional Service Canada",
-        "projectName": "Offender Health Information System - Electronic Medication Administration Record",
+        "projectName": "Offender Health Information System Electronic Medication Administration Record",
         "projectDescription2016": "",
         "projectDescription2019": "Offender Health Information System - Electronic Medication Administration Record (EMAR) System - System that will provide a national solution to support the nursing staff to meet their professional and legal responsibilities in documenting when a medication is administered to a patient.",
         "totalBudget2016": "",
@@ -4484,7 +5822,13 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "new"
+        "estimatedStatus": "new",
+        "has2016data": "0",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "csc-emrp": {
         "uniqueId": "csc-emrp",
@@ -4504,7 +5848,13 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "completed"
+        "estimatedStatus": "completed",
+        "has2016data": "1",
+        "has2019data": "0",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "csc-engagement-portal": {
         "uniqueId": "csc-engagement-portal",
@@ -4524,7 +5874,13 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "new"
+        "estimatedStatus": "new",
+        "has2016data": "0",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "csc-fms": {
         "uniqueId": "csc-fms",
@@ -4544,7 +5900,13 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "new"
+        "estimatedStatus": "new",
+        "has2016data": "0",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "1",
+        "isOver100m2019": "0"
     },
     "csc-forms": {
         "uniqueId": "csc-forms",
@@ -4564,7 +5926,13 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "new"
+        "estimatedStatus": "new",
+        "has2016data": "0",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "csc-fsims": {
         "uniqueId": "csc-fsims",
@@ -4584,7 +5952,13 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "completed"
+        "estimatedStatus": "completed",
+        "has2016data": "1",
+        "has2019data": "0",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "csc-gcdocs-network": {
         "uniqueId": "csc-gcdocs-network",
@@ -4604,7 +5978,13 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "new"
+        "estimatedStatus": "new",
+        "has2016data": "0",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "csc-hrms-pay-system": {
         "uniqueId": "csc-hrms-pay-system",
@@ -4624,7 +6004,13 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "completed"
+        "estimatedStatus": "completed",
+        "has2016data": "1",
+        "has2019data": "0",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "csc-hrms-reporting": {
         "uniqueId": "csc-hrms-reporting",
@@ -4644,7 +6030,13 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "completed"
+        "estimatedStatus": "completed",
+        "has2016data": "1",
+        "has2019data": "0",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "csc-ierp": {
         "uniqueId": "csc-ierp",
@@ -4664,7 +6056,13 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "new"
+        "estimatedStatus": "new",
+        "has2016data": "0",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "csc-iicm": {
         "uniqueId": "csc-iicm",
@@ -4684,7 +6082,13 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "new"
+        "estimatedStatus": "new",
+        "has2016data": "0",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "csc-mygchr": {
         "uniqueId": "csc-mygchr",
@@ -4704,7 +6108,13 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "unknown"
+        "estimatedStatus": "unknown (past due)",
+        "has2016data": "1",
+        "has2019data": "0",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "csc-omsr": {
         "uniqueId": "csc-omsr",
@@ -4724,7 +6134,13 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "new"
+        "estimatedStatus": "new",
+        "has2016data": "0",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "1",
+        "isOver100m2019": "0"
     },
     "csc-omsr-transition": {
         "uniqueId": "csc-omsr-transition",
@@ -4744,7 +6160,13 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "new"
+        "estimatedStatus": "new",
+        "has2016data": "0",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "1",
+        "isOver100m2019": "0"
     },
     "csc-sap-migration": {
         "uniqueId": "csc-sap-migration",
@@ -4764,7 +6186,13 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "new"
+        "estimatedStatus": "unknown (no dates specified)",
+        "has2016data": "1",
+        "has2019data": "0",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "csc-sharepoint": {
         "uniqueId": "csc-sharepoint",
@@ -4784,7 +6212,13 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "new"
+        "estimatedStatus": "new",
+        "has2016data": "0",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "csc-wlm": {
         "uniqueId": "csc-wlm",
@@ -4804,7 +6238,13 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "completed"
+        "estimatedStatus": "completed",
+        "has2016data": "1",
+        "has2019data": "0",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "cta-cms": {
         "uniqueId": "cta-cms",
@@ -4824,7 +6264,13 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "new"
+        "estimatedStatus": "new",
+        "has2016data": "0",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "dfo-ams": {
         "uniqueId": "dfo-ams",
@@ -4844,7 +6290,13 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "new"
+        "estimatedStatus": "new",
+        "has2016data": "0",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "dfo-aquiis": {
         "uniqueId": "dfo-aquiis",
@@ -4864,7 +6316,13 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "new"
+        "estimatedStatus": "new",
+        "has2016data": "0",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "dfo-ces": {
         "uniqueId": "dfo-ces",
@@ -4884,7 +6342,13 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "new"
+        "estimatedStatus": "new",
+        "has2016data": "0",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "dfo-cg-ari": {
         "uniqueId": "dfo-cg-ari",
@@ -4904,7 +6368,13 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "unknown"
+        "estimatedStatus": "unknown (past due)",
+        "has2016data": "1",
+        "has2019data": "0",
+        "isOver10m2016": "1",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "dfo-cpmo": {
         "uniqueId": "dfo-cpmo",
@@ -4924,7 +6394,13 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "new"
+        "estimatedStatus": "new",
+        "has2016data": "0",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "dfo-csap": {
         "uniqueId": "dfo-csap",
@@ -4944,7 +6420,13 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "new"
+        "estimatedStatus": "new",
+        "has2016data": "0",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "dfo-ecdis": {
         "uniqueId": "dfo-ecdis",
@@ -4964,7 +6446,13 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "new"
+        "estimatedStatus": "new",
+        "has2016data": "0",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "1",
+        "isOver100m2019": "0"
     },
     "dfo-ffs": {
         "uniqueId": "dfo-ffs",
@@ -4984,7 +6472,13 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "new"
+        "estimatedStatus": "new",
+        "has2016data": "0",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "dfo-fhmsi-cf": {
         "uniqueId": "dfo-fhmsi-cf",
@@ -5004,7 +6498,13 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "new"
+        "estimatedStatus": "new",
+        "has2016data": "0",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "dfo-gcdocs": {
         "uniqueId": "dfo-gcdocs",
@@ -5024,7 +6524,13 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "new"
+        "estimatedStatus": "new",
+        "has2016data": "0",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "dfo-ics": {
         "uniqueId": "dfo-ics",
@@ -5044,7 +6550,13 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "new"
+        "estimatedStatus": "new",
+        "has2016data": "0",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "dfo-msu": {
         "uniqueId": "dfo-msu",
@@ -5064,7 +6576,13 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "new"
+        "estimatedStatus": "new",
+        "has2016data": "0",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "dfo-tadap": {
         "uniqueId": "dfo-tadap",
@@ -5084,7 +6602,13 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "new"
+        "estimatedStatus": "new",
+        "has2016data": "0",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "dfo-wctss": {
         "uniqueId": "dfo-wctss",
@@ -5104,7 +6628,13 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "new"
+        "estimatedStatus": "new",
+        "has2016data": "0",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "dnd-adsu-bcs": {
         "uniqueId": "dnd-adsu-bcs",
@@ -5124,7 +6654,13 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "completed"
+        "estimatedStatus": "completed",
+        "has2016data": "1",
+        "has2019data": "0",
+        "isOver10m2016": "1",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "dnd-advacc": {
         "uniqueId": "dnd-advacc",
@@ -5144,7 +6680,13 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "new"
+        "estimatedStatus": "new",
+        "has2016data": "0",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "dnd-agarr": {
         "uniqueId": "dnd-agarr",
@@ -5164,7 +6706,13 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "new"
+        "estimatedStatus": "new",
+        "has2016data": "0",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "dnd-aurora-blsp": {
         "uniqueId": "dnd-aurora-blsp",
@@ -5184,7 +6732,13 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "unknown"
+        "estimatedStatus": "unknown (past due)",
+        "has2016data": "1",
+        "has2019data": "0",
+        "isOver10m2016": "1",
+        "isOver100m2016": "1",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "dnd-c2": {
         "uniqueId": "dnd-c2",
@@ -5204,13 +6758,19 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "new"
+        "estimatedStatus": "new",
+        "has2016data": "0",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "dnd-caf-cloud-cpc": {
         "uniqueId": "dnd-caf-cloud-cpc",
         "deptAcronym": "dnd",
         "department": "National Defence",
-        "projectName": "CAF Cloud Programme - Proof of Concept",
+        "projectName": "CAF Cloud Programme Proof of Concept",
         "projectDescription2016": "",
         "projectDescription2019": "CAF Cloud Programme - Proof of Concept: The DND\/CAF Cloud Pilot Centre is a new requirement that will serve as a hybrid cloud service available to DND projects to effectively run prototypes, proof of concepts, experimentations, and innovative technology testing.",
         "totalBudget2016": "",
@@ -5224,13 +6784,19 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "new"
+        "estimatedStatus": "new",
+        "has2016data": "0",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "dnd-caf-cloud-css": {
         "uniqueId": "dnd-caf-cloud-css",
         "deptAcronym": "dnd",
         "department": "National Defence",
-        "projectName": "CAF Cloud Programme - Cloud Security Services",
+        "projectName": "CAF Cloud Programme Cloud Security Services",
         "projectDescription2016": "",
         "projectDescription2019": "CAF Cloud Program - Cloud Security Services will provide security architecture and engineering guidance, documentation and a Proof of Concept (PoC) implementation of the security controls and services necessary to allow the DND\/CAF to adopt Public and Private Cloud technology in a secure manner.",
         "totalBudget2016": "",
@@ -5244,13 +6810,19 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "new"
+        "estimatedStatus": "new",
+        "has2016data": "0",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "dnd-caf-cloud-dte": {
         "uniqueId": "dnd-caf-cloud-dte",
         "deptAcronym": "dnd",
         "department": "National Defence",
-        "projectName": "CAF Cloud Programme - Private Cloud Development & Testing Environment (Lab)",
+        "projectName": "CAF Cloud Programme Private Cloud Development & Testing Environment (Lab)",
         "projectDescription2016": "",
         "projectDescription2019": "CAF Cloud Program - Priv1:1te Cloud DeveloQment & Testing Environment (Lab) will allow easy access to a set of Private Cloud capabilities to meet the needs for test and development users and workloads.",
         "totalBudget2016": "",
@@ -5264,13 +6836,19 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "new"
+        "estimatedStatus": "new",
+        "has2016data": "0",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "dnd-caf-cloud-o365": {
         "uniqueId": "dnd-caf-cloud-o365",
         "deptAcronym": "dnd",
         "department": "National Defence",
-        "projectName": "CAF Cloud Programme - Microsoft Office 365",
+        "projectName": "CAF Cloud Programme Microsoft Office 365",
         "projectDescription2016": "",
         "projectDescription2019": "CAF Cloud Program - Microsoft Office 365 is being positioned to conduct a proof of concept and produce architectural and design artifacts for Software as a Service (SaaS) in general as well as report on the business value of pursuing Microsoft 0365 deliverables upon completion. The project will contribute to the goals of providing Saas to mobile and remote users while maintaining on-premises level of access and contributes to the overall Cloud strategy.",
         "totalBudget2016": "",
@@ -5284,13 +6862,19 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "new"
+        "estimatedStatus": "new",
+        "has2016data": "0",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "dnd-caf-cloud-pcf": {
         "uniqueId": "dnd-caf-cloud-pcf",
         "deptAcronym": "dnd",
         "department": "National Defence",
-        "projectName": "CAF Cloud Programme - DND\/CAF Public Cloud Foundation",
+        "projectName": "CAF Cloud Programme DND\/CAF Public Cloud Foundation",
         "projectDescription2016": "",
         "projectDescription2019": "CAF Cloud Progrl;]m - DND\/CAF Public Cloud Foundajion will enable the DND\/CAF to begin consuming Public Cloud and allow ONO to access applications and services that are housed in external data centres (i.e. not housed on DND premises).",
         "totalBudget2016": "",
@@ -5304,7 +6888,13 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "new"
+        "estimatedStatus": "new",
+        "has2016data": "0",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "dnd-ccmp": {
         "uniqueId": "dnd-ccmp",
@@ -5324,7 +6914,13 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "new"
+        "estimatedStatus": "new",
+        "has2016data": "0",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "1",
+        "isOver100m2019": "0"
     },
     "dnd-cdsc-access": {
         "uniqueId": "dnd-cdsc-access",
@@ -5344,7 +6940,13 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "new"
+        "estimatedStatus": "new",
+        "has2016data": "0",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "dnd-cf-ewc-dr": {
         "uniqueId": "dnd-cf-ewc-dr",
@@ -5364,7 +6966,13 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "unknown"
+        "estimatedStatus": "unknown (past due)",
+        "has2016data": "1",
+        "has2019data": "0",
+        "isOver10m2016": "1",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "dnd-cf-ewc-lsou": {
         "uniqueId": "dnd-cf-ewc-lsou",
@@ -5384,7 +6992,13 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "new"
+        "estimatedStatus": "new",
+        "has2016data": "0",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "dnd-chrcp": {
         "uniqueId": "dnd-chrcp",
@@ -5404,7 +7018,13 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "completed"
+        "estimatedStatus": "completed",
+        "has2016data": "1",
+        "has2019data": "0",
+        "isOver10m2016": "1",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "dnd-cjim": {
         "uniqueId": "dnd-cjim",
@@ -5424,7 +7044,13 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "unknown"
+        "estimatedStatus": "unknown (past due)",
+        "has2016data": "1",
+        "has2019data": "0",
+        "isOver10m2016": "1",
+        "isOver100m2016": "1",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "dnd-cs-dpac": {
         "uniqueId": "dnd-cs-dpac",
@@ -5444,7 +7070,13 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "new"
+        "estimatedStatus": "new",
+        "has2016data": "0",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "dnd-cs-training": {
         "uniqueId": "dnd-cs-training",
@@ -5464,7 +7096,13 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "new"
+        "estimatedStatus": "new",
+        "has2016data": "0",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "dnd-csa": {
         "uniqueId": "dnd-csa",
@@ -5484,7 +7122,13 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "unknown"
+        "estimatedStatus": "unknown (past due)",
+        "has2016data": "1",
+        "has2019data": "0",
+        "isOver10m2016": "1",
+        "isOver100m2016": "1",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "dnd-cse-ccmp": {
         "uniqueId": "dnd-cse-ccmp",
@@ -5504,7 +7148,13 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "unknown"
+        "estimatedStatus": "unknown (past due)",
+        "has2016data": "1",
+        "has2019data": "0",
+        "isOver10m2016": "1",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "dnd-cse-csmi-2a": {
         "uniqueId": "dnd-cse-csmi-2a",
@@ -5524,7 +7174,13 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "completed"
+        "estimatedStatus": "completed",
+        "has2016data": "1",
+        "has2019data": "0",
+        "isOver10m2016": "1",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "dnd-cse-ctsn": {
         "uniqueId": "dnd-cse-ctsn",
@@ -5544,7 +7200,13 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "completed"
+        "estimatedStatus": "completed",
+        "has2016data": "1",
+        "has2019data": "0",
+        "isOver10m2016": "1",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "dnd-csmi-2b": {
         "uniqueId": "dnd-csmi-2b",
@@ -5564,7 +7226,13 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "unknown"
+        "estimatedStatus": "unknown (past due)",
+        "has2016data": "1",
+        "has2019data": "0",
+        "isOver10m2016": "1",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "dnd-csni-bcr": {
         "uniqueId": "dnd-csni-bcr",
@@ -5584,7 +7252,13 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "new"
+        "estimatedStatus": "new",
+        "has2016data": "0",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "dnd-csni-enmm": {
         "uniqueId": "dnd-csni-enmm",
@@ -5604,7 +7278,13 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "new"
+        "estimatedStatus": "new",
+        "has2016data": "0",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "dnd-csni-esh": {
         "uniqueId": "dnd-csni-esh",
@@ -5624,7 +7304,13 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "completed"
+        "estimatedStatus": "completed",
+        "has2016data": "1",
+        "has2019data": "0",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "dnd-ctdc-cm": {
         "uniqueId": "dnd-ctdc-cm",
@@ -5644,7 +7330,13 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "new"
+        "estimatedStatus": "new",
+        "has2016data": "0",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "dnd-ctdc-crzi": {
         "uniqueId": "dnd-ctdc-crzi",
@@ -5664,7 +7356,13 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "new"
+        "estimatedStatus": "new",
+        "has2016data": "0",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "dnd-ctdc-ilirc": {
         "uniqueId": "dnd-ctdc-ilirc",
@@ -5684,7 +7382,13 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "new"
+        "estimatedStatus": "new",
+        "has2016data": "0",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "dnd-ctdc-lir-carling": {
         "uniqueId": "dnd-ctdc-lir-carling",
@@ -5704,7 +7408,13 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "new"
+        "estimatedStatus": "new",
+        "has2016data": "0",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "dnd-ctdc-nsx": {
         "uniqueId": "dnd-ctdc-nsx",
@@ -5724,7 +7434,13 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "new"
+        "estimatedStatus": "new",
+        "has2016data": "0",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "dnd-cwan": {
         "uniqueId": "dnd-cwan",
@@ -5744,7 +7460,13 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "new"
+        "estimatedStatus": "new",
+        "has2016data": "0",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "dnd-dbcim": {
         "uniqueId": "dnd-dbcim",
@@ -5764,7 +7486,13 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "completed"
+        "estimatedStatus": "completed",
+        "has2016data": "1",
+        "has2019data": "0",
+        "isOver10m2016": "1",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "dnd-dccai": {
         "uniqueId": "dnd-dccai",
@@ -5784,7 +7512,13 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "completed"
+        "estimatedStatus": "completed",
+        "has2016data": "1",
+        "has2019data": "0",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "dnd-dcmp-iff": {
         "uniqueId": "dnd-dcmp-iff",
@@ -5804,7 +7538,13 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "completed"
+        "estimatedStatus": "completed",
+        "has2016data": "1",
+        "has2019data": "0",
+        "isOver10m2016": "1",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "dnd-dcmp-nef": {
         "uniqueId": "dnd-dcmp-nef",
@@ -5824,7 +7564,13 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "completed"
+        "estimatedStatus": "completed",
+        "has2016data": "1",
+        "has2019data": "0",
+        "isOver10m2016": "1",
+        "isOver100m2016": "1",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "dnd-dcmp-omnibus": {
         "uniqueId": "dnd-dcmp-omnibus",
@@ -5844,7 +7590,13 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "unknown"
+        "estimatedStatus": "unknown (past due)",
+        "has2016data": "1",
+        "has2019data": "0",
+        "isOver10m2016": "1",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "dnd-dcmp-sr": {
         "uniqueId": "dnd-dcmp-sr",
@@ -5864,7 +7616,13 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "unknown"
+        "estimatedStatus": "unknown (past due)",
+        "has2016data": "1",
+        "has2019data": "0",
+        "isOver10m2016": "1",
+        "isOver100m2016": "1",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "dnd-dco-ds": {
         "uniqueId": "dnd-dco-ds",
@@ -5884,7 +7642,13 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "unknown"
+        "estimatedStatus": "unknown (past due)",
+        "has2016data": "1",
+        "has2019data": "0",
+        "isOver10m2016": "1",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "dnd-dcss": {
         "uniqueId": "dnd-dcss",
@@ -5904,7 +7668,13 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "unknown"
+        "estimatedStatus": "unknown (past due)",
+        "has2016data": "1",
+        "has2019data": "0",
+        "isOver10m2016": "1",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "dnd-dlls": {
         "uniqueId": "dnd-dlls",
@@ -5924,7 +7694,13 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "new"
+        "estimatedStatus": "new",
+        "has2016data": "0",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "dnd-drmis": {
         "uniqueId": "dnd-drmis",
@@ -5944,7 +7720,13 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "new"
+        "estimatedStatus": "new",
+        "has2016data": "0",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "dnd-drmis-grc": {
         "uniqueId": "dnd-drmis-grc",
@@ -5964,7 +7746,13 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "new"
+        "estimatedStatus": "new",
+        "has2016data": "0",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "dnd-drmis-sip": {
         "uniqueId": "dnd-drmis-sip",
@@ -5984,7 +7772,13 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "new"
+        "estimatedStatus": "new",
+        "has2016data": "0",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "dnd-drmis-sso": {
         "uniqueId": "dnd-drmis-sso",
@@ -6004,7 +7798,13 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "new"
+        "estimatedStatus": "new",
+        "has2016data": "0",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "dnd-dse-fle": {
         "uniqueId": "dnd-dse-fle",
@@ -6024,7 +7824,13 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "new"
+        "estimatedStatus": "new",
+        "has2016data": "0",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "dnd-ebi": {
         "uniqueId": "dnd-ebi",
@@ -6044,7 +7850,13 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "completed"
+        "estimatedStatus": "completed",
+        "has2016data": "1",
+        "has2019data": "0",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "dnd-esmdp-1": {
         "uniqueId": "dnd-esmdp-1",
@@ -6064,7 +7876,13 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "new"
+        "estimatedStatus": "new",
+        "has2016data": "0",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "dnd-esmdp-2": {
         "uniqueId": "dnd-esmdp-2",
@@ -6084,7 +7902,13 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "new"
+        "estimatedStatus": "new",
+        "has2016data": "0",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "dnd-gcdocs": {
         "uniqueId": "dnd-gcdocs",
@@ -6104,7 +7928,13 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "completed"
+        "estimatedStatus": "completed",
+        "has2016data": "1",
+        "has2019data": "0",
+        "isOver10m2016": "1",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "dnd-hadcs": {
         "uniqueId": "dnd-hadcs",
@@ -6124,7 +7954,13 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "completed"
+        "estimatedStatus": "completed",
+        "has2016data": "1",
+        "has2019data": "0",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "dnd-hadcs-skullpoint": {
         "uniqueId": "dnd-hadcs-skullpoint",
@@ -6144,7 +7980,13 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "new"
+        "estimatedStatus": "new",
+        "has2016data": "0",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "dnd-hfae": {
         "uniqueId": "dnd-hfae",
@@ -6164,7 +8006,13 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "completed"
+        "estimatedStatus": "completed",
+        "has2016data": "1",
+        "has2019data": "0",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "dnd-hfaeu": {
         "uniqueId": "dnd-hfaeu",
@@ -6184,7 +8032,13 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "new"
+        "estimatedStatus": "new",
+        "has2016data": "0",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "dnd-hfru": {
         "uniqueId": "dnd-hfru",
@@ -6204,7 +8058,13 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "completed"
+        "estimatedStatus": "completed",
+        "has2016data": "1",
+        "has2019data": "0",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "dnd-hrrsd": {
         "uniqueId": "dnd-hrrsd",
@@ -6224,7 +8084,13 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "new"
+        "estimatedStatus": "new",
+        "has2016data": "0",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "dnd-hyperion": {
         "uniqueId": "dnd-hyperion",
@@ -6244,7 +8110,13 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "completed"
+        "estimatedStatus": "completed",
+        "has2016data": "1",
+        "has2019data": "0",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "dnd-iebmp": {
         "uniqueId": "dnd-iebmp",
@@ -6264,7 +8136,13 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "completed"
+        "estimatedStatus": "completed",
+        "has2016data": "1",
+        "has2019data": "0",
+        "isOver10m2016": "1",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "dnd-ieg": {
         "uniqueId": "dnd-ieg",
@@ -6284,7 +8162,13 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "new"
+        "estimatedStatus": "new",
+        "has2016data": "0",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "dnd-iti": {
         "uniqueId": "dnd-iti",
@@ -6304,7 +8188,13 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "new"
+        "estimatedStatus": "new",
+        "has2016data": "0",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "dnd-itsm": {
         "uniqueId": "dnd-itsm",
@@ -6324,7 +8214,13 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "completed"
+        "estimatedStatus": "completed",
+        "has2016data": "1",
+        "has2019data": "0",
+        "isOver10m2016": "1",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "dnd-itsm-password": {
         "uniqueId": "dnd-itsm-password",
@@ -6344,7 +8240,13 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "new"
+        "estimatedStatus": "new",
+        "has2016data": "0",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "dnd-jdhsrm": {
         "uniqueId": "dnd-jdhsrm",
@@ -6364,7 +8266,13 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "unknown"
+        "estimatedStatus": "unknown (past due)",
+        "has2016data": "1",
+        "has2019data": "0",
+        "isOver10m2016": "1",
+        "isOver100m2016": "1",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "dnd-jiifc": {
         "uniqueId": "dnd-jiifc",
@@ -6384,7 +8292,13 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "completed"
+        "estimatedStatus": "completed",
+        "has2016data": "1",
+        "has2019data": "0",
+        "isOver10m2016": "1",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "dnd-jta": {
         "uniqueId": "dnd-jta",
@@ -6404,7 +8318,13 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "new"
+        "estimatedStatus": "new",
+        "has2016data": "0",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "dnd-lcss-itie": {
         "uniqueId": "dnd-lcss-itie",
@@ -6424,7 +8344,13 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "completed"
+        "estimatedStatus": "completed",
+        "has2016data": "1",
+        "has2019data": "0",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "dnd-lcss-lep": {
         "uniqueId": "dnd-lcss-lep",
@@ -6444,7 +8370,13 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "unknown"
+        "estimatedStatus": "unknown (past due)",
+        "has2016data": "1",
+        "has2019data": "0",
+        "isOver10m2016": "1",
+        "isOver100m2016": "1",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "dnd-lcss-srm": {
         "uniqueId": "dnd-lcss-srm",
@@ -6464,7 +8396,13 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "unknown"
+        "estimatedStatus": "unknown (past due)",
+        "has2016data": "1",
+        "has2019data": "0",
+        "isOver10m2016": "1",
+        "isOver100m2016": "1",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "dnd-lcss-tccism": {
         "uniqueId": "dnd-lcss-tccism",
@@ -6484,7 +8422,13 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "unknown"
+        "estimatedStatus": "unknown (past due)",
+        "has2016data": "1",
+        "has2019data": "0",
+        "isOver10m2016": "1",
+        "isOver100m2016": "1",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "dnd-masis": {
         "uniqueId": "dnd-masis",
@@ -6504,7 +8448,13 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "completed"
+        "estimatedStatus": "completed",
+        "has2016data": "1",
+        "has2019data": "0",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "dnd-mcc-se": {
         "uniqueId": "dnd-mcc-se",
@@ -6524,7 +8474,13 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "completed"
+        "estimatedStatus": "completed",
+        "has2016data": "1",
+        "has2019data": "0",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "dnd-meosar": {
         "uniqueId": "dnd-meosar",
@@ -6544,7 +8500,13 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "unknown"
+        "estimatedStatus": "unknown (past due)",
+        "has2016data": "1",
+        "has2019data": "0",
+        "isOver10m2016": "1",
+        "isOver100m2016": "1",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "dnd-mercury-global": {
         "uniqueId": "dnd-mercury-global",
@@ -6564,7 +8526,13 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "completed"
+        "estimatedStatus": "completed",
+        "has2016data": "1",
+        "has2019data": "0",
+        "isOver10m2016": "1",
+        "isOver100m2016": "1",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "dnd-mpmct": {
         "uniqueId": "dnd-mpmct",
@@ -6584,7 +8552,13 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "unknown"
+        "estimatedStatus": "unknown (past due)",
+        "has2016data": "1",
+        "has2019data": "0",
+        "isOver10m2016": "1",
+        "isOver100m2016": "1",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "dnd-mprp": {
         "uniqueId": "dnd-mprp",
@@ -6604,7 +8578,13 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "completed"
+        "estimatedStatus": "completed",
+        "has2016data": "1",
+        "has2019data": "0",
+        "isOver10m2016": "1",
+        "isOver100m2016": "1",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "dnd-msmu-s": {
         "uniqueId": "dnd-msmu-s",
@@ -6624,7 +8604,13 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "completed"
+        "estimatedStatus": "completed",
+        "has2016data": "1",
+        "has2019data": "0",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "dnd-nccisac": {
         "uniqueId": "dnd-nccisac",
@@ -6644,7 +8630,13 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "unknown"
+        "estimatedStatus": "unknown (past due)",
+        "has2016data": "1",
+        "has2019data": "0",
+        "isOver10m2016": "1",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "dnd-ndpr": {
         "uniqueId": "dnd-ndpr",
@@ -6664,7 +8656,13 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "new"
+        "estimatedStatus": "new",
+        "has2016data": "0",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "dnd-nrs-esquimalt": {
         "uniqueId": "dnd-nrs-esquimalt",
@@ -6684,7 +8682,13 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "new"
+        "estimatedStatus": "new",
+        "has2016data": "0",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "dnd-nrs-rms": {
         "uniqueId": "dnd-nrs-rms",
@@ -6704,7 +8708,13 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "new"
+        "estimatedStatus": "new",
+        "has2016data": "0",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "dnd-nsmu-m": {
         "uniqueId": "dnd-nsmu-m",
@@ -6724,7 +8734,13 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "completed"
+        "estimatedStatus": "completed",
+        "has2016data": "1",
+        "has2019data": "0",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "dnd-pki": {
         "uniqueId": "dnd-pki",
@@ -6744,7 +8760,13 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "new"
+        "estimatedStatus": "new",
+        "has2016data": "0",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "dnd-pmsc": {
         "uniqueId": "dnd-pmsc",
@@ -6764,7 +8786,13 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "unknown"
+        "estimatedStatus": "unknown (past due)",
+        "has2016data": "1",
+        "has2019data": "0",
+        "isOver10m2016": "1",
+        "isOver100m2016": "1",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "dnd-poe-san": {
         "uniqueId": "dnd-poe-san",
@@ -6784,7 +8812,13 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "completed"
+        "estimatedStatus": "completed",
+        "has2016data": "1",
+        "has2019data": "0",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "dnd-polar-epsilon": {
         "uniqueId": "dnd-polar-epsilon",
@@ -6804,7 +8838,13 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "completed"
+        "estimatedStatus": "completed",
+        "has2016data": "1",
+        "has2019data": "0",
+        "isOver10m2016": "1",
+        "isOver100m2016": "1",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "dnd-project-firehose": {
         "uniqueId": "dnd-project-firehose",
@@ -6824,7 +8864,13 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "new"
+        "estimatedStatus": "new",
+        "has2016data": "0",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "dnd-sarmmsrp": {
         "uniqueId": "dnd-sarmmsrp",
@@ -6844,7 +8890,13 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "unknown"
+        "estimatedStatus": "unknown (past due)",
+        "has2016data": "1",
+        "has2019data": "0",
+        "isOver10m2016": "1",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "dnd-sarsat-sarr": {
         "uniqueId": "dnd-sarsat-sarr",
@@ -6864,7 +8916,13 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "unknown"
+        "estimatedStatus": "unknown (past due)",
+        "has2016data": "1",
+        "has2019data": "0",
+        "isOver10m2016": "1",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "dnd-sccmd": {
         "uniqueId": "dnd-sccmd",
@@ -6884,7 +8942,13 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "new"
+        "estimatedStatus": "new",
+        "has2016data": "0",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "dnd-schp": {
         "uniqueId": "dnd-schp",
@@ -6904,7 +8968,13 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "completed"
+        "estimatedStatus": "completed",
+        "has2016data": "1",
+        "has2019data": "0",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "dnd-scnl": {
         "uniqueId": "dnd-scnl",
@@ -6924,7 +8994,13 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "new"
+        "estimatedStatus": "new",
+        "has2016data": "0",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "dnd-secure-tablet": {
         "uniqueId": "dnd-secure-tablet",
@@ -6944,7 +9020,13 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "new"
+        "estimatedStatus": "new",
+        "has2016data": "0",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "dnd-sev-cste": {
         "uniqueId": "dnd-sev-cste",
@@ -6964,7 +9046,13 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "new"
+        "estimatedStatus": "new",
+        "has2016data": "0",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "dnd-ss-2": {
         "uniqueId": "dnd-ss-2",
@@ -6984,7 +9072,13 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "unknown"
+        "estimatedStatus": "unknown (past due)",
+        "has2016data": "1",
+        "has2019data": "0",
+        "isOver10m2016": "1",
+        "isOver100m2016": "1",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "dnd-tcds-nato": {
         "uniqueId": "dnd-tcds-nato",
@@ -7004,7 +9098,13 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "new"
+        "estimatedStatus": "new",
+        "has2016data": "0",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "dnd-ticcc": {
         "uniqueId": "dnd-ticcc",
@@ -7024,7 +9124,13 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "unknown"
+        "estimatedStatus": "unknown (past due)",
+        "has2016data": "1",
+        "has2019data": "0",
+        "isOver10m2016": "1",
+        "isOver100m2016": "1",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "dnd-tnsc": {
         "uniqueId": "dnd-tnsc",
@@ -7044,7 +9150,13 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "unknown"
+        "estimatedStatus": "unknown (past due)",
+        "has2016data": "1",
+        "has2019data": "0",
+        "isOver10m2016": "1",
+        "isOver100m2016": "1",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "dnd-wan": {
         "uniqueId": "dnd-wan",
@@ -7064,7 +9176,13 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "new"
+        "estimatedStatus": "new",
+        "has2016data": "0",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "eccc-climate-archive": {
         "uniqueId": "eccc-climate-archive",
@@ -7084,7 +9202,13 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "new"
+        "estimatedStatus": "new",
+        "has2016data": "0",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "eccc-cnmts": {
         "uniqueId": "eccc-cnmts",
@@ -7104,7 +9228,13 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "new"
+        "estimatedStatus": "new",
+        "has2016data": "0",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "1",
+        "isOver100m2019": "0"
     },
     "eccc-edrms": {
         "uniqueId": "eccc-edrms",
@@ -7124,7 +9254,13 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "new"
+        "estimatedStatus": "new",
+        "has2016data": "0",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "1",
+        "isOver100m2019": "0"
     },
     "eccc-gcems": {
         "uniqueId": "eccc-gcems",
@@ -7144,7 +9280,13 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "new"
+        "estimatedStatus": "new",
+        "has2016data": "0",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "eccc-lcef": {
         "uniqueId": "eccc-lcef",
@@ -7164,7 +9306,13 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "new"
+        "estimatedStatus": "new",
+        "has2016data": "0",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "eccc-mdmer": {
         "uniqueId": "eccc-mdmer",
@@ -7184,7 +9332,13 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "new"
+        "estimatedStatus": "new",
+        "has2016data": "0",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "eccc-msapr": {
         "uniqueId": "eccc-msapr",
@@ -7204,7 +9358,13 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "new"
+        "estimatedStatus": "new",
+        "has2016data": "0",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "eccc-mygchr": {
         "uniqueId": "eccc-mygchr",
@@ -7224,7 +9384,13 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "completed"
+        "estimatedStatus": "completed",
+        "has2016data": "1",
+        "has2019data": "0",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "eccc-next-gen-forecast": {
         "uniqueId": "eccc-next-gen-forecast",
@@ -7244,7 +9410,13 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "new"
+        "estimatedStatus": "new",
+        "has2016data": "0",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "eccc-obps-cfs": {
         "uniqueId": "eccc-obps-cfs",
@@ -7264,7 +9436,13 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "new"
+        "estimatedStatus": "new",
+        "has2016data": "0",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "eccc-veerr": {
         "uniqueId": "eccc-veerr",
@@ -7284,7 +9462,13 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "new"
+        "estimatedStatus": "new",
+        "has2016data": "0",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "esdc-a11y-compliance": {
         "uniqueId": "esdc-a11y-compliance",
@@ -7304,7 +9488,13 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "completed"
+        "estimatedStatus": "completed",
+        "has2016data": "1",
+        "has2019data": "0",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "esdc-apm-1": {
         "uniqueId": "esdc-apm-1",
@@ -7324,7 +9514,13 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "new"
+        "estimatedStatus": "new",
+        "has2016data": "0",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "esdc-apm-2": {
         "uniqueId": "esdc-apm-2",
@@ -7344,7 +9540,13 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "new"
+        "estimatedStatus": "new",
+        "has2016data": "0",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "esdc-bctesp": {
         "uniqueId": "esdc-bctesp",
@@ -7364,7 +9566,13 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "completed"
+        "estimatedStatus": "completed",
+        "has2016data": "1",
+        "has2019data": "0",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "esdc-bdm-pp": {
         "uniqueId": "esdc-bdm-pp",
@@ -7384,7 +9592,13 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "unknown"
+        "estimatedStatus": "unknown (past due)",
+        "has2016data": "1",
+        "has2019data": "0",
+        "isOver10m2016": "1",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "esdc-bs-lmi": {
         "uniqueId": "esdc-bs-lmi",
@@ -7404,7 +9618,13 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "new"
+        "estimatedStatus": "new",
+        "has2016data": "0",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "esdc-cc-newsroom": {
         "uniqueId": "esdc-cc-newsroom",
@@ -7424,7 +9644,13 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "completed"
+        "estimatedStatus": "completed",
+        "has2016data": "1",
+        "has2019data": "0",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "esdc-cctr": {
         "uniqueId": "esdc-cctr",
@@ -7444,13 +9670,19 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "new"
+        "estimatedStatus": "new",
+        "has2016data": "0",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "1",
+        "isOver100m2019": "0"
     },
     "esdc-cesp-ams": {
         "uniqueId": "esdc-cesp-ams",
         "deptAcronym": "esdc",
         "department": "Employment and Social Development Canada",
-        "projectName": "Canada Education Savings PRogram Analytical and Monitoring Solution",
+        "projectName": "Canada Education Savings Program Analytical and Monitoring Solution",
         "projectDescription2016": "",
         "projectDescription2019": "Canada Education Savings Program Analytical and Monitoring Solution {CESP\nAMS) - This proposal is about rebuttding the Canada Education Savings Program's\n(CESP) Reporting Database (RDB), to enable improved research, analysis and reporting\non Goe education savings programs, such as RESP. The objective is to improve the\nuse of lime and resources in order to meet increasing reporting and data analytics lrin-nnMn",
         "totalBudget2016": "",
@@ -7464,7 +9696,13 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "new"
+        "estimatedStatus": "new",
+        "has2016data": "0",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "esdc-cpp-c51": {
         "uniqueId": "esdc-cpp-c51",
@@ -7484,7 +9722,13 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "completed"
+        "estimatedStatus": "completed",
+        "has2016data": "1",
+        "has2019data": "0",
+        "isOver10m2016": "1",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "esdc-cpp-e": {
         "uniqueId": "esdc-cpp-e",
@@ -7504,7 +9748,13 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "new"
+        "estimatedStatus": "new",
+        "has2016data": "0",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "1",
+        "isOver100m2019": "0"
     },
     "esdc-cpp-oas-c36": {
         "uniqueId": "esdc-cpp-oas-c36",
@@ -7524,7 +9774,13 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "completed"
+        "estimatedStatus": "completed",
+        "has2016data": "1",
+        "has2019data": "0",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "esdc-cpp-ra": {
         "uniqueId": "esdc-cpp-ra",
@@ -7544,7 +9800,13 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "completed"
+        "estimatedStatus": "completed",
+        "has2016data": "1",
+        "has2019data": "0",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "esdc-cslp": {
         "uniqueId": "esdc-cslp",
@@ -7564,7 +9826,13 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "new"
+        "estimatedStatus": "new",
+        "has2016data": "0",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "esdc-cslp-cal": {
         "uniqueId": "esdc-cslp-cal",
@@ -7584,7 +9852,13 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "completed"
+        "estimatedStatus": "completed",
+        "has2016data": "1",
+        "has2019data": "0",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "esdc-daisi": {
         "uniqueId": "esdc-daisi",
@@ -7604,7 +9878,13 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "new"
+        "estimatedStatus": "new",
+        "has2016data": "0",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "esdc-dsr": {
         "uniqueId": "esdc-dsr",
@@ -7624,7 +9904,13 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "new"
+        "estimatedStatus": "new",
+        "has2016data": "0",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "1",
+        "isOver100m2019": "0"
     },
     "esdc-ecas-rp": {
         "uniqueId": "esdc-ecas-rp",
@@ -7644,7 +9930,13 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "completed"
+        "estimatedStatus": "completed",
+        "has2016data": "1",
+        "has2019data": "0",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "esdc-edrms-gcdocs": {
         "uniqueId": "esdc-edrms-gcdocs",
@@ -7664,7 +9956,13 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "completed"
+        "estimatedStatus": "completed",
+        "has2016data": "1",
+        "has2019data": "0",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "esdc-ei-2017": {
         "uniqueId": "esdc-ei-2017",
@@ -7684,7 +9982,13 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "new"
+        "estimatedStatus": "new",
+        "has2016data": "0",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "1",
+        "isOver100m2019": "0"
     },
     "esdc-ei-2018": {
         "uniqueId": "esdc-ei-2018",
@@ -7704,7 +10008,13 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "new"
+        "estimatedStatus": "new",
+        "has2016data": "0",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "esdc-eip-3": {
         "uniqueId": "esdc-eip-3",
@@ -7724,7 +10034,13 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "completed"
+        "estimatedStatus": "completed",
+        "has2016data": "1",
+        "has2019data": "0",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "esdc-entry-exit": {
         "uniqueId": "esdc-entry-exit",
@@ -7744,7 +10060,13 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "new"
+        "estimatedStatus": "new",
+        "has2016data": "0",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "esdc-esd-noc": {
         "uniqueId": "esdc-esd-noc",
@@ -7764,7 +10086,13 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "completed"
+        "estimatedStatus": "completed",
+        "has2016data": "1",
+        "has2019data": "0",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "esdc-eti": {
         "uniqueId": "esdc-eti",
@@ -7784,7 +10112,13 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "completed"
+        "estimatedStatus": "completed",
+        "has2016data": "1",
+        "has2019data": "0",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "esdc-gcm-csj": {
         "uniqueId": "esdc-gcm-csj",
@@ -7804,7 +10138,13 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "completed"
+        "estimatedStatus": "completed",
+        "has2016data": "1",
+        "has2019data": "0",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "esdc-gcs-modernization": {
         "uniqueId": "esdc-gcs-modernization",
@@ -7824,7 +10164,13 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "completed"
+        "estimatedStatus": "completed",
+        "has2016data": "1",
+        "has2019data": "0",
+        "isOver10m2016": "1",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "esdc-hccs": {
         "uniqueId": "esdc-hccs",
@@ -7844,7 +10190,13 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "completed"
+        "estimatedStatus": "completed",
+        "has2016data": "1",
+        "has2019data": "0",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "esdc-hr-cms": {
         "uniqueId": "esdc-hr-cms",
@@ -7864,7 +10216,13 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "completed"
+        "estimatedStatus": "completed",
+        "has2016data": "1",
+        "has2019data": "0",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "esdc-icm-1": {
         "uniqueId": "esdc-icm-1",
@@ -7884,7 +10242,13 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "new"
+        "estimatedStatus": "new",
+        "has2016data": "0",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "esdc-ilms": {
         "uniqueId": "esdc-ilms",
@@ -7904,7 +10268,13 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "completed"
+        "estimatedStatus": "completed",
+        "has2016data": "1",
+        "has2019data": "0",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "esdc-ipnip": {
         "uniqueId": "esdc-ipnip",
@@ -7924,7 +10294,13 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "new"
+        "estimatedStatus": "new",
+        "has2016data": "0",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "esdc-job-bank-2": {
         "uniqueId": "esdc-job-bank-2",
@@ -7944,7 +10320,13 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "completed"
+        "estimatedStatus": "completed",
+        "has2016data": "1",
+        "has2019data": "0",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "esdc-job-bank-3": {
         "uniqueId": "esdc-job-bank-3",
@@ -7964,7 +10346,13 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "new"
+        "estimatedStatus": "new",
+        "has2016data": "0",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "1",
+        "isOver100m2019": "0"
     },
     "esdc-lmda-iam": {
         "uniqueId": "esdc-lmda-iam",
@@ -7984,7 +10372,13 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "completed"
+        "estimatedStatus": "completed",
+        "has2016data": "1",
+        "has2019data": "0",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "esdc-mlamp": {
         "uniqueId": "esdc-mlamp",
@@ -8004,7 +10398,13 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "completed"
+        "estimatedStatus": "completed",
+        "has2016data": "1",
+        "has2019data": "0",
+        "isOver10m2016": "1",
+        "isOver100m2016": "1",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "esdc-msca-expansion": {
         "uniqueId": "esdc-msca-expansion",
@@ -8024,7 +10424,13 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "completed"
+        "estimatedStatus": "completed",
+        "has2016data": "1",
+        "has2019data": "0",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "esdc-msca-oracle": {
         "uniqueId": "esdc-msca-oracle",
@@ -8044,7 +10450,13 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "completed"
+        "estimatedStatus": "completed",
+        "has2016data": "1",
+        "has2019data": "0",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "esdc-noc": {
         "uniqueId": "esdc-noc",
@@ -8064,7 +10476,13 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "new"
+        "estimatedStatus": "new",
+        "has2016data": "0",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "esdc-o-canada": {
         "uniqueId": "esdc-o-canada",
@@ -8084,7 +10502,13 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "new"
+        "estimatedStatus": "new",
+        "has2016data": "0",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "1",
+        "isOver100m2019": "0"
     },
     "esdc-oars": {
         "uniqueId": "esdc-oars",
@@ -8104,7 +10528,13 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "new"
+        "estimatedStatus": "new",
+        "has2016data": "0",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "1",
+        "isOver100m2019": "0"
     },
     "esdc-pmva": {
         "uniqueId": "esdc-pmva",
@@ -8124,7 +10554,13 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "new"
+        "estimatedStatus": "new",
+        "has2016data": "0",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "esdc-qms": {
         "uniqueId": "esdc-qms",
@@ -8144,7 +10580,13 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "completed"
+        "estimatedStatus": "completed",
+        "has2016data": "1",
+        "has2019data": "0",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "esdc-sas-va": {
         "uniqueId": "esdc-sas-va",
@@ -8164,7 +10606,13 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "new"
+        "estimatedStatus": "new",
+        "has2016data": "0",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "esdc-sp": {
         "uniqueId": "esdc-sp",
@@ -8184,7 +10632,13 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "new"
+        "estimatedStatus": "new",
+        "has2016data": "0",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "esdc-sst-atrium": {
         "uniqueId": "esdc-sst-atrium",
@@ -8204,7 +10658,13 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "completed"
+        "estimatedStatus": "completed",
+        "has2016data": "1",
+        "has2019data": "0",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "feddev-gcpm": {
         "uniqueId": "feddev-gcpm",
@@ -8224,7 +10684,13 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "completed"
+        "estimatedStatus": "completed",
+        "has2016data": "1",
+        "has2019data": "0",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "gac-abw": {
         "uniqueId": "gac-abw",
@@ -8244,7 +10710,13 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "new"
+        "estimatedStatus": "new",
+        "has2016data": "0",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "1",
+        "isOver100m2019": "0"
     },
     "gac-cess": {
         "uniqueId": "gac-cess",
@@ -8264,7 +10736,13 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "completed"
+        "estimatedStatus": "completed",
+        "has2016data": "1",
+        "has2019data": "0",
+        "isOver10m2016": "1",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "gac-cosmos": {
         "uniqueId": "gac-cosmos",
@@ -8284,7 +10762,13 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "new"
+        "estimatedStatus": "new",
+        "has2016data": "0",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "gac-cppm": {
         "uniqueId": "gac-cppm",
@@ -8304,7 +10788,13 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "new"
+        "estimatedStatus": "new",
+        "has2016data": "0",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "gac-eics": {
         "uniqueId": "gac-eics",
@@ -8324,7 +10814,13 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "completed"
+        "estimatedStatus": "completed",
+        "has2016data": "1",
+        "has2019data": "0",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "gac-gcdocs": {
         "uniqueId": "gac-gcdocs",
@@ -8344,7 +10840,13 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "completed"
+        "estimatedStatus": "completed",
+        "has2016data": "1",
+        "has2019data": "0",
+        "isOver10m2016": "1",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "gac-gsnup": {
         "uniqueId": "gac-gsnup",
@@ -8364,7 +10866,13 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "completed"
+        "estimatedStatus": "completed",
+        "has2016data": "1",
+        "has2019data": "0",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "gac-ioacs": {
         "uniqueId": "gac-ioacs",
@@ -8384,7 +10892,13 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "new"
+        "estimatedStatus": "new",
+        "has2016data": "0",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "gac-les-pay-benefits": {
         "uniqueId": "gac-les-pay-benefits",
@@ -8404,7 +10918,13 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "unknown"
+        "estimatedStatus": "unknown (past due)",
+        "has2016data": "1",
+        "has2019data": "0",
+        "isOver10m2016": "1",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "gac-sap-merge": {
         "uniqueId": "gac-sap-merge",
@@ -8424,7 +10944,13 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "completed"
+        "estimatedStatus": "completed",
+        "has2016data": "1",
+        "has2019data": "0",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "gac-tc-crms": {
         "uniqueId": "gac-tc-crms",
@@ -8444,7 +10970,13 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "new"
+        "estimatedStatus": "new",
+        "has2016data": "0",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "gac-wifi": {
         "uniqueId": "gac-wifi",
@@ -8464,7 +10996,13 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "new"
+        "estimatedStatus": "new",
+        "has2016data": "0",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "hc-bm": {
         "uniqueId": "hc-bm",
@@ -8484,7 +11022,13 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "new"
+        "estimatedStatus": "new",
+        "has2016data": "0",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "hc-cms-cannabis": {
         "uniqueId": "hc-cms-cannabis",
@@ -8504,7 +11048,13 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "new"
+        "estimatedStatus": "new",
+        "has2016data": "0",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "1",
+        "isOver100m2019": "0"
     },
     "hc-das-modernization": {
         "uniqueId": "hc-das-modernization",
@@ -8524,7 +11074,13 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "new"
+        "estimatedStatus": "new",
+        "has2016data": "0",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "hc-dhpr-2": {
         "uniqueId": "hc-dhpr-2",
@@ -8544,7 +11100,13 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "completed"
+        "estimatedStatus": "completed",
+        "has2016data": "1",
+        "has2019data": "0",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "hc-dhpr-3": {
         "uniqueId": "hc-dhpr-3",
@@ -8564,7 +11126,13 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "new"
+        "estimatedStatus": "new",
+        "has2016data": "0",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "hc-drug-shortages": {
         "uniqueId": "hc-drug-shortages",
@@ -8584,7 +11152,13 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "completed"
+        "estimatedStatus": "completed",
+        "has2016data": "1",
+        "has2019data": "0",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "hc-eas-database": {
         "uniqueId": "hc-eas-database",
@@ -8604,7 +11178,13 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "completed"
+        "estimatedStatus": "completed",
+        "has2016data": "1",
+        "has2019data": "0",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "hc-edt": {
         "uniqueId": "hc-edt",
@@ -8624,7 +11204,13 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "new"
+        "estimatedStatus": "new",
+        "has2016data": "0",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "hc-eli": {
         "uniqueId": "hc-eli",
@@ -8644,7 +11230,13 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "new"
+        "estimatedStatus": "new",
+        "has2016data": "0",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "hc-eprs-web": {
         "uniqueId": "hc-eprs-web",
@@ -8664,7 +11256,13 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "new"
+        "estimatedStatus": "new",
+        "has2016data": "0",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "hc-eprwe": {
         "uniqueId": "hc-eprwe",
@@ -8684,7 +11282,13 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "new"
+        "estimatedStatus": "new",
+        "has2016data": "0",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "hc-eqms": {
         "uniqueId": "hc-eqms",
@@ -8704,7 +11308,13 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "new"
+        "estimatedStatus": "new",
+        "has2016data": "0",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "hc-eti": {
         "uniqueId": "hc-eti",
@@ -8724,7 +11334,13 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "new"
+        "estimatedStatus": "unknown (no dates specified)",
+        "has2016data": "1",
+        "has2019data": "0",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "hc-fnihb-emr": {
         "uniqueId": "hc-fnihb-emr",
@@ -8744,7 +11360,13 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "completed"
+        "estimatedStatus": "completed",
+        "has2016data": "1",
+        "has2019data": "0",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "hc-fnihb-it-modernization": {
         "uniqueId": "hc-fnihb-it-modernization",
@@ -8764,7 +11386,13 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "completed"
+        "estimatedStatus": "completed",
+        "has2016data": "1",
+        "has2019data": "0",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "hc-food-guide": {
         "uniqueId": "hc-food-guide",
@@ -8784,7 +11412,13 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "new"
+        "estimatedStatus": "new",
+        "has2016data": "0",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "hc-hicps": {
         "uniqueId": "hc-hicps",
@@ -8804,7 +11438,13 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "unknown"
+        "estimatedStatus": "unknown (past due)",
+        "has2016data": "1",
+        "has2019data": "0",
+        "isOver10m2016": "1",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "hc-icapm": {
         "uniqueId": "hc-icapm",
@@ -8824,7 +11464,13 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "completed"
+        "estimatedStatus": "completed",
+        "has2016data": "1",
+        "has2019data": "0",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "hc-mcvs": {
         "uniqueId": "hc-mcvs",
@@ -8844,7 +11490,13 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "new"
+        "estimatedStatus": "new",
+        "has2016data": "0",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "hc-mdp": {
         "uniqueId": "hc-mdp",
@@ -8864,7 +11516,13 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "new"
+        "estimatedStatus": "new",
+        "has2016data": "0",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "hc-mdsr": {
         "uniqueId": "hc-mdsr",
@@ -8884,7 +11542,13 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "completed"
+        "estimatedStatus": "completed",
+        "has2016data": "1",
+        "has2019data": "0",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "hc-mtss": {
         "uniqueId": "hc-mtss",
@@ -8904,7 +11568,13 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "completed"
+        "estimatedStatus": "completed",
+        "has2016data": "1",
+        "has2019data": "0",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "hc-mygchr": {
         "uniqueId": "hc-mygchr",
@@ -8924,7 +11594,13 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "completed"
+        "estimatedStatus": "completed",
+        "has2016data": "1",
+        "has2019data": "0",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "hc-nhpd-it": {
         "uniqueId": "hc-nhpd-it",
@@ -8944,7 +11620,13 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "new"
+        "estimatedStatus": "new",
+        "has2016data": "0",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "hc-pep": {
         "uniqueId": "hc-pep",
@@ -8964,7 +11646,13 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "completed"
+        "estimatedStatus": "completed",
+        "has2016data": "1",
+        "has2019data": "0",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "hc-pri": {
         "uniqueId": "hc-pri",
@@ -8984,7 +11672,13 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "new"
+        "estimatedStatus": "new",
+        "has2016data": "0",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "hc-rsam": {
         "uniqueId": "hc-rsam",
@@ -9004,7 +11698,13 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "new"
+        "estimatedStatus": "new",
+        "has2016data": "0",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "hc-sap-2": {
         "uniqueId": "hc-sap-2",
@@ -9024,7 +11724,13 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "new"
+        "estimatedStatus": "new",
+        "has2016data": "0",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "hc-sia": {
         "uniqueId": "hc-sia",
@@ -9044,7 +11750,13 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "completed"
+        "estimatedStatus": "completed",
+        "has2016data": "1",
+        "has2019data": "0",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "hc-swi": {
         "uniqueId": "hc-swi",
@@ -9064,7 +11776,13 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "completed"
+        "estimatedStatus": "completed",
+        "has2016data": "1",
+        "has2019data": "0",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "hc-tcrp": {
         "uniqueId": "hc-tcrp",
@@ -9084,7 +11802,13 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "new"
+        "estimatedStatus": "new",
+        "has2016data": "0",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "hc-windows-2003": {
         "uniqueId": "hc-windows-2003",
@@ -9104,7 +11828,13 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "completed"
+        "estimatedStatus": "completed",
+        "has2016data": "1",
+        "has2019data": "0",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "hc-wri": {
         "uniqueId": "hc-wri",
@@ -9124,7 +11854,13 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "completed"
+        "estimatedStatus": "completed",
+        "has2016data": "1",
+        "has2019data": "0",
+        "isOver10m2016": "1",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "inac-chars-it": {
         "uniqueId": "inac-chars-it",
@@ -9144,7 +11880,13 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "completed"
+        "estimatedStatus": "completed",
+        "has2016data": "1",
+        "has2019data": "0",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "inac-fnihb-hicps": {
         "uniqueId": "inac-fnihb-hicps",
@@ -9164,7 +11906,13 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "new"
+        "estimatedStatus": "new",
+        "has2016data": "0",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "inac-fnihb-ims": {
         "uniqueId": "inac-fnihb-ims",
@@ -9184,7 +11932,13 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "new"
+        "estimatedStatus": "new",
+        "has2016data": "0",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "inac-fnihb-mtss": {
         "uniqueId": "inac-fnihb-mtss",
@@ -9204,7 +11958,13 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "new"
+        "estimatedStatus": "new",
+        "has2016data": "0",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "inac-fnihb-phcis": {
         "uniqueId": "inac-fnihb-phcis",
@@ -9224,7 +11984,13 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "new"
+        "estimatedStatus": "new",
+        "has2016data": "0",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "inac-fnihb-sia": {
         "uniqueId": "inac-fnihb-sia",
@@ -9244,7 +12010,13 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "new"
+        "estimatedStatus": "new",
+        "has2016data": "0",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "inac-fnihb-unephi": {
         "uniqueId": "inac-fnihb-unephi",
@@ -9264,7 +12036,13 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "new"
+        "estimatedStatus": "new",
+        "has2016data": "0",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "inac-gcims": {
         "uniqueId": "inac-gcims",
@@ -9284,7 +12062,13 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "new"
+        "estimatedStatus": "new",
+        "has2016data": "0",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "inac-gcsi": {
         "uniqueId": "inac-gcsi",
@@ -9304,7 +12088,13 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "new"
+        "estimatedStatus": "new",
+        "has2016data": "0",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "inac-iems": {
         "uniqueId": "inac-iems",
@@ -9324,7 +12114,13 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "new"
+        "estimatedStatus": "new",
+        "has2016data": "0",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "inac-irems": {
         "uniqueId": "inac-irems",
@@ -9344,7 +12140,13 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "unknown"
+        "estimatedStatus": "unknown (past due)",
+        "has2016data": "1",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "inac-mtme": {
         "uniqueId": "inac-mtme",
@@ -9364,7 +12166,13 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "new"
+        "estimatedStatus": "new",
+        "has2016data": "0",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "inac-mygchr": {
         "uniqueId": "inac-mygchr",
@@ -9384,7 +12192,13 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "completed"
+        "estimatedStatus": "completed",
+        "has2016data": "1",
+        "has2019data": "0",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "inac-nunavut-map-selection": {
         "uniqueId": "inac-nunavut-map-selection",
@@ -9404,7 +12218,13 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "completed"
+        "estimatedStatus": "completed",
+        "has2016data": "1",
+        "has2019data": "0",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "inac-sap": {
         "uniqueId": "inac-sap",
@@ -9424,7 +12244,13 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "new"
+        "estimatedStatus": "new",
+        "has2016data": "0",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "inac-toms": {
         "uniqueId": "inac-toms",
@@ -9444,7 +12270,13 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "completed"
+        "estimatedStatus": "completed",
+        "has2016data": "1",
+        "has2019data": "0",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "inac-wifi": {
         "uniqueId": "inac-wifi",
@@ -9464,7 +12296,13 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "new"
+        "estimatedStatus": "new",
+        "has2016data": "0",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "infra-gcdocs": {
         "uniqueId": "infra-gcdocs",
@@ -9484,7 +12322,13 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "new"
+        "estimatedStatus": "new",
+        "has2016data": "0",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "infra-iris": {
         "uniqueId": "infra-iris",
@@ -9504,7 +12348,13 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "new"
+        "estimatedStatus": "new",
+        "has2016data": "0",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "ircc-desktop-modernization": {
         "uniqueId": "ircc-desktop-modernization",
@@ -9524,13 +12374,19 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "new"
+        "estimatedStatus": "unknown (no dates specified)",
+        "has2016data": "0",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "ircc-di": {
         "uniqueId": "ircc-di",
         "deptAcronym": "ircc",
         "department": "Immigration, Refugees and Citizenship Canada",
-        "projectName": "",
+        "projectName": "Citizenship Grant Digital Intake",
         "projectDescription2016": "",
         "projectDescription2019": "Digital Intake - The aim of this project is to implement a Digital Intake Channel solution to facilitate electronic submission of Citizenship Grant applications, hence increasing the number of applications received via\n the Digital Intake Channel compared to those submitted by mail.",
         "totalBudget2016": "",
@@ -9544,13 +12400,19 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "new"
+        "estimatedStatus": "new",
+        "has2016data": "0",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "ircc-epassport-ng": {
         "uniqueId": "ircc-epassport-ng",
         "deptAcronym": "ircc",
         "department": "Immigration, Refugees and Citizenship Canada",
-        "projectName": "",
+        "projectName": "ePassport Next Generation",
         "projectDescription2016": "",
         "projectDescription2019": "ePassport Next Generation - This project will attain the following outcomes:\n 1. Secure booklet design to contribute to Canadians having confidence in the Passport Program;\n 2. Improved overall security of the passport; and\n 3. Enhanced technology.",
         "totalBudget2016": "",
@@ -9564,13 +12426,19 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "new"
+        "estimatedStatus": "new",
+        "has2016data": "0",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "1",
+        "isOver100m2019": "0"
     },
     "ircc-eta-expansion": {
         "uniqueId": "ircc-eta-expansion",
         "deptAcronym": "ircc",
         "department": "Immigration, Refugees and Citizenship Canada",
-        "projectName": "",
+        "projectName": "Beyond the Border Action Plan Electronic Travel Authorization (eTA)",
         "projectDescription2016": "Beyond th.e B order Action Plan - Electronic Travel Authorisation (eTA)-\n Expansion\n The eTA Expansion Project is to implement the necessary policy, operational and infrastructure changes required to support expanded eligibility to low risk travelers. The project includes developing a capacity to obtain information on\n American visas from the United States.",
         "projectDescription2019": "",
         "totalBudget2016": "$1,818,322",
@@ -9584,13 +12452,19 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "completed"
+        "estimatedStatus": "completed",
+        "has2016data": "1",
+        "has2019data": "0",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "ircc-gcms-drp": {
         "uniqueId": "ircc-gcms-drp",
         "deptAcronym": "ircc",
         "department": "Immigration, Refugees and Citizenship Canada",
-        "projectName": "",
+        "projectName": "GCMS Disaster Recovery Project",
         "projectDescription2016": "",
         "projectDescription2019": "GCMS Disaster Recovery Project - This project will establish a GCMS Disaster Recovery site to ensure business continuity of IRCC, Canada Border Services Agency, and Service Canada (Passport program\n delivery) services.",
         "totalBudget2016": "",
@@ -9604,13 +12478,19 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "new"
+        "estimatedStatus": "new",
+        "has2016data": "0",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "1",
+        "isOver100m2019": "0"
     },
     "ircc-gcms-entry-exit": {
         "uniqueId": "ircc-gcms-entry-exit",
         "deptAcronym": "ircc",
         "department": "Immigration, Refugees and Citizenship Canada",
-        "projectName": "",
+        "projectName": "GCMS Entry Exit Interdiction and Border Alerting System Interface",
         "projectDescription2016": "Entry Exit\n The Canada Border Service Agency (CBSA) and IRCC will jointly leverage the GCMS to build functionality for accessing information on the entry and exit of all travellers to support existing immigration lines of business across both the CBSA and IRCC. The CBSA will develop the functionality in the system called EXIS and the supporting commercial-off-the-shelf tools to produce and deliver entry and exit query results to GCMS, while IRCC will develop and implement the necessary changes to GCMS, with support from CBSA, to display the query results. Further, GCMS will send data through the Interdiction and Border Alerting System interface to provide data to CBSA that they will use to calculate overstay information.",
         "projectDescription2019": "",
         "totalBudget2016": "$3,569,938",
@@ -9624,13 +12504,19 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "completed"
+        "estimatedStatus": "completed",
+        "has2016data": "1",
+        "has2019data": "0",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "ircc-gcms-privacy": {
         "uniqueId": "ircc-gcms-privacy",
         "deptAcronym": "ircc",
         "department": "Immigration, Refugees and Citizenship Canada",
-        "projectName": "",
+        "projectName": "GCMS Privacy Risk Mitigation",
         "projectDescription2016": "",
         "projectDescription2019": "GCMS Privacy Risk Mitigation - This project's focus is to ensure that\n all privacy risks identified in the Privacy Impact Assessment for the use of GCMS by the Passport Program have been mitigated or accepted.",
         "totalBudget2016": "",
@@ -9644,13 +12530,19 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "new"
+        "estimatedStatus": "new",
+        "has2016data": "0",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "ircc-gcms-prl": {
         "uniqueId": "ircc-gcms-prl",
         "deptAcronym": "ircc",
         "department": "Immigration, Refugees and Citizenship Canada",
-        "projectName": "",
+        "projectName": "GCMS Multi-Year Level Plan for Permanent Residence Levels",
         "projectDescription2016": "",
         "projectDescription2019": "Multi Year Level Plan - This project is in response to the increasing target for Permanent Residence Levels. This project will enhance IT performance of international and domestic networks; upgrade bandwidth capabilities of the Global Case Management System (GCMS) and data centre capacity; increase analytical capabilities to strengthen settlement program integrity; and digitize processes and workflows.",
         "totalBudget2016": "",
@@ -9664,13 +12556,19 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "new"
+        "estimatedStatus": "new",
+        "has2016data": "0",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "1",
+        "isOver100m2019": "0"
     },
     "ircc-gcs-automating": {
         "uniqueId": "ircc-gcs-automating",
         "deptAcronym": "ircc",
         "department": "Immigration, Refugees and Citizenship Canada",
-        "projectName": "",
+        "projectName": "Grants and Contributions Automation",
         "projectDescription2016": "Automating Grants and Contributions\n Provide additional automation for reporting externally and internally on settlement and resettlement programming.",
         "projectDescription2019": "",
         "totalBudget2016": "$3,365,000",
@@ -9684,13 +12582,19 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "completed"
+        "estimatedStatus": "completed",
+        "has2016data": "1",
+        "has2019data": "0",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "ircc-gcs-esnpd": {
         "uniqueId": "ircc-gcs-esnpd",
         "deptAcronym": "ircc",
         "department": "Immigration, Refugees and Citizenship Canada",
-        "projectName": "",
+        "projectName": "Grants and Contributions Enhancing Settlement Network Program Delivery Functionality",
         "projectDescription2016": "",
         "projectDescription2019": "Enhancing Settlement Network Program Delivery Functionality - Grants and Contributions System (GCS) - This project will result in enhancements to the GCS in support of the departmental contribution agreement management reset and the settlement outcomes initiative. It aims to implement additional automation across the processing and reporting of the GCS in support of improved integrity and processing services.",
         "totalBudget2016": "",
@@ -9704,13 +12608,19 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "new"
+        "estimatedStatus": "unknown (no dates specified)",
+        "has2016data": "0",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "ircc-gender-x": {
         "uniqueId": "ircc-gender-x",
         "deptAcronym": "ircc",
         "department": "Immigration, Refugees and Citizenship Canada",
-        "projectName": "",
+        "projectName": "Gender X Identifier",
         "projectDescription2016": "",
         "projectDescription2019": "Gender X - This project will introduce the ability for IRCC to print an \"X\"\n sex\/gender identifier for all lRCC lines of business to better reflect the gender identity and diversity of all lRCC clients.",
         "totalBudget2016": "",
@@ -9724,13 +12634,19 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "new"
+        "estimatedStatus": "new",
+        "has2016data": "0",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "ircc-ifhp-camp": {
         "uniqueId": "ircc-ifhp-camp",
         "deptAcronym": "ircc",
         "department": "Immigration, Refugees and Citizenship Canada",
-        "projectName": "",
+        "projectName": "Interim Federal Health Programs Claims Administration Modernization Project",
         "projectDescription2016": "",
         "projectDescription2019": "Interim Federal Health Program-Claims Administration Modernization Project (IFHP-CAMP) - This project will modernize\n !FHP claims administration in order to deliver enhanced services to providers and beneficiaries. This will be accomplished through improvements to systems and processes used by Government of Canada officials to manage the !FHP (including in their interactions with beneficiaries), as well as the services provided and enabled by the third party claims administrator.",
         "totalBudget2016": "",
@@ -9744,13 +12660,19 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "new"
+        "estimatedStatus": "new",
+        "has2016data": "0",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "ircc-impepi": {
         "uniqueId": "ircc-impepi",
         "deptAcronym": "ircc",
         "department": "Immigration, Refugees and Citizenship Canada",
-        "projectName": "",
+        "projectName": "International Mobility Program Employer Portal Improvements",
         "projectDescription2016": "",
         "projectDescription2019": "International Mobility Program Employer Portal Improvements - This project focuses on the implementation of the Information Management\/Information Technology (IM\/IT) systems changes that will improve the functionality of IRCC's Employer Portal, thereby enhancing user experience, and raising the level of program integrity for the Employer Compliance Regime.",
         "totalBudget2016": "",
@@ -9764,13 +12686,19 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "new"
+        "estimatedStatus": "new",
+        "has2016data": "0",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "1",
+        "isOver100m2019": "0"
     },
     "ircc-mfd": {
         "uniqueId": "ircc-mfd",
         "deptAcronym": "ircc",
         "department": "Immigration, Refugees and Citizenship Canada",
-        "projectName": "",
+        "projectName": "Microfilm Digitization for Access to Information Requests",
         "projectDescription2016": "",
         "projectDescription2019": "Microfilm Digitization - This project will complete and fully digitize and modernize IRCCs passport assets. It will create a positive return on investment for the department and create an efficiency for delivering\n access to information requests.",
         "totalBudget2016": "",
@@ -9784,13 +12712,19 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "new"
+        "estimatedStatus": "new",
+        "has2016data": "0",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "ircc-online-account": {
         "uniqueId": "ircc-online-account",
         "deptAcronym": "ircc",
         "department": "Immigration, Refugees and Citizenship Canada",
-        "projectName": "",
+        "projectName": "Improving User Experience Online Account",
         "projectDescription2016": "",
         "projectDescription2019": "Improving User Experience Online Account - This project is to:\n 1. Redesign the look and feel of the My Account interface to better align with client expectations, and make it easier to use and understand;\n 2. Provide more case status information in an easier to understand format, including proactive communications of delays; and\n 3. Compile research and analysis of access to information requests to understand the gaps in case status and better manage wait times during those periods.",
         "totalBudget2016": "",
@@ -9804,13 +12738,19 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "new"
+        "estimatedStatus": "new",
+        "has2016data": "0",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "ircc-pis": {
         "uniqueId": "ircc-pis",
         "deptAcronym": "ircc",
         "department": "Immigration, Refugees and Citizenship Canada",
-        "projectName": "",
+        "projectName": "Passport Issuance System",
         "projectDescription2016": "",
         "projectDescription2019": "Passport Issuance System - This project will maintain and facilitate Passport Issuance Services to Canadians.",
         "totalBudget2016": "",
@@ -9824,13 +12764,19 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "new"
+        "estimatedStatus": "new",
+        "has2016data": "0",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "ircc-sva": {
         "uniqueId": "ircc-sva",
         "deptAcronym": "ircc",
         "department": "Immigration, Refugees and Citizenship Canada",
-        "projectName": "",
+        "projectName": "Start-up Visa e-Application",
         "projectDescription2016": "",
         "projectDescription2019": "Start-up Visa a-Application - This project will develop an integrated electronic application system that allows for more robust data collection, prevention of application backlogs, and high standards for program integrity and service, while ensuring the program remains competitive in attracting high-potential entrepreneurs who will contribute to Canadian innovation and the economy.",
         "totalBudget2016": "",
@@ -9844,13 +12790,19 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "new"
+        "estimatedStatus": "new",
+        "has2016data": "0",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "ircc-tfwp-imp-3": {
         "uniqueId": "ircc-tfwp-imp-3",
         "deptAcronym": "ircc",
         "department": "Immigration, Refugees and Citizenship Canada",
-        "projectName": "",
+        "projectName": "Temporary Foreign Worker Program International Mobility Program Phase Ill",
         "projectDescription2016": "Temporary Foreign Worker Program (TFWP) - International Mobility Program (IMP) Phase Ill\n Implement a public-facing, online collaboration\/information sharing tool for\n open work permit holders.\n  \n Enhancements to existing functionalities in the Global Case Management System (GCMS) and processes related to Labour Market Impact Assessment (LMIA)-exempt employers by establishing connection between IRCC and Employment and Social Development Canada systems to share data.",
         "projectDescription2019": "",
         "totalBudget2016": "$1,829,263",
@@ -9864,13 +12816,19 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "completed"
+        "estimatedStatus": "completed",
+        "has2016data": "1",
+        "has2019data": "0",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "ircc-trmviaa": {
         "uniqueId": "ircc-trmviaa",
         "deptAcronym": "ircc",
         "department": "Immigration, Refugees and Citizenship Canada",
-        "projectName": "",
+        "projectName": "Temporary Resident Volume Management Initiative Advanced Analytics",
         "projectDescription2016": "",
         "projectDescription2019": "Temporary Resident Volume Management Initiative-Advanced Analytics - This project encompasses four key areas of activity to better manage the volume of temporary residents applications:\n 1. Advanced Analytics;\n 2. Automation;\n 3. Streamlining; and\n 4. Work Sharing.",
         "totalBudget2016": "",
@@ -9884,13 +12842,19 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "new"
+        "estimatedStatus": "new",
+        "has2016data": "0",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "1",
+        "isOver100m2019": "0"
     },
     "ircc-wlm-1": {
         "uniqueId": "ircc-wlm-1",
         "deptAcronym": "ircc",
         "department": "Immigration, Refugees and Citizenship Canada",
-        "projectName": "",
+        "projectName": "Workload Migration",
         "projectDescription2016": "",
         "projectDescription2019": "Work Load Migration - This project will conduct the necessary updates to servers and databases that are past their lifecycle. Work Load\n Migration is based on the Managed Lifecycle schedule for commonly used workplace technology devices.",
         "totalBudget2016": "",
@@ -9904,13 +12868,19 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "new"
+        "estimatedStatus": "unknown (no dates specified)",
+        "has2016data": "0",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "ised-adi-mobile": {
         "uniqueId": "ised-adi-mobile",
         "deptAcronym": "ised",
         "department": "Innovation, Science and Economic Development Canada",
-        "projectName": "",
+        "projectName": "Accelerating Digital Innovation Mobile Channel",
         "projectDescription2016": "",
         "projectDescription2019": "Accelerating Digital Innovation - Mobile Channel: This project concerns the development of a mobile channel to facilitate navigation of the services for small business while leveraging the power of digital technologies on the mobile device: biometrics, camera, geoiocation, push notifications,\n alerts and security.",
         "totalBudget2016": "",
@@ -9924,13 +12894,19 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "new"
+        "estimatedStatus": "new",
+        "has2016data": "0",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "ised-bi-edw": {
         "uniqueId": "ised-bi-edw",
         "deptAcronym": "ised",
         "department": "Innovation, Science and Economic Development Canada",
-        "projectName": "",
+        "projectName": "Business Intelligence and Analytics Enterprise Data Warehouse (EDW)",
         "projectDescription2016": "Business Intelligence and Analytics - Enterprise Data Warehouse (EDW) (Sub-Project 2)\n  \n Implement the second phase of Master Data Management corporate wide and additional Business Intelligence and Analytics capabilities that aligns with the 5 year roadmap.",
         "projectDescription2019": "",
         "totalBudget2016": "$2,000,000",
@@ -9944,13 +12920,19 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "completed"
+        "estimatedStatus": "completed",
+        "has2016data": "1",
+        "has2019data": "0",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "ised-bi-mdm": {
         "uniqueId": "ised-bi-mdm",
         "deptAcronym": "ised",
         "department": "Innovation, Science and Economic Development Canada",
-        "projectName": "",
+        "projectName": "Business Intelligence and Analytics Master Data Management (MDM)",
         "projectDescription2016": "Business Intelligence and Am1lytics - Master Data Management (MDM) (Sub-Project 1)\n  \n lmplementatron of Business Intelligence and Analytics capabilities to improve corporate-level. decision making supported by centrally managed corporate data enabled via a Master Data Management framework and Reference Data Management while implementing a strong Data Governance Program",
         "projectDescription2019": "",
         "totalBudget2016": "$3,535,477",
@@ -9964,13 +12946,19 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "completed"
+        "estimatedStatus": "completed",
+        "has2016data": "1",
+        "has2019data": "0",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "ised-cc-itr": {
         "uniqueId": "ised-cc-itr",
         "deptAcronym": "ised",
         "department": "Innovation, Science and Economic Development Canada",
-        "projectName": "",
+        "projectName": "Corporations Canada IT Renewal",
         "projectDescription2016": "",
         "projectDescription2019": "Corporations Canada IT Renewal: This project will replace the current application which is rapidly aging and unable to accommodate the digital strategies and directions that the department is implementing. It will enable better services to clients and increase operational efficiencies.",
         "totalBudget2016": "",
@@ -9984,13 +12972,19 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "new"
+        "estimatedStatus": "new",
+        "has2016data": "0",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "ised-ccbr": {
         "uniqueId": "ised-ccbr",
         "deptAcronym": "ised",
         "department": "Innovation, Science and Economic Development Canada",
-        "projectName": "",
+        "projectName": "Connecting Canada's Business Registries",
         "projectDescription2016": "",
         "projectDescription2019": "Connecting Canada's Business Registries: The purpose of the project is to develop a multi-jurisdictional registry access service that would result in a reduction of burden in the areas of multi-jurisdictional searches, registration, and reporting, as a commitment of the TB submission on the\n Internal trade.",
         "totalBudget2016": "",
@@ -10004,13 +12998,19 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "new"
+        "estimatedStatus": "new",
+        "has2016data": "0",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "ised-ccms": {
         "uniqueId": "ised-ccms",
         "deptAcronym": "ised",
         "department": "Innovation, Science and Economic Development Canada",
-        "projectName": "",
+        "projectName": "Canadian Cluster Map",
         "projectDescription2016": "Canadian Cluster Map\n  \n Budget 2016 announces the Government's intent to develop, in collaboration with provinces, territories, research institutions and other stakeholders, a nationwide Canadian Cluster Mapping portal. Industry Sector is requesting an option analysis for a tool that would enable the department to meet the 2016 Federal Budget commitment to develop a Canadian Cluster Map. It also supports a commitment made with the United States and Mexico at a North American Leaders Summit (2014) to advance cluster and asset mapping in North America. ISED is the lead department for the government's cluster and asset map work under the North American Competitiveness Workplan. The United StaMs is looking for Canada to have a tool comparable to its Cluster Asset Map portal.",
         "projectDescription2019": "",
         "totalBudget2016": "$1,710,000",
@@ -10024,13 +13024,19 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "completed"
+        "estimatedStatus": "completed",
+        "has2016data": "1",
+        "has2019data": "0",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "ised-ccms-cluster": {
         "uniqueId": "ised-ccms-cluster",
         "deptAcronym": "ised",
         "department": "Innovation, Science and Economic Development Canada",
-        "projectName": "",
+        "projectName": "Client and Case Management Solution Cluster",
         "projectDescription2016": "Client and Case Management Solution (Cluster) .CCMS\n  \n Numerous ISED business units have identified a need for a software tool that will enable them to \u00b7 better manage their client\/ stakeholder information in a shared and transparent manner across their business units. In concert with these business needs, business units have also expressed the need for software tools that will enable them to better manage individual cases (also referred to issues or matters) in a similar shared and transparent manner. To meet this need a cluster was created to procure and establish Centre or Expertise for deployment of Case Management Solutions within the department.",
         "projectDescription2019": "",
         "totalBudget2016": "$1,406,200",
@@ -10044,13 +13050,19 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "completed"
+        "estimatedStatus": "completed",
+        "has2016data": "1",
+        "has2019data": "0",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "ised-cipo-c31-c8": {
         "uniqueId": "ised-cipo-c31-c8",
         "deptAcronym": "ised",
         "department": "Innovation, Science and Economic Development Canada",
-        "projectName": "",
+        "projectName": "CIPO IT Implementation of Bills C-31 and C-8 for Trademarks",
         "projectDescription2016": "Canadian Intellectual Property Office (CIPO): IT Implementation of Bills C-31 and C-8 for Trade- marks\n  \n Amendments to the Trade-marks Act and its regulations are expected in order to align Canada's legislation with international treaties. Modifications to the existing IT environment are required to comply with the amendments.",
         "projectDescription2019": "",
         "totalBudget2016": "$4,836,445",
@@ -10064,13 +13076,19 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "completed"
+        "estimatedStatus": "completed",
+        "has2016data": "1",
+        "has2019data": "0",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "ised-cipo-crm": {
         "uniqueId": "ised-cipo-crm",
         "deptAcronym": "ised",
         "department": "Innovation, Science and Economic Development Canada",
-        "projectName": "",
+        "projectName": "CIPO Client Relationship Management Foundation",
         "projectDescription2016": "Canadian Intellectual Property Office (CIPO): Client Relationship Management Foundation The CRM Foundation project will establish a fully functioning Client Relationship Management\n (CRM) solution within CIPO's Information Branch (18), and key line of business stakeholders; It will\n develop the data definitions for a CIPO-wide Master Client Repository; and will also create a foundational service request framework to manage client requests and interactions with CIPO.",
         "projectDescription2019": "",
         "totalBudget2016": "$2,196,184",
@@ -10084,13 +13102,19 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "completed"
+        "estimatedStatus": "completed",
+        "has2016data": "1",
+        "has2019data": "0",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "ised-cipo-ifs": {
         "uniqueId": "ised-cipo-ifs",
         "deptAcronym": "ised",
         "department": "Innovation, Science and Economic Development Canada",
-        "projectName": "",
+        "projectName": "CIPO Integrated Financial System",
         "projectDescription2016": "Canadian Intellectual Property Office \u00b7(CIPO): Integrated Financial System\n  \n In support of the CIPO Revenue Management Strategy and the Operational Excellence pillar, this project will define and implement a solution to permit a single source of financial data and implement the concept of integrating financial and operational data to improve quality.and timeliness of information for decision making.",
         "projectDescription2019": "",
         "totalBudget2016": "$2,184,840",
@@ -10104,13 +13128,19 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "completed"
+        "estimatedStatus": "completed",
+        "has2016data": "1",
+        "has2019data": "0",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "ised-cipo-ipcwp-cid": {
         "uniqueId": "ised-cipo-ipcwp-cid",
         "deptAcronym": "ised",
         "department": "Innovation, Science and Economic Development Canada",
-        "projectName": "",
+        "projectName": "CIPO Modernized IP Case and Workflow Solution for Copyright & Industrial Design",
         "projectDescription2016": "Canadian Intellectual Property Office (CIPO): Modernized IP Case and Workflow Solution for \u00b7 Copyright & Industrial Design\n  \n The CIPO Modernized IP Case and Workflow Project will deliver new technology based capability that will automate and track the business processes and activities specific to each Line of business (national & international). For maximum Business value and to reduce costs, a common solution is envisioned across all CIPO Business Lines. Consequently, this project will modernize CIPO's processing of copyrights and industrial designs and support ongoing regulatory and business changes.",
         "projectDescription2019": "",
         "totalBudget2016": "$1,378,100",
@@ -10124,13 +13154,19 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "completed"
+        "estimatedStatus": "completed",
+        "has2016data": "1",
+        "has2019data": "0",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "ised-cipo-ipcwp-p": {
         "uniqueId": "ised-cipo-ipcwp-p",
         "deptAcronym": "ised",
         "department": "Innovation, Science and Economic Development Canada",
-        "projectName": "",
+        "projectName": "CIPO Modernized IP Case and Workflow Solution for Patents",
         "projectDescription2016": "Canadian Intellectual Property Office (CIPO): Modernized IP Case and Workflow Solution for Patents\n  \n The CIPO Modernized IP Case and Workflow Project will deliver new technology based capability that will automate and track the business processes and activities specific to each Line of business (national & international). For maximum Business value and to reduce costs, a common solution is envisioned across all CIPO Business Lines. Consequently, this project will modernize CIPO's processing of patents, including appeals, and support ongoing regulatory and business changes.",
         "projectDescription2019": "",
         "totalBudget2016": "$11,252,000",
@@ -10144,13 +13180,19 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "completed"
+        "estimatedStatus": "completed",
+        "has2016data": "1",
+        "has2019data": "0",
+        "isOver10m2016": "1",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "ised-cipo-ipcwp-tmob": {
         "uniqueId": "ised-cipo-ipcwp-tmob",
         "deptAcronym": "ised",
         "department": "Innovation, Science and Economic Development Canada",
-        "projectName": "",
+        "projectName": "CIPO Modernized IP Case and Workflow Solution for Trademarks and Trademarks Opposition Board",
         "projectDescription2016": "Canadian Intellectual Property Office (CIPO): Modernized IP Case and Workflow Solution for Trademarks and Trademarks Opposition Board (TMOB)\n  \n The CIPO Modernized IP Case and Workflow Project will deliver new technology-based capability that will automate and track the business processes and activities specific to each line of business (national & international). For maximum Business value and to reduce costs, a common solution is envisioned across all CIPO Business Lines. Consequently, this project will modernize CIPO's processing of trademarks including oppositions, and support ongoing regulatory and business changes.",
         "projectDescription2019": "",
         "totalBudget2016": "$7,140,000",
@@ -10164,13 +13206,19 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "completed"
+        "estimatedStatus": "completed",
+        "has2016data": "1",
+        "has2019data": "0",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "ised-cipo-itm-bi": {
         "uniqueId": "ised-cipo-itm-bi",
         "deptAcronym": "ised",
         "department": "Innovation, Science and Economic Development Canada",
-        "projectName": "",
+        "projectName": "CIPO ITM Corporate Business Intelligence",
         "projectDescription2016": "",
         "projectDescription2019": "CIPO ITM Corporate Business Intelligence: This project will deliver software solutions that will enable CIPO to integrate, analyse and provide\n business intelligence via a range of analysis tools.",
         "totalBudget2016": "",
@@ -10184,13 +13232,19 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "new"
+        "estimatedStatus": "new",
+        "has2016data": "0",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "ised-cipo-wmp": {
         "uniqueId": "ised-cipo-wmp",
         "deptAcronym": "ised",
         "department": "Innovation, Science and Economic Development Canada",
-        "projectName": "",
+        "projectName": "CIPO Workplace Modernization Project",
         "projectDescription2016": "",
         "projectDescription2019": "CIPO Workplace Modernization Project: This project will provide a modern, connected, green, and healthy work environment by 2023 for all\n employees at Place du Portage Phase I.",
         "totalBudget2016": "",
@@ -10204,13 +13258,19 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "new"
+        "estimatedStatus": "new",
+        "has2016data": "0",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "1",
+        "isOver100m2019": "0"
     },
     "ised-crc-sac": {
         "uniqueId": "ised-crc-sac",
         "deptAcronym": "ised",
         "department": "Innovation, Science and Economic Development Canada",
-        "projectName": "",
+        "projectName": "CRC Big Data Analytics Centre (Spectrum Analytics Centre)",
         "projectDescription2016": "Communications Research Centre (CRC) Big Data Analytics Centre (Formally Spectrum Analytics Centre)\n  \n Design and build the new CRC Spectrum Analytics Centre which will employ state of the art data visualization and analytic tools and capabilities to allow CRC to perform technical demonstrations and provide real time visualizations of spectrum use. The research enabled by the Centre will support more effective spectrum management and facilitate technology demonstrations to public and private partners.",
         "projectDescription2019": "",
         "totalBudget2016": "$1,011,610",
@@ -10224,13 +13284,19 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "completed"
+        "estimatedStatus": "completed",
+        "has2016data": "1",
+        "has2019data": "0",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "ised-eti": {
         "uniqueId": "ised-eti",
         "deptAcronym": "ised",
         "department": "Innovation, Science and Economic Development Canada",
-        "projectName": "",
+        "projectName": "Email Transformation Initiative",
         "projectDescription2016": "Email Transformation Initiative (ETI)\n  \n Shared Services Canada is implementing a consolidated email system for the GoC. This project includes all the activities required to successfully prepare to migrate current ISED email services to the new SSC email service.",
         "projectDescription2019": "",
         "totalBudget2016": "$1,944,523",
@@ -10244,13 +13310,19 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "completed"
+        "estimatedStatus": "completed",
+        "has2016data": "1",
+        "has2019data": "0",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "ised-gcdocs": {
         "uniqueId": "ised-gcdocs",
         "deptAcronym": "ised",
         "department": "Innovation, Science and Economic Development Canada",
-        "projectName": "",
+        "projectName": "GCdocs",
         "projectDescription2016": "GCDOCS\n  \n The GCDOCS project is the implementation of the GC standard for Electronic Document and Records Management repository (GCDocs) for the storage, search and management of unstructured information.\n  \n This initiative will enable ISED to comply with the TBS Directive on Records Management while providing the capability to replace legacy shared drives and support user collaboration.",
         "projectDescription2019": "",
         "totalBudget2016": "$8,709,551",
@@ -10264,13 +13336,19 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "completed"
+        "estimatedStatus": "completed",
+        "has2016data": "1",
+        "has2019data": "0",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "ised-iam": {
         "uniqueId": "ised-iam",
         "deptAcronym": "ised",
         "department": "Innovation, Science and Economic Development Canada",
-        "projectName": "",
+        "projectName": "Identity and Access Roles Management",
         "projectDescription2016": "",
         "projectDescription2019": "Building on the authentication services stood up by the Identity Management project, Access Roles Management will deliver a robust role and security access manaciement service across business lines, required in interactions between the public and ciovernment",
         "totalBudget2016": "",
@@ -10284,13 +13362,19 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "new"
+        "estimatedStatus": "new",
+        "has2016data": "0",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "ised-ip-marketplace": {
         "uniqueId": "ised-ip-marketplace",
         "deptAcronym": "ised",
         "department": "Innovation, Science and Economic Development Canada",
-        "projectName": "",
+        "projectName": "IP Marketplace",
         "projectDescription2016": "",
         "projectDescription2019": "IP Marketplace: This project will result in the creation of an online \"one stop shop\" for firms to locate, access and acquire public sector IP and know\n how.",
         "totalBudget2016": "",
@@ -10304,13 +13388,19 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "new"
+        "estimatedStatus": "new",
+        "has2016data": "0",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "ised-isc-platform": {
         "uniqueId": "ised-isc-platform",
         "deptAcronym": "ised",
         "department": "Innovation, Science and Economic Development Canada",
-        "projectName": "",
+        "projectName": "Innovation Canada Project Platform Solution",
         "projectDescription2016": "",
         "projectDescription2019": "Innovation Canada Project Platform Solution: To enable Canadian innovators to access and benefit from Government-led innovation proqram.",
         "totalBudget2016": "",
@@ -10324,13 +13414,19 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "new"
+        "estimatedStatus": "new",
+        "has2016data": "0",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "ised-isc-web": {
         "uniqueId": "ised-isc-web",
         "deptAcronym": "ised",
         "department": "Innovation, Science and Economic Development Canada",
-        "projectName": "",
+        "projectName": "Innovation Solutions Canada Web Platform",
         "projectDescription2016": "",
         "projectDescription2019": "Innovation Solutions Canada (ISC) Web Platform: This project will deliver a web platform model for the ISED Innovation Procurement Initiative, ISC.",
         "totalBudget2016": "",
@@ -10344,13 +13440,19 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "new"
+        "estimatedStatus": "new",
+        "has2016data": "0",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "ised-it-environment": {
         "uniqueId": "ised-it-environment",
         "deptAcronym": "ised",
         "department": "Innovation, Science and Economic Development Canada",
-        "projectName": "",
+        "projectName": "IT Environment Modifications",
         "projectDescription2016": "",
         "projectDescription2019": "This project will accomplish modifications to the existing IT environment to comply with recent legislative amendments to align Canada's legislation\n with international treaty.",
         "totalBudget2016": "",
@@ -10364,13 +13466,19 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "new"
+        "estimatedStatus": "new",
+        "has2016data": "0",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "1",
+        "isOver100m2019": "0"
     },
     "ised-mc-mdirdea": {
         "uniqueId": "ised-mc-mdirdea",
         "deptAcronym": "ised",
         "department": "Innovation, Science and Economic Development Canada",
-        "projectName": "",
+        "projectName": "Measurement Canada Measuring Device Inspection Result Data Entry Automation",
         "projectDescription2016": "Small Business, Tourism and Marketplace Services (SBTMS} Sector: Measurement Canada (MC) Measuring Device Inspection Result Data Entry Automation\n  \n Measurement Canada is proposing to automate the data entry of inspection results and enable electronic data transfer from private sector Application Service Providers (ASPs). Allowing the ASPs to perform inspections on MC's behalf would result in a new business process for MC.",
         "projectDescription2019": "",
         "totalBudget2016": "$1,640,854",
@@ -10384,13 +13492,19 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "completed"
+        "estimatedStatus": "completed",
+        "has2016data": "1",
+        "has2019data": "0",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "ised-mygchr": {
         "uniqueId": "ised-mygchr",
         "deptAcronym": "ised",
         "department": "Innovation, Science and Economic Development Canada",
-        "projectName": "",
+        "projectName": "MyGCHR",
         "projectDescription2016": "On-boarding to My GCHR (GC HRMS v9.1} ,\n This project involves transitioning our IC HRMS (PeopleSoft} version 8.9 to a Government of Canada single instance of PeopleSoft version 9.1, now named My GCHR. Instead of hosting our own ISED system, this standardized GC system will be centrally hosted (by SSC or PWGSC} and. accessed by many departments\/agencies.",
         "projectDescription2019": "",
         "totalBudget2016": "$1,426,705",
@@ -10404,13 +13518,19 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "completed"
+        "estimatedStatus": "completed",
+        "has2016data": "1",
+        "has2019data": "0",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "ised-nuans": {
         "uniqueId": "ised-nuans",
         "deptAcronym": "ised",
         "department": "Innovation, Science and Economic Development Canada",
-        "projectName": "",
+        "projectName": "NUANS Corporate Name Search Information Technology Modernization",
         "projectDescription2016": "Small Business, Tourism and Marketplace Services (SBTMS) Sector: NUANS Corporate Name Search Information Technology Modernization\n  \n Replace the current NUANS technology solution; procure hosting and operations services via a competitive contract. NUANS is an online tool used to ensure that names proposed for new corporations do not conflict with those that are already in use. NUANS is used by the private and public sector for federal and most provincial and territorial corporate registries.",
         "projectDescription2019": "",
         "totalBudget2016": "$1,652,784",
@@ -10424,13 +13544,19 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "completed"
+        "estimatedStatus": "completed",
+        "has2016data": "1",
+        "has2019data": "0",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "ised-osb-tlp": {
         "uniqueId": "ised-osb-tlp",
         "deptAcronym": "ised",
         "department": "Innovation, Science and Economic Development Canada",
-        "projectName": "",
+        "projectName": "Office of the Superintendant of Bankrupcy Trustee Licensing",
         "projectDescription2016": "Small Business, Tourism and Marketplace Services (SBTMS} Sector: Office of the Superintendant of Bankrupcy (OSB) Trustee Lic nsing\n  \n The OSB wishes to automate the Trustee Licensing process and offer a paperless self-serve system whereby private sector Trustees could apply, monitor the application status, manage changes to their licence and pay annual fees from one electronic location.",
         "projectDescription2019": "",
         "totalBudget2016": "$1,470,330",
@@ -10444,13 +13570,19 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "completed"
+        "estimatedStatus": "completed",
+        "has2016data": "1",
+        "has2019data": "0",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "ised-ppmi-sap": {
         "uniqueId": "ised-ppmi-sap",
         "deptAcronym": "ised",
         "department": "Innovation, Science and Economic Development Canada",
-        "projectName": "",
+        "projectName": "SAP ERP Procurement Process Modernization Initiative",
         "projectDescription2016": "",
         "projectDescription2019": "Procurement Process Modernization Initiative (PPMI): This project will result in the automation of procurement planning, management, payment\n and reportinq processes by leveraginq the electronic approval and processing capabilities within ISED's SAP ERP system.",
         "totalBudget2016": "",
@@ -10464,13 +13596,19 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "new"
+        "estimatedStatus": "new",
+        "has2016data": "0",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "ised-sam-csi": {
         "uniqueId": "ised-sam-csi",
         "deptAcronym": "ised",
         "department": "Innovation, Science and Economic Development Canada",
-        "projectName": "",
+        "projectName": "Spectrum Applications Modernization Commercial Software Implementation",
         "projectDescription2016": "Spectrum Applications Modernization-Commercial Software Implementation (SAM-OSI) The Spectrum Applications Modernization-Commercial Software Implementation (SAM-CSI)\n project was created to replace aging IT applications so as to ensure the integrity of key functions in the Spectrum Management Program. After significant research and analysis the recommendation to move to a Commercial Off The Shelf(COTS) product was approved.",
         "projectDescription2019": "",
         "totalBudget2016": "$46,403,824",
@@ -10484,13 +13622,19 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "completed"
+        "estimatedStatus": "completed",
+        "has2016data": "1",
+        "has2019data": "0",
+        "isOver10m2016": "1",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "ised-wri": {
         "uniqueId": "ised-wri",
         "deptAcronym": "ised",
         "department": "Innovation, Science and Economic Development Canada",
-        "projectName": "",
+        "projectName": "Web Renewal Initiative",
         "projectDescription2016": "Government of Canada (GC) Web Renewal Initiative\n  \n TBS is leading a government-wide initiative to consolidate all 1500 GC websites to one website: Canada.ca. ISED has been designated as the theme lead for three major sections of the website: the Business and industry section, the Money and finance section and the Science and innovation section.",
         "projectDescription2019": "",
         "totalBudget2016": "$3,216,974",
@@ -10504,13 +13648,19 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "completed"
+        "estimatedStatus": "completed",
+        "has2016data": "1",
+        "has2019data": "0",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "ised-wri-a11y": {
         "uniqueId": "ised-wri-a11y",
         "deptAcronym": "ised",
         "department": "Innovation, Science and Economic Development Canada",
-        "projectName": "",
+        "projectName": "Web Renewal and Accessibility",
         "projectDescription2016": "Web Renewal and Accessibility\n  \n Remediation of departmental applications, remediation of e-Forms, .pdf and html content, applying ROT (redundant, outdated, trivial) principles to existing content during remediation",
         "projectDescription2019": "",
         "totalBudget2016": "$2,238,536",
@@ -10524,13 +13674,19 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "completed"
+        "estimatedStatus": "completed",
+        "has2016data": "1",
+        "has2019data": "0",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "ised-wri-interop": {
         "uniqueId": "ised-wri-interop",
         "deptAcronym": "ised",
         "department": "Innovation, Science and Economic Development Canada",
-        "projectName": "",
+        "projectName": "Web Interoperability",
         "projectDescription2016": "Web Interoperability\n  \n Implementing the TBS Standard on Web Interoperability which includes:\n - Converting RSS feeds to Atom\n - Encoding Web pages and Web feeds in UTF-8\n - Coding Web pages in HTML5 or later\n - Applying HTML data\n  \n http:\/\/www.tbs-sct.gc.ca\/pol\/doc-eng.aspx?id=25875",
         "projectDescription2019": "",
         "totalBudget2016": "$1,830,192",
@@ -10544,13 +13700,19 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "completed"
+        "estimatedStatus": "completed",
+        "has2016data": "1",
+        "has2019data": "0",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "justice-bis": {
         "uniqueId": "justice-bis",
         "deptAcronym": "justice",
         "department": "Department of Justice Canada",
-        "projectName": "",
+        "projectName": "Business Intelligence System",
         "projectDescription2016": "Business Intelligence System: this is a foundational project that generates legal services statistics. The Bl system combines data from multiple systems to generate reports and dashboards that guide decision making. The project began in fiscal year\n 2015-16.",
         "projectDescription2019": "",
         "totalBudget2016": "$2,100,000",
@@ -10564,13 +13726,19 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "completed"
+        "estimatedStatus": "completed",
+        "has2016data": "1",
+        "has2019data": "0",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "justice-da": {
         "uniqueId": "justice-da",
         "deptAcronym": "justice",
         "department": "Department of Justice Canada",
-        "projectName": "",
+        "projectName": "Digital Adoption",
         "projectDescription2016": "",
         "projectDescription2019": "Digital Adoption: this project aims to increase the Department's digital skills and literacy, capabilities, and application of best practices in the areas of digital information management, collaborative development, management and use of digital documents; improve digital internal communications related to IM-IT change management; and increase adoption of information systems (technology) across al! programs within the Department. This project began in fiscal year 2019-20.",
         "totalBudget2016": "",
@@ -10584,13 +13752,19 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "new"
+        "estimatedStatus": "new",
+        "has2016data": "0",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "justice-dw": {
         "uniqueId": "justice-dw",
         "deptAcronym": "justice",
         "department": "Department of Justice Canada",
-        "projectName": "",
+        "projectName": "Digital Workspace Technical Platform",
         "projectDescription2016": "Digital Workspace: This project will provide the department with a single technical platform for document creation, collaboration, search and retrieval that integrates with other departmental systems and that allows the adoption of digital business\n lorocesses. The oroiect beoan in fiscal vear 2014-15.",
         "projectDescription2019": "",
         "totalBudget2016": "$4,800,000",
@@ -10604,13 +13778,19 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "completed"
+        "estimatedStatus": "completed",
+        "has2016data": "1",
+        "has2019data": "0",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "justice-dw-bt": {
         "uniqueId": "justice-dw-bt",
         "deptAcronym": "justice",
         "department": "Department of Justice Canada",
-        "projectName": "",
+        "projectName": "Digital Workspace Business Transformation",
         "projectDescription2016": "Digital Workspace (Business Transformation): this project seeks to maximize the department's use of the Digital Workspace by transforming existing processes so that they fully leverage electronic solutions. The project began this fiscal year.",
         "projectDescription2019": "",
         "totalBudget2016": "$2,000,000",
@@ -10624,13 +13804,19 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "unknown"
+        "estimatedStatus": "unknown (past due)",
+        "has2016data": "1",
+        "has2019data": "0",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "justice-dw-mdi": {
         "uniqueId": "justice-dw-mdi",
         "deptAcronym": "justice",
         "department": "Department of Justice Canada",
-        "projectName": "",
+        "projectName": "Digital Workspace Managing Digital Information",
         "projectDescription2016": "Digital Workspace (Managing Digital Information): this project integrates the Digital Workspace with other corporate systems to ensure interoperability between systems and to facilitate the reuse of content across the department. The project\n began in fiscal year 2014-15.",
         "projectDescription2019": "",
         "totalBudget2016": "$4,300,000",
@@ -10644,13 +13830,19 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "completed"
+        "estimatedStatus": "completed",
+        "has2016data": "1",
+        "has2019data": "0",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "justice-eti": {
         "uniqueId": "justice-eti",
         "deptAcronym": "justice",
         "department": "Department of Justice Canada",
-        "projectName": "",
+        "projectName": "Email Transformation Initiative",
         "projectDescription2016": "GC Email Transformation Initiative: this project represents the work that the Department of Justice Canada needs to do in order to migrate to the Email Transformation Initiative service of Shared Services Canada (SSC). The project began in fiscal year 2013-14.",
         "projectDescription2019": "",
         "totalBudget2016": "$1,600,000",
@@ -10664,13 +13856,19 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "completed"
+        "estimatedStatus": "completed",
+        "has2016data": "1",
+        "has2019data": "0",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "justice-gcdocs": {
         "uniqueId": "justice-gcdocs",
         "deptAcronym": "justice",
         "department": "Department of Justice Canada",
-        "projectName": "",
+        "projectName": "GCdocs",
         "projectDescription2016": "Digital Information Repository: this project consists of the implementation of the Government of Canada solution for records and document management (GCDOCS) to retain and archive corporate records in compliance with TBS Policy on Information Management. The project began in fiscal vear 2014-15.",
         "projectDescription2019": "",
         "totalBudget2016": "$5,000,000",
@@ -10684,13 +13882,19 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "completed"
+        "estimatedStatus": "completed",
+        "has2016data": "1",
+        "has2019data": "0",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "justice-gcs": {
         "uniqueId": "justice-gcs",
         "deptAcronym": "justice",
         "department": "Department of Justice Canada",
-        "projectName": "",
+        "projectName": "Enterprise Grants and Contributions System",
         "projectDescription2016": "",
         "projectDescription2019": "Enterprise Grants and Contributions System: this project is to replace the back-end legacy system with a new system using the GC Shared Case Management Solution and enhancing the external facing web portal. This project began in fiscal year 2016-17.",
         "totalBudget2016": "",
@@ -10704,13 +13908,19 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "new"
+        "estimatedStatus": "new",
+        "has2016data": "0",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "justice-gcsi-ringtail": {
         "uniqueId": "justice-gcsi-ringtail",
         "deptAcronym": "justice",
         "department": "Department of Justice Canada",
-        "projectName": "",
+        "projectName": "Ringtail Secret Migration to Government of Canada Secret Infrastructure",
         "projectDescription2016": "",
         "projectDescription2019": "Ringtail Secret Migration to Government of Canada Secret Infrastructure: this project delivers the litigation software solution for evidence and document review (Ringtail) or its replacement in the Government of Canada Secret Infrastructure. Government of Canada Secret Infrastructure is a Shared Services Canada-managed enterprise secret-level network and infrastructure service. This project began in fiscal year 2017-18.",
         "totalBudget2016": "",
@@ -10724,13 +13934,19 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "new"
+        "estimatedStatus": "new",
+        "has2016data": "0",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "justice-itsec": {
         "uniqueId": "justice-itsec",
         "deptAcronym": "justice",
         "department": "Department of Justice Canada",
-        "projectName": "",
+        "projectName": "IT Cyber Security Modernization",
         "projectDescription2016": "IT Cyber Security Modernization: this project will increase the security of the IT\n systems within the Department of Justice in order to deal with the modern IT threat landscape. The project began in fiscal year 2014-15.",
         "projectDescription2019": "",
         "totalBudget2016": "$1,700,000",
@@ -10744,13 +13960,19 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "completed"
+        "estimatedStatus": "completed",
+        "has2016data": "1",
+        "has2019data": "0",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "justice-next-gen-litigation": {
         "uniqueId": "justice-next-gen-litigation",
         "deptAcronym": "justice",
         "department": "Department of Justice Canada",
-        "projectName": "",
+        "projectName": "Next Generation Litigation Software (eDiscovery)",
         "projectDescription2016": "",
         "projectDescription2019": "Next Generation litigation Software: this project supports litigation renewal by providing legal professionals with new software tools for eDiscovery (the collection, processing, review and presentation of evidence in electronic form). This project began in fiscal year 2017-18.",
         "totalBudget2016": "",
@@ -10764,13 +13986,19 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "new"
+        "estimatedStatus": "new",
+        "has2016data": "0",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "justice-pb-cloud": {
         "uniqueId": "justice-pb-cloud",
         "deptAcronym": "justice",
         "department": "Department of Justice Canada",
-        "projectName": "",
+        "projectName": "Justice Cloud (Departmental Legal Services Units Connectivity, Phase 2)",
         "projectDescription2016": "",
         "projectDescription2019": "Justice Cloud (Departmental Legal Services Units Connectivity, Phase II): this project aims to deploy a secure (Protected B) cloud solution to allow departmental legal services unit staff to connect to the Justice network from any Government of Canada device or Government of Canada network. Every Justice employee will connect to the network in the same manner and have access to all Justice content in whichever location or manner best suits their needs. This project\n began in fiscal year 2018-19.",
         "totalBudget2016": "",
@@ -10784,13 +14012,19 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "new"
+        "estimatedStatus": "new",
+        "has2016data": "0",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "justice-sdm": {
         "uniqueId": "justice-sdm",
         "deptAcronym": "justice",
         "department": "Department of Justice Canada",
-        "projectName": "",
+        "projectName": "Justice Canada Service Desk Modernization",
         "projectDescription2016": "",
         "projectDescription2019": "Justice Canada Service Desk Modernization: this project will put in place a primarily \"insourced\" service desk solution, including a Justice-managed service desk and on-site support services for the National Capital Region. This project began in fiscal year 2018-19.",
         "totalBudget2016": "",
@@ -10804,13 +14038,19 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "new"
+        "estimatedStatus": "new",
+        "has2016data": "0",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "justice-wlm": {
         "uniqueId": "justice-wlm",
         "deptAcronym": "justice",
         "department": "Department of Justice Canada",
-        "projectName": "",
+        "projectName": "Workload Migration",
         "projectDescription2016": "GC Data Centre Consolidation: this project is in support of the Data Centre Consolidation project being run by Shared Services Canada (SSC) and it represents the work that the Department of Justice needs to do to migrate to the enterprise\n data centre facilities at SSC. The project began in fiscal year 2014-15.",
         "projectDescription2019": "",
         "totalBudget2016": "$1,300,000",
@@ -10824,13 +14064,19 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "unknown"
+        "estimatedStatus": "unknown (past due)",
+        "has2016data": "1",
+        "has2019data": "0",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "lac-aisr": {
         "uniqueId": "lac-aisr",
         "deptAcronym": "lac",
         "department": "Library and Archives Canada",
-        "projectName": "",
+        "projectName": "Archival Information System Renewal",
         "projectDescription2016": "",
         "projectDescription2019": "ARCHIVAL INFORMATION SYSTEM RENEWAL (AISR): The scope of this project is to acquire and Implement a reliable, modem and integrated back-office solution that will replace aging applications (i.e. MIKAN, CMS and MISACS) for the maintenance and efficient management of information about Library and Archives Canada's analogue and digital archival documentary heritage holdings.",
         "totalBudget2016": "",
@@ -10844,13 +14090,19 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "new"
+        "estimatedStatus": "new",
+        "has2016data": "0",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "lac-dams": {
         "uniqueId": "lac-dams",
         "deptAcronym": "lac",
         "department": "Library and Archives Canada",
-        "projectName": "",
+        "projectName": "Digital Asset Management System",
         "projectDescription2016": "",
         "projectDescription2019": "DIGITAL ASSET MANAGEMENT SYSTEM (DAMS); The scope of this project is the implementation of a set of published heritage acquisitions and discoverability workflows as well as the development of recommendations for the improved acquisition and dlscoverability for video publications, cartographic publications, hi!lh-voluma monos and serials, and hiah-volume music productions.",
         "totalBudget2016": "",
@@ -10864,13 +14116,19 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "new"
+        "estimatedStatus": "new",
+        "has2016data": "0",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "lac-gsa": {
         "uniqueId": "lac-gsa",
         "deptAcronym": "lac",
         "department": "Library and Archives Canada",
-        "projectName": "",
+        "projectName": "Google Search Appliance Replacement",
         "projectDescription2016": "",
         "projectDescription2019": "GOOGLE SEARCH APPLIANCE (GSA): Replace Google Search Appliance that is at end of life and will not be supported by Google by 2020. The scope of the project is to implement a new search engine that will be scalable and meet LAC's needs for the future, enabling the discovery of its collections.",
         "totalBudget2016": "",
@@ -10884,13 +14142,19 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "new"
+        "estimatedStatus": "new",
+        "has2016data": "0",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "lac-lsr": {
         "uniqueId": "lac-lsr",
         "deptAcronym": "lac",
         "department": "Library and Archives Canada",
-        "projectName": "",
+        "projectName": "Library System Renewal",
         "projectDescription2016": "",
         "projectDescription2019": "LIBRARY SYSTEM RENEWAL {LSR): The LSR Project has provided an innovative service to manage acquisitions, cataloguing, serials control, public access, circulation, resource sharing, as well as a new National Union Catalogue. This new system replaced AMICUS which has been in place since 1994.",
         "totalBudget2016": "",
@@ -10904,13 +14168,19 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "new"
+        "estimatedStatus": "new",
+        "has2016data": "0",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "nrc-bc-sitn": {
         "uniqueId": "nrc-bc-sitn",
         "deptAcronym": "nrc",
         "department": "National Research Council Canada",
-        "projectName": "",
+        "projectName": "NRC Business Continuity and Secure IT Network",
         "projectDescription2016": "NRC Business Continuity and Secure IT Network: Implementation and Maintenance of Business Continuity Plan methods and alternate processing strategies including system implemention directly supporting IT Security and Cyber Protection Plan. Project is planned and executed with Shared Services Canada.",
         "projectDescription2019": "",
         "totalBudget2016": "$50,164,904",
@@ -10924,13 +14194,19 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "completed"
+        "estimatedStatus": "completed",
+        "has2016data": "1",
+        "has2019data": "0",
+        "isOver10m2016": "1",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "nrc-bc-wheat": {
         "uniqueId": "nrc-bc-wheat",
         "deptAcronym": "nrc",
         "department": "National Research Council Canada",
-        "projectName": "",
+        "projectName": "Bioinformatics Computing for Canadian Wheat Alliance",
         "projectDescription2016": "Bioinformatics Computing (Wheat Flagship): Computing and IT infrastructure capacity, data storage, back up system, networking to enable Canadian Wheat.Alliance informatices research activities. Project to be planned and executed with Shared Services Canada. (Note 1: The expected completion date was updated to March 2018, but is an estimate; the project costs and schedule have not yet been confirmed by Shared Services Canada)",
         "projectDescription2019": "",
         "totalBudget2016": "$3,530,000",
@@ -10944,13 +14220,19 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "completed"
+        "estimatedStatus": "completed",
+        "has2016data": "1",
+        "has2019data": "0",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "nrc-cadc-canfar": {
         "uniqueId": "nrc-cadc-canfar",
         "deptAcronym": "nrc",
         "department": "National Research Council Canada",
-        "projectName": "",
+        "projectName": "Canadian Advanced Network for Astronomical Research (CANFAR) Compute Canada Transition",
         "projectDescription2016": "Canadian Astronomy Data Centre (CADC) Compute Canada Transition Project: The project will transition the Canadian Advanced Network for Astronomical Research (CANFAR) storage, batch processing, database and authorization and authentication systems onto Compute Canada",
         "projectDescription2019": "",
         "totalBudget2016": "$2,561,777",
@@ -10964,13 +14246,19 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "unknown"
+        "estimatedStatus": "unknown (past due)",
+        "has2016data": "1",
+        "has2019data": "0",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "nrc-cst": {
         "uniqueId": "nrc-cst",
         "deptAcronym": "nrc",
         "department": "National Research Council Canada",
-        "projectName": "",
+        "projectName": "Corporate Services Transformation",
         "projectDescription2016": "Corporate Services Transformation: The primary objective of the project is to support the NRC in its goal of becoming a world class RTO by creating a client-focused environmen_t  rich in targeted, integrated, end-to-end and responsive processes and services for NRC staff and clients",
         "projectDescription2019": "",
         "totalBudget2016": "$5,036,200",
@@ -10984,13 +14272,19 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "completed"
+        "estimatedStatus": "completed",
+        "has2016data": "1",
+        "has2019data": "0",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "nrc-newe": {
         "uniqueId": "nrc-newe",
         "deptAcronym": "nrc",
         "department": "National Research Council Canada",
-        "projectName": "",
+        "projectName": "NRC Electronic Working Environment",
         "projectDescription2016": "NRC Electronic Working Environment (NEWE): implementation of the NRC Electronic Working Environment by building a new information & collaboration technology infrastructure, and by connecting existing platforms to the new infrastructure and through training and education",
         "projectDescription2019": "",
         "totalBudget2016": "$3,950,237",
@@ -11004,13 +14298,19 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "completed"
+        "estimatedStatus": "completed",
+        "has2016data": "1",
+        "has2019data": "0",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "nrc-nsi-ncu": {
         "uniqueId": "nrc-nsi-ncu",
         "deptAcronym": "nrc",
         "department": "National Research Council Canada",
-        "projectName": "",
+        "projectName": "National Science Infrastructure (NSI) Network Capacity Upgrade",
         "projectDescription2016": "National Science Infrastructure (NSI) Network Capacity Upgrade: Upgrade internal and external networks to support 10Gig Ethernet. Project to be planned and executed with Shared Services Canada. (Note 2: The expected completion date was updated to March 2017, but is an estimate; the project costs and schedule have not yet been confirmed by Shared Services Canada)",
         "projectDescription2019": "",
         "totalBudget2016": "$1,218,000",
@@ -11024,13 +14324,19 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "completed"
+        "estimatedStatus": "completed",
+        "has2016data": "1",
+        "has2019data": "0",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "nrc-sap-success": {
         "uniqueId": "nrc-sap-success",
         "deptAcronym": "nrc",
         "department": "National Research Council Canada",
-        "projectName": "",
+        "projectName": "SAP Success Factors",
         "projectDescription2016": "SAP Success Factors: Subscribe to and implement several talent management modules of SAP Success Factors cloud based solution. Modules include Recruiting Onboarding, Performance and Goals and learning",
         "projectDescription2019": "",
         "totalBudget2016": "$2,920,000",
@@ -11044,13 +14350,19 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "completed"
+        "estimatedStatus": "completed",
+        "has2016data": "1",
+        "has2019data": "0",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "nrcan-cls-rdc": {
         "uniqueId": "nrcan-cls-rdc",
         "deptAcronym": "nrcan",
         "department": "Natural Resources Canada",
-        "projectName": "",
+        "projectName": "Canada Lands Surveys Records Digitization and Conversion",
         "projectDescription2016": "Canada Lands Surveys Records Digitization and Conversion - The goal of this project is to transform physical legal survey documents to digital authoritative documents, which will be the new legal, authoritative basis for land transactions.",
         "projectDescription2019": "",
         "totalBudget2016": "$1,300,000",
@@ -11064,13 +14376,19 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "completed"
+        "estimatedStatus": "completed",
+        "has2016data": "1",
+        "has2019data": "0",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "nrcan-ems-cwfis": {
         "uniqueId": "nrcan-ems-cwfis",
         "deptAcronym": "nrcan",
         "department": "Natural Resources Canada",
-        "projectName": "",
+        "projectName": "Emergency Management Strategy Canadian Wildland Fire Information System",
         "projectDescription2016": "",
         "projectDescription2019": "Emergency Management Strategy- Canadian Wildland Fire Information System {CWFIS}\nExpansion and modernization: Expansion of capacity in response to client needs and modernization of code structure. The CWFIS has become a significant portal for existing and emerging information. The system requires substantial upgrade in addition to ongoing maintenance.\n  \n Development and implementation of a national IM\/IT framework to support wildfire risk management: Development and implementation of a multi-agency approach to data exchange as well as a management strategy across Canada that encompasses all wildfire agencies to allow consistent exchange and access to data relevant for wildland fire management",
         "totalBudget2016": "",
@@ -11084,13 +14402,19 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "new"
+        "estimatedStatus": "new",
+        "has2016data": "0",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "nrcan-ems-eews": {
         "uniqueId": "nrcan-ems-eews",
         "deptAcronym": "nrcan",
         "department": "Natural Resources Canada",
-        "projectName": "",
+        "projectName": "Emergency Management Strategy Earthguake Early Warning System",
         "projectDescription2016": "",
         "projectDescription2019": "Emergency Management Strategy - Earthguake Early Warning System (EEWS}:\nDevelop and implement a new earthquake early warning system for key areas of Canada. Includes deployment of sensors in the field with real-\n time data communications; development and integration of software; interfacing with strategic partners' IT systems; transition to real-time mission-critical operations.",
         "totalBudget2016": "",
@@ -11104,13 +14428,19 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "new"
+        "estimatedStatus": "new",
+        "has2016data": "0",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "nrcan-eo-sip": {
         "uniqueId": "nrcan-eo-sip",
         "deptAcronym": "nrcan",
         "department": "Natural Resources Canada",
-        "projectName": "",
+        "projectName": "Revitalization of Natural Resources Canada's Earth Observation Satellite Infrastructure Project",
         "projectDescription2016": "Revitalization of Natural Resources Canada's Satellite Infrastructure Project - The goal of this project is to deliver a state-of-the-art modern Earth Observation satellite imagery Infrastructure nationally.",
         "projectDescription2019": "",
         "totalBudget2016": "$41,800,000",
@@ -11124,13 +14454,19 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "completed"
+        "estimatedStatus": "completed",
+        "has2016data": "1",
+        "has2019data": "0",
+        "isOver10m2016": "1",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "nrcan-essb-im": {
         "uniqueId": "nrcan-essb-im",
         "deptAcronym": "nrcan",
         "department": "Natural Resources Canada",
-        "projectName": "",
+        "projectName": "Digitization of Explosives Safety and Security Branch Records",
         "projectDescription2016": "",
         "projectDescription2019": "Digitization of Explosives Safety and Security Branch (ESSB) Records:\n Convert essential\/critical and required explosives regulatory information assets into an electronic format for easy accessibility. This enhancement would be achieved through new electronic tools and procedures for converting the current paper-based document archives to a digital format allowing ESSB to more effectively manage Protected B information maintained under their regulatory mandate and meet the\n handling of Government of Canada official documents\/records management rules for the retention\/disposition of information.",
         "totalBudget2016": "",
@@ -11144,13 +14480,19 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "new"
+        "estimatedStatus": "new",
+        "has2016data": "0",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "nrcan-fbevc-ai": {
         "uniqueId": "nrcan-fbevc-ai",
         "deptAcronym": "nrcan",
         "department": "Natural Resources Canada",
-        "projectName": "",
+        "projectName": "Optimization of the Forest Bio-Economy Value Chain",
         "projectDescription2016": "",
         "projectDescription2019": "Optimization of the Forest Bio Economy Value Chain:\n Through this project Natural Resources Canada will advance Artificial Intelligence (Al) and big data to improve the economic and environmental performance of sustainable natural resource operations; it will start with the development of the pilot of a Big Data and Al platform for forest value and chain optimization.",
         "totalBudget2016": "",
@@ -11164,13 +14506,19 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "new"
+        "estimatedStatus": "new",
+        "has2016data": "0",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "nrcan-fgp": {
         "uniqueId": "nrcan-fgp",
         "deptAcronym": "nrcan",
         "department": "Natural Resources Canada",
-        "projectName": "",
+        "projectName": "Federal Geospatial Platform",
         "projectDescription2016": "Federal Geospatial Platform - This project entails developing an interdepartmental online platform consisting of authoritative geospatial data, services and applications.",
         "projectDescription2019": "",
         "totalBudget2016": "$37,370,000",
@@ -11184,13 +14532,19 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "completed"
+        "estimatedStatus": "completed",
+        "has2016data": "1",
+        "has2019data": "0",
+        "isOver10m2016": "1",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "nrcan-fgp-cloud": {
         "uniqueId": "nrcan-fgp-cloud",
         "deptAcronym": "nrcan",
         "department": "Natural Resources Canada",
-        "projectName": "",
+        "projectName": "Federal Geospatial Platform Geo Community Cloud Implementation",
         "projectDescription2016": "",
         "projectDescription2019": "Federal Geospatial Platform Geo Community Cloud Implementation:\n Implementing a Cloud operation for the Federal Geospatial Platform (FGP). The FGP is a collaborative online environment consisting of authoritative geospatial data, web accessible applications and services.",
         "totalBudget2016": "",
@@ -11204,13 +14558,19 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "new"
+        "estimatedStatus": "new",
+        "has2016data": "0",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "nrcan-imtt": {
         "uniqueId": "nrcan-imtt",
         "deptAcronym": "nrcan",
         "department": "Natural Resources Canada",
-        "projectName": "",
+        "projectName": "Information Management and Technology Transformation",
         "projectDescription2016": "",
         "projectDescription2019": "Information Management and Technology Transformation:\n Improve how Natural Resources Canada delivers information management & technology services to optimize value to the business lines and alignment with GC direction.",
         "totalBudget2016": "",
@@ -11224,13 +14584,19 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "new"
+        "estimatedStatus": "new",
+        "has2016data": "0",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "nrcan-network-evergreening": {
         "uniqueId": "nrcan-network-evergreening",
         "deptAcronym": "nrcan",
         "department": "Natural Resources Canada",
-        "projectName": "",
+        "projectName": "Network Optimization and Evergreening",
         "projectDescription2016": "Network Optimization and Evergreening - The aim of this project is to strengthen Natural Resources Canada's cyber security system. The project will provide an end-state that will bring sufficient and sustainable controls to protect the Department's assets against cyber security threats.",
         "projectDescription2019": "",
         "totalBudget2016": "$4,800,000",
@@ -11244,13 +14610,19 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "completed"
+        "estimatedStatus": "completed",
+        "has2016data": "1",
+        "has2019data": "0",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "nrcan-network-optimization": {
         "uniqueId": "nrcan-network-optimization",
         "deptAcronym": "nrcan",
         "department": "Natural Resources Canada",
-        "projectName": "",
+        "projectName": "Network Optimization",
         "projectDescription2016": "",
         "projectDescription2019": "Network Optimization:\n Improve the network infrastructure that supports Natural Resources Canada, providing scientists and other users with the required high- performing network needed to deliver on their work in a flexible manner.",
         "totalBudget2016": "",
@@ -11264,13 +14636,19 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "new"
+        "estimatedStatus": "new",
+        "has2016data": "0",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "nrcan-odsp": {
         "uniqueId": "nrcan-odsp",
         "deptAcronym": "nrcan",
         "department": "Natural Resources Canada",
-        "projectName": "",
+        "projectName": "Cumulative Effects & Open Science Data Platform",
         "projectDescription2016": "",
         "projectDescription2019": "Cumulative Effects & Open Science Data Platform (OSDP):\n The OSDP will support enhanced transparency (open science) and will contribute to regaining public trust in Canada's environmental assessment processes. The primary desired business outcome is that Canadians have easy and integrated access to multiple types of science products and evidence to further understanding of the cumulative environmental and socio-economic effects of development activities.",
         "totalBudget2016": "",
@@ -11284,13 +14662,19 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "new"
+        "estimatedStatus": "new",
+        "has2016data": "0",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "1",
+        "isOver100m2019": "0"
     },
     "nrcan-swi-lms": {
         "uniqueId": "nrcan-swi-lms",
         "deptAcronym": "nrcan",
         "department": "Natural Resources Canada",
-        "projectName": "",
+        "projectName": "Single Window Initiative License Management System",
         "projectDescription2016": "Single Window Initiative I License Management System - This project aims to implement a streamlined Government of Canada solution for the electronic collection, use and dissemination of the commercial trade data required to support the mandates of participaitng departments.",
         "projectDescription2019": "",
         "totalBudget2016": "$6,627,500",
@@ -11304,13 +14688,19 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "completed"
+        "estimatedStatus": "completed",
+        "has2016data": "1",
+        "has2019data": "0",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "nserc-rp2": {
         "uniqueId": "nserc-rp2",
         "deptAcronym": "nserc",
         "department": "Natural Sciences and Engineering Research Council Canada",
-        "projectName": "",
+        "projectName": "Research Portal 2.0",
         "projectDescription2016": "Research Portal 2.0: Natural Sciences and Engineering Research Council (NSERC) and the Social Sciences and Humanities Research Council (SSHRC) are federal granting agencies that support research, research training and innovation in Canadian postsecondary institutions. The Councils have partnered on a project to replace their outdated IT systems and adopt harmonized and simplified grants and scholarship business processes, while leveraging mission critical management solution to achieve greater transparency, effectiveness and efficiency in how the Councils' grants and scholarships are delivered and reported on. In addition, the modernized business processes and IT solution will enable strong commitments to the research community and other key stakeholders by reducing the administrative burden and supporting increased collaboration.\n\nThis project is in the planning stage which is expected to be completed by Summer 2017. Costing estimates for the completion of the planning, development, implementation and ongoing maintenance of the grant and scholarship management solution will be finalized in Spring 2017. The two Councils expect the total project cost to exceed $1M.\n\nNote: The total budget and estimated completion.date of NSERC's IT project will be determined during the planing stage of the project.",
         "projectDescription2019": "",
         "totalBudget2016": "",
@@ -11324,13 +14714,19 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "new"
+        "estimatedStatus": "unknown (no dates specified)",
+        "has2016data": "1",
+        "has2019data": "0",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "osfi-espace": {
         "uniqueId": "osfi-espace",
         "deptAcronym": "osfi",
         "department": "Office of the Superintendent of Financial Institutions",
-        "projectName": "",
+        "projectName": "eSpace Project",
         "projectDescription2016": "eSpace Project\n The eSpace project is an existing project designed to integrate electronic document and records management into OSFI business processes to achieve productivity gains related to recordkeeping and to ensure valuable information assets are retained, used and shared to maximize their value to the organization and_ improve collaboration across organizational boundaries. This project will replace the current end of life Livelink solution and provide an enterprise-wide, highly reliable, metadata-driven, and bilingual solution.",
         "projectDescription2019": "",
         "totalBudget2016": "$10,100,000",
@@ -11344,13 +14740,19 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "completed"
+        "estimatedStatus": "completed",
+        "has2016data": "1",
+        "has2019data": "0",
+        "isOver10m2016": "1",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "osfi-vu": {
         "uniqueId": "osfi-vu",
         "deptAcronym": "osfi",
         "department": "Office of the Superintendent of Financial Institutions",
-        "projectName": "",
+        "projectName": "VU Supervisory Process Tools",
         "projectDescription2016": "",
         "projectDescription2019": "VU This initiative aims to improve supervisory processes and providing supervisors with adequate tools to support their core work (i.e. improve the quality and consistency of information, reduce duplication of work and manual activities, improve supervisory activity planning and reporting).",
         "totalBudget2016": "",
@@ -11364,13 +14766,19 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "new"
+        "estimatedStatus": "new",
+        "has2016data": "0",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "1",
+        "isOver100m2019": "0"
     },
     "pc-ds": {
         "uniqueId": "pc-ds",
         "deptAcronym": "pc",
         "department": "Parks Canada",
-        "projectName": "",
+        "projectName": "Dispace System Replacement",
         "projectDescription2016": "PCA Dispatch System Replacement of the Parks Canada Dispatch System .",
         "projectDescription2019": "",
         "totalBudget2016": "$1,400,000",
@@ -11384,13 +14792,19 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "completed"
+        "estimatedStatus": "completed",
+        "has2016data": "1",
+        "has2019data": "0",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "pc-epms": {
         "uniqueId": "pc-epms",
         "deptAcronym": "pc",
         "department": "Parks Canada",
-        "projectName": "",
+        "projectName": "Enterprise Project Management Information System",
         "projectDescription2016": "Project Management Information System Implementation of Enterprise Project\n Management System",
         "projectDescription2019": "",
         "totalBudget2016": "$2,621,000",
@@ -11404,13 +14818,19 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "completed"
+        "estimatedStatus": "completed",
+        "has2016data": "1",
+        "has2019data": "0",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "pc-eti": {
         "uniqueId": "pc-eti",
         "deptAcronym": "pc",
         "department": "Parks Canada",
-        "projectName": "",
+        "projectName": "Email Transformation Initiative",
         "projectDescription2016": "ETI Migration to the Government of Canada shared e-mail system",
         "projectDescription2019": "",
         "totalBudget2016": "$1,225,304",
@@ -11424,13 +14844,19 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "completed"
+        "estimatedStatus": "completed",
+        "has2016data": "1",
+        "has2019data": "0",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "pc-gcdocs": {
         "uniqueId": "pc-gcdocs",
         "deptAcronym": "pc",
         "department": "Parks Canada",
-        "projectName": "",
+        "projectName": "GCdocs",
         "projectDescription2016": "GCDocs Implementation of the GCDocs Management System",
         "projectDescription2019": "",
         "totalBudget2016": "$2,920,000",
@@ -11444,13 +14870,19 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "completed"
+        "estimatedStatus": "completed",
+        "has2016data": "1",
+        "has2019data": "0",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "pc-iippm": {
         "uniqueId": "pc-iippm",
         "deptAcronym": "pc",
         "department": "Parks Canada",
-        "projectName": "",
+        "projectName": "Infrastructure Investment Program & Project Management",
         "projectDescription2016": "",
         "projectDescription2019": "Infrastructure Investment Program & Project Management (suite of tools to support project management and project oversight, and investment planning}Infrastructure Investment Program & Project Management (suite of tools to support project management and project oversight, and investment planning}",
         "totalBudget2016": "",
@@ -11464,13 +14896,19 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "new"
+        "estimatedStatus": "new",
+        "has2016data": "0",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "pc-mygchr": {
         "uniqueId": "pc-mygchr",
         "deptAcronym": "pc",
         "department": "Parks Canada",
-        "projectName": "",
+        "projectName": "MyGCHR",
         "projectDescription2016": "My GC-HR Migration of Peoplesoft to a Government of Canada-managed\n environment",
         "projectDescription2019": "",
         "totalBudget2016": "$1,754,000",
@@ -11484,13 +14922,19 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "completed"
+        "estimatedStatus": "completed",
+        "has2016data": "1",
+        "has2019data": "0",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "pc-pay-system": {
         "uniqueId": "pc-pay-system",
         "deptAcronym": "pc",
         "department": "Parks Canada",
-        "projectName": "",
+        "projectName": "Phoenix Pay System",
         "projectDescription2016": "HR Pay Transformation Migration to the Government of Canada shared pay\n system",
         "projectDescription2019": "",
         "totalBudget2016": "$1,932,000",
@@ -11504,13 +14948,19 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "completed"
+        "estimatedStatus": "completed",
+        "has2016data": "1",
+        "has2019data": "0",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "pc-reservations": {
         "uniqueId": "pc-reservations",
         "deptAcronym": "pc",
         "department": "Parks Canada",
-        "projectName": "",
+        "projectName": "Campground and Visitor Experience Reservation System Renewal",
         "projectDescription2016": "",
         "projectDescription2019": "Parks Canada Campground and Visitor Experience Reservation System Renewal (initiative to modernize the public-facing system used for booking campsites and other Parks Canada services)",
         "totalBudget2016": "",
@@ -11524,13 +14974,19 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "new"
+        "estimatedStatus": "new",
+        "has2016data": "0",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "pch-eti": {
         "uniqueId": "pch-eti",
         "deptAcronym": "pch",
         "department": "Canadian Heritage",
-        "projectName": "",
+        "projectName": "Email Transformation Initiative",
         "projectDescription2016": "Email Transformation Initiative\n  \n The Government of Canada's Email Transformation Initiative will consolidate and modernize email services to reduce costs, increase security, and enhance program delivery to Canadian citizens and businesses. Shared Services Canada is mandated to work with partner departments and agencies to move to a consolidated e-mail platform. Therefore Canadian Heritage is moving from Lotus Notes to Microsoft Outlook. This initiative also includes the conversion of all applications that use email for\n transport of information, the conversion of all applications built in Lotus Notes and the conversion of all Lotus Notes document libraries to another solution.",
         "projectDescription2019": "",
         "totalBudget2016": "$3,363,738",
@@ -11544,13 +15000,19 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "completed"
+        "estimatedStatus": "completed",
+        "has2016data": "1",
+        "has2019data": "0",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "pco-bbos": {
         "uniqueId": "pco-bbos",
         "deptAcronym": "pco",
         "department": "Privy Council Office",
-        "projectName": "",
+        "projectName": "BlackBerry 10 & iOS Implementation",
         "projectDescription2016": "BiackBerry 1O& IOS Implementation - Involve the renewal of the PCO\/PMO email and mobile devices services. The objective is to improve mobile productivity and enable multi device enablement in an integrated and security cons\u00b7cious way",
         "projectDescription2019": "",
         "totalBudget2016": "$3,732,055",
@@ -11564,13 +15026,19 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "completed"
+        "estimatedStatus": "completed",
+        "has2016data": "1",
+        "has2019data": "0",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "pco-cabnet-renewal": {
         "uniqueId": "pco-cabnet-renewal",
         "deptAcronym": "pco",
         "department": "Privy Council Office",
-        "projectName": "",
+        "projectName": "CABNET Renewal",
         "projectDescription2016": "CABNET Renewal - Renewal of PCO\/PMO workstation operating environment focused on intra mural mobility and security improvement. This enhancement will also include deployment of Microsoft Windows 10.",
         "projectDescription2019": "",
         "totalBudget2016": "$1,144,026",
@@ -11584,13 +15052,19 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "completed"
+        "estimatedStatus": "completed",
+        "has2016data": "1",
+        "has2019data": "0",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "pco-ccm-enterprise": {
         "uniqueId": "pco-ccm-enterprise",
         "deptAcronym": "pco",
         "department": "Privy Council Office",
-        "projectName": "",
+        "projectName": "Executive Communications System for Correspondence Management",
         "projectDescription2016": "Executive\/Cabinet Correspondence Management - The objective of this\n project is to replace the legacy correspondence management tool (WebCIMS), and the Prime Minister Email Correspondence system with an\n integrated and scalable Executive Communications System called CCM Enterorise.",
         "projectDescription2019": "",
         "totalBudget2016": "$2,108,169",
@@ -11604,13 +15078,19 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "completed"
+        "estimatedStatus": "completed",
+        "has2016data": "1",
+        "has2019data": "0",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "pco-df-bi": {
         "uniqueId": "pco-df-bi",
         "deptAcronym": "pco",
         "department": "Privy Council Office",
-        "projectName": "",
+        "projectName": "Digital First Business Intelligence",
         "projectDescription2016": "Business Intelligence (Digital First) - The objective of this project is to implement a Business Intelligence solution, to create, analyze and disseminate reports and analytical information. This solution will facilitate executive decision-making; providing just-in-time access to pertinent information as required.",
         "projectDescription2019": "",
         "totalBudget2016": "$3,159,389",
@@ -11624,13 +15104,19 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "completed"
+        "estimatedStatus": "completed",
+        "has2016data": "1",
+        "has2019data": "0",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "pco-df-dam": {
         "uniqueId": "pco-df-dam",
         "deptAcronym": "pco",
         "department": "Privy Council Office",
-        "projectName": "",
+        "projectName": "Digital First Digital Assets Management",
         "projectDescription2016": "Digital Assets Management (Digital First) - This work product involves investment in deploying a digital asset management system required to manage, document and retrieve our stakeholders multimedia products.",
         "projectDescription2019": "",
         "totalBudget2016": "$1,245,601",
@@ -11644,13 +15130,19 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "completed"
+        "estimatedStatus": "completed",
+        "has2016data": "1",
+        "has2019data": "0",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "pco-df-pm-web": {
         "uniqueId": "pco-df-pm-web",
         "deptAcronym": "pco",
         "department": "Privy Council Office",
-        "projectName": "",
+        "projectName": "Digital First Prime Minister Web Modernization",
         "projectDescription2016": "Prime Minister Web Modernization (Digital First) - The objective of this project is to develop\/modernize PCO's web function to support: The PM's agenda for an open, interactive and transparent government; The Minister of Youth's requirement for an online presence (web and social media);\n The Business orocess for senate annointments",
         "projectDescription2019": "",
         "totalBudget2016": "$1,587,458",
@@ -11664,13 +15156,19 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "completed"
+        "estimatedStatus": "completed",
+        "has2016data": "1",
+        "has2019data": "0",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "pco-e-cabinet": {
         "uniqueId": "pco-e-cabinet",
         "deptAcronym": "pco",
         "department": "Privy Council Office",
-        "projectName": "",
+        "projectName": "e-Cabinet Management and Communication of Cabinet Documents",
         "projectDescription2016": "E-Cabinet - The establishment of e-Cabinet to facilitate the management and\n communication of Cabinet documents in digital form.",
         "projectDescription2019": "",
         "totalBudget2016": "$14,034,766",
@@ -11684,13 +15182,19 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "completed"
+        "estimatedStatus": "completed",
+        "has2016data": "1",
+        "has2019data": "0",
+        "isOver10m2016": "1",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "pco-ecms": {
         "uniqueId": "pco-ecms",
         "deptAcronym": "pco",
         "department": "Privy Council Office",
-        "projectName": "",
+        "projectName": "Enterprise Case Management System",
         "projectDescription2016": "Case Management - The objective of this project is to develop an Enterprise Case management system that will enable the development of case workflows and facilitate collaboration for GIC and Senate Appointments; replace existing legacy services as part of the sustainability plan and enable agile solution delivery for future requirements",
         "projectDescription2019": "",
         "totalBudget2016": "$2,413,969",
@@ -11704,13 +15208,19 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "completed"
+        "estimatedStatus": "completed",
+        "has2016data": "1",
+        "has2019data": "0",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "pco-imit-map": {
         "uniqueId": "pco-imit-map",
         "deptAcronym": "pco",
         "department": "Privy Council Office",
-        "projectName": "",
+        "projectName": "IM\/IT Map",
         "projectDescription2016": "IM\/IT Map - Enable PCO to address the recommendations of the internal IT Manag!3ment action plan (from 2013). Includes the development and\n enhancement related to governance, project management, operational lorocedures new business orocesses and securitv oractice.",
         "projectDescription2019": "",
         "totalBudget2016": "$1,000,000",
@@ -11724,13 +15234,19 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "completed"
+        "estimatedStatus": "completed",
+        "has2016data": "1",
+        "has2019data": "0",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "pco-langevin-security": {
         "uniqueId": "pco-langevin-security",
         "deptAcronym": "pco",
         "department": "Privy Council Office",
-        "projectName": "",
+        "projectName": "Langevin Security Upgrade",
         "projectDescription2016": "Security Langevin Upgrade - Upgrade the legacy card access control (Tap & PIN) and video surveillance systems across PCO",
         "projectDescription2019": "",
         "totalBudget2016": "$7,140,000",
@@ -11744,13 +15260,19 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "completed"
+        "estimatedStatus": "completed",
+        "has2016data": "1",
+        "has2019data": "0",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "pco-qpcs-im": {
         "uniqueId": "pco-qpcs-im",
         "deptAcronym": "pco",
         "department": "Privy Council Office",
-        "projectName": "",
+        "projectName": "Question Period Cards Solution Information Management",
         "projectDescription2016": "Collaboration and Information M nagement - To address the technology\n and related business process heeds for effective, efficient and just-in-time collaboration in support of the Question Period Cards Solution and the IM collaborative environment.",
         "projectDescription2019": "",
         "totalBudget2016": "$2,715,798",
@@ -11764,13 +15286,19 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "completed"
+        "estimatedStatus": "completed",
+        "has2016data": "1",
+        "has2019data": "0",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "pco-scnl": {
         "uniqueId": "pco-scnl",
         "deptAcronym": "pco",
         "department": "Privy Council Office",
-        "projectName": "",
+        "projectName": "Secure Communications for National Leadership",
         "projectDescription2016": "",
         "projectDescription2019": "The Secure Communications for National Leadership (SCNL), mentioned in the 2019-2020 Privy Council Office Departmental Plan is a joint Privy Council Office and Communications Security Establishment wide initiative to provide Canada's Senior Government Officials with modern and secure means of communications at the Secret level.",
         "totalBudget2016": "",
@@ -11784,13 +15312,19 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "new"
+        "estimatedStatus": "new",
+        "has2016data": "0",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "pco-ts-outsourcing": {
         "uniqueId": "pco-ts-outsourcing",
         "deptAcronym": "pco",
         "department": "Privy Council Office",
-        "projectName": "",
+        "projectName": "Top Secret Outsourcing Management",
         "projectDescription2016": "TS Outsourcing - Establish a service arrangement with key security partners for management of Top Secret infrastructure (transition services)",
         "projectDescription2019": "",
         "totalBudget2016": "$1,148,700",
@@ -11804,13 +15338,19 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "completed"
+        "estimatedStatus": "completed",
+        "has2016data": "1",
+        "has2019data": "0",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "pco-windows-10": {
         "uniqueId": "pco-windows-10",
         "deptAcronym": "pco",
         "department": "Privy Council Office",
-        "projectName": "",
+        "projectName": "Windows 10 Workstation Renewal",
         "projectDescription2016": "BNET Enhanced Mobility - Renewal of PCO\/PMO workstation operating environment focused on mobility and security improvement. This enhancement will also include deployment of Microsoft Windows 10 and will\n consider single users device objectives.",
         "projectDescription2019": "",
         "totalBudget2016": "$5,132,623",
@@ -11824,13 +15364,19 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "completed"
+        "estimatedStatus": "completed",
+        "has2016data": "1",
+        "has2019data": "0",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "phac-wifi": {
         "uniqueId": "phac-wifi",
         "deptAcronym": "phac",
         "department": "Public Health Agency of Canada",
-        "projectName": "",
+        "projectName": "Wi-Fi Implementation",
         "projectDescription2016": "",
         "projectDescription2019": "Wi-Fi implementation: For Phase 2 of this project, 11 additional buildings were Wi- Fi-enabled. Each building was provided with coverage for office spaces, cafeterias, boardrooms, closed offices, collaboration hubs and quiet rooms. The costs include hardware and equipment, installation, uploading of security certificates on laptops and workstations and configuration of all devices, testing and the development of standard operating procedures for maintenance. The project serves to fulfill the Clerk of the Privy Council's Office commitment in relation to Blueprint 2020, to provide a modern workplace that makes smart use of new technologies and to provide an agile, connected and high-performing workforce with modern tools to align with the GC IT Strategic Plan.",
         "totalBudget2016": "",
@@ -11844,13 +15390,19 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "new"
+        "estimatedStatus": "new",
+        "has2016data": "0",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "pspc-eaarg": {
         "uniqueId": "pspc-eaarg",
         "deptAcronym": "pspc",
         "department": "Public Services and Procurement Canada",
-        "projectName": "",
+        "projectName": "Electronic Authorization & Authentication Receiver General",
         "projectDescription2016": "",
         "projectDescription2019": "Electronic Authorization & Authentication Receiver General (EAARG)\nThe key deliverable of the project will be an Electronic Authorization & Authentication (EM) solution, for use across the GC, which meets all business, technical and legislative requirements, uses current cryptography standards and that will also provide a reliable and sustainable solution with ensured continued long term technical maintenance and support.",
         "totalBudget2016": "",
@@ -11864,13 +15416,19 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "new"
+        "estimatedStatus": "new",
+        "has2016data": "0",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "pspc-eti": {
         "uniqueId": "pspc-eti",
         "deptAcronym": "pspc",
         "department": "Public Services and Procurement Canada",
-        "projectName": "",
+        "projectName": "Email Transformation Initiative",
         "projectDescription2016": "Email Transformation Initiative: This is the PSPC project cost to complete the departmental work required for the Shared Services Canada's (SSC) Email Transformation Initiative (ETI). The project is dependent on SSC's schedule, which is still pending. The project will consolidate and modernize email services to reduce costs, increase security, and enhance program delivery to Canadian citizens and businesses. The new service will be offered to the rest of the Government of Canada (GOC).",
         "projectDescription2019": "",
         "totalBudget2016": "$2,000,000",
@@ -11884,13 +15442,19 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "new"
+        "estimatedStatus": "unknown (no dates specified)",
+        "has2016data": "1",
+        "has2019data": "0",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "pspc-gcsurplus": {
         "uniqueId": "pspc-gcsurplus",
         "deptAcronym": "pspc",
         "department": "Public Services and Procurement Canada",
-        "projectName": "",
+        "projectName": "GCSurplus Application Renewal",
         "projectDescription2016": "",
         "projectDescription2019": "Government of Canada Surplus\nThe current GCSurplus application set will be renewed, improving the future viability, maintainability and functionality of the solution, better addressing client needs and reducing future cyber security risks. Improved functionality to support real-time online bidding and reporting for standardized inventory control will be delivered.",
         "totalBudget2016": "",
@@ -11904,13 +15468,19 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "new"
+        "estimatedStatus": "new",
+        "has2016data": "0",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "pspc-isst": {
         "uniqueId": "pspc-isst",
         "deptAcronym": "pspc",
         "department": "Public Services and Procurement Canada",
-        "projectName": "",
+        "projectName": "Industrial Security System Transformation",
         "projectDescription2016": "",
         "projectDescription2019": "Industrial Security System Transformation\nThis project will replace the current complement of aging systems supporting both the Contract Security Program and Controlled Goods Program functions with a sinqle, unified solution that better addresses the current and emerginq needs of industry and of the Government of Canada.",
         "totalBudget2016": "",
@@ -11924,13 +15494,19 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "new"
+        "estimatedStatus": "new",
+        "has2016data": "0",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "1",
+        "isOver100m2019": "0"
     },
     "pspc-lsrms": {
         "uniqueId": "pspc-lsrms",
         "deptAcronym": "pspc",
         "department": "Public Services and Procurement Canada",
-        "projectName": "",
+        "projectName": "Linguistic Service Request Management System",
         "projectDescription2016": "",
         "projectDescription2019": "Linguistic Service Request Management System\nThis project will improve management of linguistic services requests to satisfy various Government of Canada initiatives and respond to the Translation Bureau's business modernization.",
         "totalBudget2016": "",
@@ -11944,13 +15520,19 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "new"
+        "estimatedStatus": "new",
+        "has2016data": "0",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "1",
+        "isOver100m2019": "0"
     },
     "pspc-pension-crm": {
         "uniqueId": "pspc-pension-crm",
         "deptAcronym": "pspc",
         "department": "Public Services and Procurement Canada",
-        "projectName": "",
+        "projectName": "GC Pension Modernization Project",
         "projectDescription2016": "GC Pension Modernization Project (ONO): The GCPMP is delivering a modern pension administration infrastructure through the phased adoption of commercial off the shelf (COTS) software based solutions for both core pension administration and Customer Relationship Management (CRM). The transition to the COTS software based solution is being carried out in concert with a careful plan to transform the pension administration business\n organization, functions and processes.",
         "projectDescription2019": "",
         "totalBudget2016": "$142,500,000",
@@ -11964,13 +15546,19 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "completed"
+        "estimatedStatus": "completed",
+        "has2016data": "1",
+        "has2019data": "0",
+        "isOver10m2016": "1",
+        "isOver100m2016": "1",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "pspc-windows10": {
         "uniqueId": "pspc-windows10",
         "deptAcronym": "pspc",
         "department": "Public Services and Procurement Canada",
-        "projectName": "",
+        "projectName": "Windows 10 Migration",
         "projectDescription2016": "",
         "projectDescription2019": "Windows 10 Migration\nMiqration of PSPC's 20,000 Desktop computers to the Windows 10 operatinq System.",
         "totalBudget2016": "",
@@ -11984,13 +15572,19 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "new"
+        "estimatedStatus": "new",
+        "has2016data": "0",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "rcmp-ancopp": {
         "uniqueId": "rcmp-ancopp",
         "deptAcronym": "rcmp",
         "department": "Royal Canadian Mounted Police",
-        "projectName": "",
+        "projectName": "Automated Non-Commissioned Officer Promotions Process Phase 1",
         "projectDescription2016": "",
         "projectDescription2019": "Automated Non-Commissioned Officer Promotions Process Phase I : Implement enterprise-wide automated solution for human resource processes",
         "totalBudget2016": "",
@@ -12004,13 +15598,19 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "new"
+        "estimatedStatus": "new",
+        "has2016data": "0",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "rcmp-apsscp": {
         "uniqueId": "rcmp-apsscp",
         "deptAcronym": "rcmp",
         "department": "Royal Canadian Mounted Police",
-        "projectName": "",
+        "projectName": "Automated Public Service PS Staffing and Classification Process",
         "projectDescription2016": "",
         "projectDescription2019": "Automated Public Service PS Staffing and Classification Process : Implement enterprise-wide automated solution for human resource processes.",
         "totalBudget2016": "",
@@ -12024,13 +15624,19 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "new"
+        "estimatedStatus": "new",
+        "has2016data": "0",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "rcmp-asmms": {
         "uniqueId": "rcmp-asmms",
         "deptAcronym": "rcmp",
         "department": "Royal Canadian Mounted Police",
-        "projectName": "",
+        "projectName": "Air Services Maintenance Management System",
         "projectDescription2016": "",
         "projectDescription2019": "Air Services Maintenance ManaAement Svstem : Procure and implement new system.",
         "totalBudget2016": "",
@@ -12044,13 +15650,19 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "new"
+        "estimatedStatus": "new",
+        "has2016data": "0",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "1",
+        "isOver100m2019": "0"
     },
     "rcmp-av-lfss": {
         "uniqueId": "rcmp-av-lfss",
         "deptAcronym": "rcmp",
         "department": "Royal Canadian Mounted Police",
-        "projectName": "",
+        "projectName": "Audio, Video and Large File Storage Strategy Implementation",
         "projectDescription2016": "The Audio, Video and Large File Storage Strategy Implementation aims to develop the ability to manage and stream audio\/video searches, information management, storage, distribution and related tools across the network without impact to critical systems.",
         "projectDescription2019": "",
         "totalBudget2016": "$7,500,000",
@@ -12064,13 +15676,19 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "unknown"
+        "estimatedStatus": "unknown (past due)",
+        "has2016data": "1",
+        "has2019data": "0",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "rcmp-bes": {
         "uniqueId": "rcmp-bes",
         "deptAcronym": "rcmp",
         "department": "Royal Canadian Mounted Police",
-        "projectName": "",
+        "projectName": "Border Enforcement Strategy",
         "projectDescription2016": "",
         "projectDescription2019": "Border Enforcement Strateav: Suooort Government of Canada in improvinq the inteqritv and security of the Canadian border and asvlum process.",
         "totalBudget2016": "",
@@ -12084,13 +15702,19 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "new"
+        "estimatedStatus": "unknown (no dates specified)",
+        "has2016data": "0",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "1",
+        "isOver100m2019": "0"
     },
     "rcmp-bi-modernization": {
         "uniqueId": "rcmp-bi-modernization",
         "deptAcronym": "rcmp",
         "department": "Royal Canadian Mounted Police",
-        "projectName": "",
+        "projectName": "Business Intelligence Modernization",
         "projectDescription2016": "",
         "projectDescription2019": "Business lntelli!=lence Modernization : Implement an enterprise solution to enable improved decision makinq.",
         "totalBudget2016": "",
@@ -12104,13 +15728,19 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "new"
+        "estimatedStatus": "new",
+        "has2016data": "0",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "1",
+        "isOver100m2019": "0"
     },
     "rcmp-biometrics-sharing": {
         "uniqueId": "rcmp-biometrics-sharing",
         "deptAcronym": "rcmp",
         "department": "Royal Canadian Mounted Police",
-        "projectName": "",
+        "projectName": "Fingerprint Biometrics Sharing Component",
         "projectDescription2016": "Thelnrormation Sharing (15) lmm1grat1on proiect was 1mt1ated by\n Immigration Refugees and Citizenship Canada {IRCC) to meet their current commitments under the Canada-US Perimeter Security and Economic Competitiveness Action Plan that outlines joint priorities to strengthen shared security and improve the legitimate flow of people, goods and services across borders. The RCMP will provide the IT components for the ability to share fingerprint biometrics records\n - -\u2022 - \"\"' th<> I lnit<>ri C:::+;,+,,..,",
         "projectDescription2019": "",
         "totalBudget2016": "$11,361,000",
@@ -12124,13 +15754,19 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "completed"
+        "estimatedStatus": "completed",
+        "has2016data": "1",
+        "has2019data": "0",
+        "isOver10m2016": "1",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "rcmp-cannabis": {
         "uniqueId": "rcmp-cannabis",
         "deptAcronym": "rcmp",
         "department": "Royal Canadian Mounted Police",
-        "projectName": "",
+        "projectName": "Cannabis Legislation Support",
         "projectDescription2016": "",
         "projectDescription2019": "Cannabis : Suooort Government of Canada Leqislation to leaalize and control access to Cannabis.",
         "totalBudget2016": "",
@@ -12144,13 +15780,19 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "new"
+        "estimatedStatus": "unknown (no dates specified)",
+        "has2016data": "0",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "rcmp-ciids": {
         "uniqueId": "rcmp-ciids",
         "deptAcronym": "rcmp",
         "department": "Royal Canadian Mounted Police",
-        "projectName": "",
+        "projectName": "Computerized Integrated Information and Dispatch System",
         "projectDescription2016": "Computerized Integrated Information and Dispatch System (CIIDS) will provide an integrated tool for RCMP Operational Communication Centre {OCC) call taking and dispatching operators to provide core services to the public and to the patrolling members. It is the main tool used in the OCC and provides integrated access to RCMP external systems, to E911 and radio systems, and to the mobile Wireless applications used in patrol units. The rebaslined project.cost is $5.2M and project completion is anticipated in 2016-17.",
         "projectDescription2019": "",
         "totalBudget2016": "$5,192,000",
@@ -12164,13 +15806,19 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "completed"
+        "estimatedStatus": "completed",
+        "has2016data": "1",
+        "has2019data": "0",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "rcmp-cjim": {
         "uniqueId": "rcmp-cjim",
         "deptAcronym": "rcmp",
         "department": "Royal Canadian Mounted Police",
-        "projectName": "",
+        "projectName": "Criminal Justice Information Modernization",
         "projectDescription2016": "The Criminal Justice Information Modernization (CJIM) project is\n to automate the processing of criminal records and court dispositions; to replace associated legacy systems;_ and to provide a seamless interface to the CPIC application. Through business process re- engineering, automation and standardization, CJIM will contribute to the Canadian Criminal Real Time ld ntification Services (CCRTIS) program renewal based on a new vision and a new target operating model.",
         "projectDescription2019": "",
         "totalBudget2016": "$41,096,000",
@@ -12184,13 +15832,19 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "completed"
+        "estimatedStatus": "completed",
+        "has2016data": "1",
+        "has2019data": "0",
+        "isOver10m2016": "1",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "rcmp-cloud": {
         "uniqueId": "rcmp-cloud",
         "deptAcronym": "rcmp",
         "department": "Royal Canadian Mounted Police",
-        "projectName": "",
+        "projectName": "Cloud Approach",
         "projectDescription2016": "",
         "projectDescription2019": "Cloud Annroach : Implement an enterorise solution to enable improved information manaqement decision makinq.",
         "totalBudget2016": "",
@@ -12204,13 +15858,19 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "new"
+        "estimatedStatus": "unknown (no dates specified)",
+        "has2016data": "0",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "rcmp-cms": {
         "uniqueId": "rcmp-cms",
         "deptAcronym": "rcmp",
         "department": "Royal Canadian Mounted Police",
-        "projectName": "",
+        "projectName": "Enterprise Case Management Solution",
         "projectDescription2016": "",
         "projectDescription2019": "Case Management : Implement an enterprise case manaaement solution.",
         "totalBudget2016": "",
@@ -12224,13 +15884,19 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "new"
+        "estimatedStatus": "new",
+        "has2016data": "0",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "rcmp-cms-e": {
         "uniqueId": "rcmp-cms-e",
         "deptAcronym": "rcmp",
         "department": "Royal Canadian Mounted Police",
-        "projectName": "",
+        "projectName": "E Division Content Management System Upgrade",
         "projectDescription2016": "",
         "projectDescription2019": "RCMP E Division Content Management System : Uoarade system software.",
         "totalBudget2016": "",
@@ -12244,13 +15910,19 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "new"
+        "estimatedStatus": "unknown (no dates specified)",
+        "has2016data": "0",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "rcmp-cop": {
         "uniqueId": "rcmp-cop",
         "deptAcronym": "rcmp",
         "department": "Royal Canadian Mounted Police",
-        "projectName": "",
+        "projectName": "Common Operating Picture",
         "projectDescription2016": "",
         "projectDescription2019": "Common Operatim1 Picture: Implement an enterprise solution to enable improved law enforcement decision makinq and service deliverv.",
         "totalBudget2016": "",
@@ -12264,13 +15936,19 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "new"
+        "estimatedStatus": "unknown (no dates specified)",
+        "has2016data": "0",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "rcmp-cper-hana": {
         "uniqueId": "rcmp-cper-hana",
         "deptAcronym": "rcmp",
         "department": "Royal Canadian Mounted Police",
-        "projectName": "",
+        "projectName": "Contract Policing Enhanced Reporting HANA Database",
         "projectDescription2016": "",
         "projectDescription2019": "Contract Policing Enhanced Reporting : Standardize and inteqrate sales forecastinq for Contract Policinq Partners, on the HANA database platform",
         "totalBudget2016": "",
@@ -12284,13 +15962,19 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "new"
+        "estimatedStatus": "new",
+        "has2016data": "0",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "1",
+        "isOver100m2019": "0"
     },
     "rcmp-cpic-dam": {
         "uniqueId": "rcmp-cpic-dam",
         "deptAcronym": "rcmp",
         "department": "Royal Canadian Mounted Police",
-        "projectName": "",
+        "projectName": "Canadian Police Information Centre (CPIC) Digital Asset Management",
         "projectDescription2016": "",
         "projectDescription2019": "Digital Asset Management Canadian Police Information Centre (CPIC) Querv: Replace and uparade hardware.",
         "totalBudget2016": "",
@@ -12304,13 +15988,19 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "new"
+        "estimatedStatus": "unknown (no dates specified)",
+        "has2016data": "0",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "rcmp-cpic-photo": {
         "uniqueId": "rcmp-cpic-photo",
         "deptAcronym": "rcmp",
         "department": "Royal Canadian Mounted Police",
-        "projectName": "",
+        "projectName": "Canadian Police Information Centre (CPIC) Photo Attachment Functionality Upgrade",
         "projectDescription2016": "",
         "projectDescription2019": "CPIC Photo Attachment: Uoarade svstem functionality.",
         "totalBudget2016": "",
@@ -12324,13 +16014,19 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "new"
+        "estimatedStatus": "new",
+        "has2016data": "0",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "rcmp-csm-2": {
         "uniqueId": "rcmp-csm-2",
         "deptAcronym": "rcmp",
         "department": "Royal Canadian Mounted Police",
-        "projectName": "",
+        "projectName": "Civil Screening Modernization Phase 2",
         "projectDescription2016": "Civil Screening Modernization Phase II includes criminal records\n verification reauests for all civil screenino requests.",
         "projectDescription2019": "",
         "totalBudget2016": "$8,368,000",
@@ -12344,13 +16040,19 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "completed"
+        "estimatedStatus": "completed",
+        "has2016data": "1",
+        "has2019data": "0",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "rcmp-depot-ds": {
         "uniqueId": "rcmp-depot-ds",
         "deptAcronym": "rcmp",
         "department": "Royal Canadian Mounted Police",
-        "projectName": "",
+        "projectName": "RCMP Depot Driving Simulator Renewal",
         "projectDescription2016": "",
         "projectDescription2019": "RCMP Depot Driving Simulator Renewal : Uoarade cadet training software.",
         "totalBudget2016": "",
@@ -12364,13 +16066,19 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "new"
+        "estimatedStatus": "unknown (no dates specified)",
+        "has2016data": "0",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "rcmp-depot-lms": {
         "uniqueId": "rcmp-depot-lms",
         "deptAcronym": "rcmp",
         "department": "Royal Canadian Mounted Police",
-        "projectName": "",
+        "projectName": "RCMP Depot E-Learning System",
         "projectDescription2016": "",
         "projectDescription2019": "RCMP Depot E-Learning System : Upqrade cadet training software.",
         "totalBudget2016": "",
@@ -12384,13 +16092,19 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "new"
+        "estimatedStatus": "unknown (no dates specified)",
+        "has2016data": "0",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "rcmp-egis-2": {
         "uniqueId": "rcmp-egis-2",
         "deptAcronym": "rcmp",
         "department": "Royal Canadian Mounted Police",
-        "projectName": "",
+        "projectName": "Enterprise Geospatial Information System Phase 2",
         "projectDescription2016": "",
         "projectDescription2019": "Enterprise Geospatial Information Svstem Phase II: LJpqrade and modernize law enforcement service deliverv.",
         "totalBudget2016": "",
@@ -12404,13 +16118,19 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "new"
+        "estimatedStatus": "unknown (no dates specified)",
+        "has2016data": "0",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "rcmp-emp": {
         "uniqueId": "rcmp-emp",
         "deptAcronym": "rcmp",
         "department": "Royal Canadian Mounted Police",
-        "projectName": "",
+        "projectName": "Email Modernization Project",
         "projectDescription2016": "",
         "projectDescription2019": "Email Modernization Project: Upgrade internal communication systems.",
         "totalBudget2016": "",
@@ -12424,13 +16144,19 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "new"
+        "estimatedStatus": "new",
+        "has2016data": "0",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "1",
+        "isOver100m2019": "0"
     },
     "rcmp-eti": {
         "uniqueId": "rcmp-eti",
         "deptAcronym": "rcmp",
         "department": "Royal Canadian Mounted Police",
-        "projectName": "",
+        "projectName": "Email Transformation Initiative",
         "projectDescription2016": "Email Transformation Initiative (ETI): The objective of the Email\n Transformation Initiative project is to implement the SSC email solution.",
         "projectDescription2019": "",
         "totalBudget2016": "$7,706,000",
@@ -12444,13 +16170,19 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "completed"
+        "estimatedStatus": "completed",
+        "has2016data": "1",
+        "has2019data": "0",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "rcmp-eticketing-e": {
         "uniqueId": "rcmp-eticketing-e",
         "deptAcronym": "rcmp",
         "department": "Royal Canadian Mounted Police",
-        "projectName": "",
+        "projectName": "E Division Road Safety Initiative eTicketing",
         "projectDescription2016": "",
         "projectDescription2019": "RCMP E Division Road Safetv Initiative eTicketinq : Uoarade and modernize law enforcement service delivery.",
         "totalBudget2016": "",
@@ -12464,13 +16196,19 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "new"
+        "estimatedStatus": "unknown (no dates specified)",
+        "has2016data": "0",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "rcmp-expungement": {
         "uniqueId": "rcmp-expungement",
         "deptAcronym": "rcmp",
         "department": "Royal Canadian Mounted Police",
-        "projectName": "",
+        "projectName": "Expungement of Historically Unjust Convictions Support",
         "projectDescription2016": "",
         "projectDescription2019": "Expungement: Support Government of Canada Legislation Bill C-66 - ExpunQement of Historically unjust Convictions Act",
         "totalBudget2016": "",
@@ -12484,13 +16222,19 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "new"
+        "estimatedStatus": "new",
+        "has2016data": "0",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "rcmp-frt-db": {
         "uniqueId": "rcmp-frt-db",
         "deptAcronym": "rcmp",
         "department": "Royal Canadian Mounted Police",
-        "projectName": "",
+        "projectName": "Firearms Reference Table Database Upgrade",
         "projectDescription2016": "",
         "projectDescription2019": "Firearms Reference Table : Upqrade database.",
         "totalBudget2016": "",
@@ -12504,13 +16248,19 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "new"
+        "estimatedStatus": "new",
+        "has2016data": "0",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "rcmp-gcnet-wan": {
         "uniqueId": "rcmp-gcnet-wan",
         "deptAcronym": "rcmp",
         "department": "Royal Canadian Mounted Police",
-        "projectName": "",
+        "projectName": "GCNet WAN Services Migration",
         "projectDescription2016": "",
         "projectDescription2019": "GCNet WAN Services Migration : Migrate RCMP wide area network (WAN) to the GCNet WAN.",
         "totalBudget2016": "",
@@ -12524,13 +16274,19 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "new"
+        "estimatedStatus": "new",
+        "has2016data": "0",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "1",
+        "isOver100m2019": "0"
     },
     "rcmp-imp": {
         "uniqueId": "rcmp-imp",
         "deptAcronym": "rcmp",
         "department": "Royal Canadian Mounted Police",
-        "projectName": "",
+        "projectName": "Identity Management Program",
         "projectDescription2016": "",
         "projectDescription2019": "Identify Manaaernent Program : Implement an enterprise solution to enable imProved law enforcement decision makinq and service deliverv.",
         "totalBudget2016": "",
@@ -12544,13 +16300,19 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "new"
+        "estimatedStatus": "unknown (no dates specified)",
+        "has2016data": "0",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "rcmp-interpol-set": {
         "uniqueId": "rcmp-interpol-set",
         "deptAcronym": "rcmp",
         "department": "Royal Canadian Mounted Police",
-        "projectName": "",
+        "projectName": "Interpol Secure Email Transformation",
         "projectDescription2016": "",
         "projectDescription2019": "Interpol Secure Email Transformation : Upqrade and modernize information manaaement and information technology securitv svstems.",
         "totalBudget2016": "",
@@ -12564,13 +16326,19 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "new"
+        "estimatedStatus": "unknown (no dates specified)",
+        "has2016data": "0",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "rcmp-ipe": {
         "uniqueId": "rcmp-ipe",
         "deptAcronym": "rcmp",
         "department": "Royal Canadian Mounted Police",
-        "projectName": "",
+        "projectName": "Internet Presence Environment Upgrade",
         "projectDescription2016": "The Internet Presence Environment (IPE) upgrade project is the design, implementation and maintenance of a new secure, robust, highly available and scalable environment for all RCMP internet\n accessible web content and web annlications.",
         "projectDescription2019": "",
         "totalBudget2016": "$2,250,000",
@@ -12584,13 +16352,19 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "completed"
+        "estimatedStatus": "completed",
+        "has2016data": "1",
+        "has2019data": "0",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "rcmp-itspm": {
         "uniqueId": "rcmp-itspm",
         "deptAcronym": "rcmp",
         "department": "Royal Canadian Mounted Police",
-        "projectName": "",
+        "projectName": "IT Security Program Modernization",
         "projectDescription2016": "",
         "projectDescription2019": "IT Securitv Proqram Modernization : Uoarade and modernize information manaaement and information technoloav securitv svstems.",
         "totalBudget2016": "",
@@ -12604,13 +16378,19 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "new"
+        "estimatedStatus": "unknown (no dates specified)",
+        "has2016data": "0",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "1",
+        "isOver100m2019": "0"
     },
     "rcmp-lms": {
         "uniqueId": "rcmp-lms",
         "deptAcronym": "rcmp",
         "department": "Royal Canadian Mounted Police",
-        "projectName": "",
+        "projectName": "Learning Management System Modernization",
         "projectDescription2016": "",
         "projectDescription2019": "learnina Manaaement Svstem Modernization : Uoarade svstem software.",
         "totalBudget2016": "",
@@ -12624,13 +16404,19 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "new"
+        "estimatedStatus": "new",
+        "has2016data": "0",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "rcmp-mcpur": {
         "uniqueId": "rcmp-mcpur",
         "deptAcronym": "rcmp",
         "department": "Royal Canadian Mounted Police",
-        "projectName": "",
+        "projectName": "Missing Children\/Persons and Unidentified Remains Database",
         "projectDescription2016": "Missing Children\/Persons and Unidentified Remains (MCPUR)\n Database is a national system that will receive data from CPIC, provide reporting and analytical tools, and provide an extract that will\n be used to post missing persons and unidentified remains information to a nublic website. .",
         "projectDescription2019": "",
         "totalBudget2016": "$2,321,000",
@@ -12644,13 +16430,19 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "completed"
+        "estimatedStatus": "completed",
+        "has2016data": "1",
+        "has2019data": "0",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "rcmp-mddm": {
         "uniqueId": "rcmp-mddm",
         "deptAcronym": "rcmp",
         "department": "Royal Canadian Mounted Police",
-        "projectName": "",
+        "projectName": "Mobile Device Deployment & Management",
         "projectDescription2016": "",
         "projectDescription2019": "Mobile Device Deployment & Management : Implement an enterprise solution to enable improved law enforcement decision making and service delivery.",
         "totalBudget2016": "",
@@ -12664,13 +16456,19 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "new"
+        "estimatedStatus": "unknown (no dates specified)",
+        "has2016data": "0",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "rcmp-mdsi": {
         "uniqueId": "rcmp-mdsi",
         "deptAcronym": "rcmp",
         "department": "Royal Canadian Mounted Police",
-        "projectName": "",
+        "projectName": "Mobile Device Strategy Implementation Initiative",
         "projectDescription2016": "The Mobile Device Strategy Implementation initiative will put in place the vision, standards, tools, security, and contracts required to\n deliver mobile applications to hand held and electronic technology devices.",
         "projectDescription2019": "",
         "totalBudget2016": "$5,000,000",
@@ -12684,13 +16482,19 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "unknown"
+        "estimatedStatus": "unknown (past due)",
+        "has2016data": "1",
+        "has2019data": "0",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "rcmp-media-dam": {
         "uniqueId": "rcmp-media-dam",
         "deptAcronym": "rcmp",
         "department": "Royal Canadian Mounted Police",
-        "projectName": "",
+        "projectName": "Digital Asset Management for New Media",
         "projectDescription2016": "",
         "projectDescription2019": "New Media - Digital Asset Management : Develop new media web aoolications and cloud-based solutions.",
         "totalBudget2016": "",
@@ -12704,13 +16508,19 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "new"
+        "estimatedStatus": "new",
+        "has2016data": "0",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "rcmp-mygchr": {
         "uniqueId": "rcmp-mygchr",
         "deptAcronym": "rcmp",
         "department": "Royal Canadian Mounted Police",
-        "projectName": "",
+        "projectName": "MyGCHR",
         "projectDescription2016": "Migration to GC standard PeopleSoft 9.1 (My GC HR): The TBS HR Services Modernization Initiative consists of four initiatives including the build of th\u00b7e GC Human Resources Management System (GC HRMS) standard in PeopleSoft 9.1 (My GC. HR). An independent study is being conducted to determine the feasibility of the RCMP moving to the Mv GCHR common instance.",
         "projectDescription2019": "",
         "totalBudget2016": "$10,000,000",
@@ -12724,13 +16534,19 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "unknown"
+        "estimatedStatus": "unknown (past due)",
+        "has2016data": "1",
+        "has2019data": "0",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "rcmp-nc3": {
         "uniqueId": "rcmp-nc3",
         "deptAcronym": "rcmp",
         "department": "Royal Canadian Mounted Police",
-        "projectName": "",
+        "projectName": "National Cyber-Crime Coordination (NC3) Establishment",
         "projectDescription2016": "",
         "projectDescription2019": "National Cyber-Crime Coordination (NC3) : Support establishment of new NC3 Unit within the RCMP.",
         "totalBudget2016": "",
@@ -12744,13 +16560,19 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "new"
+        "estimatedStatus": "new",
+        "has2016data": "0",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "1",
+        "isOver100m2019": "0"
     },
     "rcmp-network-bandwidth": {
         "uniqueId": "rcmp-network-bandwidth",
         "deptAcronym": "rcmp",
         "department": "Royal Canadian Mounted Police",
-        "projectName": "",
+        "projectName": "Network Bandwidth Modernization",
         "projectDescription2016": "",
         "projectDescription2019": "Network Bandwidth Modernization: Uoarade and modernize RCMP wired and wireless network bandwidth.",
         "totalBudget2016": "",
@@ -12764,13 +16586,19 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "new"
+        "estimatedStatus": "unknown (no dates specified)",
+        "has2016data": "0",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "rcmp-next-gen-911": {
         "uniqueId": "rcmp-next-gen-911",
         "deptAcronym": "rcmp",
         "department": "Royal Canadian Mounted Police",
-        "projectName": "",
+        "projectName": "Next Generation 9-1-1",
         "projectDescription2016": "",
         "projectDescription2019": "Next Generation 9-1-1: Upqrade and modernize emerQency communication systems.",
         "totalBudget2016": "",
@@ -12784,13 +16612,19 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "new"
+        "estimatedStatus": "new",
+        "has2016data": "0",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "rcmp-nrtc": {
         "uniqueId": "rcmp-nrtc",
         "deptAcronym": "rcmp",
         "department": "Royal Canadian Mounted Police",
-        "projectName": "",
+        "projectName": "RCMP National Radio Tower Compliance Upgrade",
         "projectDescription2016": "",
         "projectDescription2019": "RCMP National Radio Tower Compliance : Uoarade emergency communication systems.",
         "totalBudget2016": "",
@@ -12804,13 +16638,19 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "new"
+        "estimatedStatus": "new",
+        "has2016data": "0",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "1",
+        "isOver100m2019": "0"
     },
     "rcmp-nsc": {
         "uniqueId": "rcmp-nsc",
         "deptAcronym": "rcmp",
         "department": "Royal Canadian Mounted Police",
-        "projectName": "",
+        "projectName": "Netmotion Secure Connectivity",
         "projectDescription2016": "",
         "projectDescription2019": "Netmotion Secure Connectivitv: Uoarade and modernize information manaoement and technoloqy securitv systems.",
         "totalBudget2016": "",
@@ -12824,13 +16664,19 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "new"
+        "estimatedStatus": "unknown (no dates specified)",
+        "has2016data": "0",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "rcmp-oimp": {
         "uniqueId": "rcmp-oimp",
         "deptAcronym": "rcmp",
         "department": "Royal Canadian Mounted Police",
-        "projectName": "",
+        "projectName": "Operational Information Modernization Project",
         "projectDescription2016": "The Operational Information modernization.project (OI) will serve as a basis for the delivery of a solution for 01 across the organization and will enable the growth of RCMP 01 maturity in order to support decision making process, at all levels.",
         "projectDescription2019": "",
         "totalBudget2016": "$2,090,000",
@@ -12844,13 +16690,19 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "completed"
+        "estimatedStatus": "completed",
+        "has2016data": "1",
+        "has2019data": "0",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "rcmp-pat-2": {
         "uniqueId": "rcmp-pat-2",
         "deptAcronym": "rcmp",
         "department": "Royal Canadian Mounted Police",
-        "projectName": "",
+        "projectName": "Prisoner Processing and Case Management Police Access Tool",
         "projectDescription2016": "The Prisoner Processing and Case Management Police Access\n Tool (PAT) Phase II project will update and upgrade the existing system and enable new functionality, including Police Partner Agencies access and prisoner booking.",
         "projectDescription2019": "",
         "totalBudget2016": "$3,033,000",
@@ -12864,13 +16716,19 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "completed"
+        "estimatedStatus": "completed",
+        "has2016data": "1",
+        "has2019data": "0",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "rcmp-pay-system-mps": {
         "uniqueId": "rcmp-pay-system-mps",
         "deptAcronym": "rcmp",
         "department": "Royal Canadian Mounted Police",
-        "projectName": "",
+        "projectName": "Member Pay System Phoenix Migration",
         "projectDescription2016": "The Member Pay system replacement project\u00b7is to replace the\n Member Pay System with the new Phoenix system that is used for Public Servants oav.",
         "projectDescription2019": "",
         "totalBudget2016": "$2,079,000",
@@ -12884,13 +16742,19 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "completed"
+        "estimatedStatus": "completed",
+        "has2016data": "1",
+        "has2019data": "0",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "rcmp-pay-system-pse": {
         "uniqueId": "rcmp-pay-system-pse",
         "deptAcronym": "rcmp",
         "department": "Royal Canadian Mounted Police",
-        "projectName": "",
+        "projectName": "Phoenix Pay System",
         "projectDescription2016": "The Phoenix Integration for PSEs project is focused on implementing the automated solution and related business processes provided by the Department of Public Works and Government Services (PWGSC) that integrates the RCMP HRMIS solution with the PWGSC Phoenix solution for administrating pay for Public Service Employees. The project is currently underway, and the rebaselined TEC is $1.5M and project completion is anticipated in 2015-16.",
         "projectDescription2019": "",
         "totalBudget2016": "$1,285,000",
@@ -12904,13 +16768,19 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "completed"
+        "estimatedStatus": "completed",
+        "has2016data": "1",
+        "has2019data": "0",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "rcmp-pdap": {
         "uniqueId": "rcmp-pdap",
         "deptAcronym": "rcmp",
         "department": "Royal Canadian Mounted Police",
-        "projectName": "",
+        "projectName": "Police Data Analytics Project",
         "projectDescription2016": "",
         "projectDescription2019": "Police Data Analytics Project: Proof-of-concept pilot project to manage large volumes of policing digital data and keep pace with advancinq technoloqy_",
         "totalBudget2016": "",
@@ -12924,13 +16794,19 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "new"
+        "estimatedStatus": "new",
+        "has2016data": "0",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "rcmp-pipm": {
         "uniqueId": "rcmp-pipm",
         "deptAcronym": "rcmp",
         "department": "Royal Canadian Mounted Police",
-        "projectName": "",
+        "projectName": "Police Information Portal Modernization",
         "projectDescription2016": "",
         "projectDescription2019": "Police Information Portal Modernization : Uoaradina and modernizing system.",
         "totalBudget2016": "",
@@ -12944,13 +16820,19 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "new"
+        "estimatedStatus": "unknown (no dates specified)",
+        "has2016data": "0",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "1",
+        "isOver100m2019": "0"
     },
     "rcmp-radio-central": {
         "uniqueId": "rcmp-radio-central",
         "deptAcronym": "rcmp",
         "department": "Royal Canadian Mounted Police",
-        "projectName": "",
+        "projectName": "Central Region Radio System Renewal and Modernization",
         "projectDescription2016": "",
         "projectDescription2019": "RCMP Central Reqion Radio System Renewal and Modernization : Uoarade emeraency communication systems.",
         "totalBudget2016": "",
@@ -12964,13 +16846,19 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "new"
+        "estimatedStatus": "new",
+        "has2016data": "0",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "1",
+        "isOver100m2019": "0"
     },
     "rcmp-radio-d": {
         "uniqueId": "rcmp-radio-d",
         "deptAcronym": "rcmp",
         "department": "Royal Canadian Mounted Police",
-        "projectName": "",
+        "projectName": "D Division Radio System Renewal and Modernization",
         "projectDescription2016": "",
         "projectDescription2019": "RCMP D Division Radio System Renewal and Modernization : Uoarade emerqencv communication systems.",
         "totalBudget2016": "",
@@ -12984,13 +16872,19 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "new"
+        "estimatedStatus": "new",
+        "has2016data": "0",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "rcmp-radio-f": {
         "uniqueId": "rcmp-radio-f",
         "deptAcronym": "rcmp",
         "department": "Royal Canadian Mounted Police",
-        "projectName": "",
+        "projectName": "F Division Radio Network Upgrade",
         "projectDescription2016": "",
         "projectDescription2019": "RCMP F Division Radio Network Uoarade: Uoarade emerqencv communication systems.",
         "totalBudget2016": "",
@@ -13004,13 +16898,19 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "new"
+        "estimatedStatus": "unknown (no dates specified)",
+        "has2016data": "0",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "1",
+        "isOver100m2019": "0"
     },
     "rcmp-radio-j": {
         "uniqueId": "rcmp-radio-j",
         "deptAcronym": "rcmp",
         "department": "Royal Canadian Mounted Police",
-        "projectName": "",
+        "projectName": "J Division Radio System Renewal and Modernization",
         "projectDescription2016": "",
         "projectDescription2019": "RCMP J Division Radio System Renewal and Modernization : Uoarade emergency communication systems.",
         "totalBudget2016": "",
@@ -13024,13 +16924,19 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "new"
+        "estimatedStatus": "new",
+        "has2016data": "0",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "1",
+        "isOver100m2019": "0"
     },
     "rcmp-radio-k": {
         "uniqueId": "rcmp-radio-k",
         "deptAcronym": "rcmp",
         "department": "Royal Canadian Mounted Police",
-        "projectName": "",
+        "projectName": "K Division Radio Renewal and Modernization",
         "projectDescription2016": "",
         "projectDescription2019": "RCMP K Division Radio Renewal and Modernization : Uoarade emergency communication systems.",
         "totalBudget2016": "",
@@ -13044,13 +16950,19 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "new"
+        "estimatedStatus": "new",
+        "has2016data": "0",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "rcmp-radio-v": {
         "uniqueId": "rcmp-radio-v",
         "deptAcronym": "rcmp",
         "department": "Royal Canadian Mounted Police",
-        "projectName": "",
+        "projectName": "V Divison Radio System Renewal and Modernization",
         "projectDescription2016": "",
         "projectDescription2019": "RCMP V Divison Radio System Renewal and Modernization : LJpqrade emeraency communication systems.",
         "totalBudget2016": "",
@@ -13064,13 +16976,19 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "new"
+        "estimatedStatus": "new",
+        "has2016data": "0",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "rcmp-sap-ssep": {
         "uniqueId": "rcmp-sap-ssep",
         "deptAcronym": "rcmp",
         "department": "Royal Canadian Mounted Police",
-        "projectName": "",
+        "projectName": "Shift Scheduling and Exception Pay SAP Portal Application",
         "projectDescription2016": "The Shift cheauung ana t:.xcept1on Pay (SSEP) w111 a11ow shin\u2022\n scheduling and exception pay to be done in a separate Web based SAP portal application (HRMIS interfaces to provide HR data to IT!=AM) I-IRMIS comoonent",
         "projectDescription2019": "",
         "totalBudget2016": "$14,052,000",
@@ -13084,13 +17002,19 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "completed"
+        "estimatedStatus": "completed",
+        "has2016data": "1",
+        "has2019data": "0",
+        "isOver10m2016": "1",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "rcmp-sap-team7": {
         "uniqueId": "rcmp-sap-team7",
         "deptAcronym": "rcmp",
         "department": "Royal Canadian Mounted Police",
-        "projectName": "",
+        "projectName": "SAP Software TEAM Enhancement Pack 7 Upgrade",
         "projectDescription2016": "The TEAM Enhancement Pack 7 Upgrade will update the SAP\n software to the current level used within the Government of Canada.",
         "projectDescription2019": "",
         "totalBudget2016": "$2,113,000",
@@ -13104,13 +17028,19 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "unknown"
+        "estimatedStatus": "unknown (past due)",
+        "has2016data": "1",
+        "has2019data": "0",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "rcmp-sccm": {
         "uniqueId": "rcmp-sccm",
         "deptAcronym": "rcmp",
         "department": "Royal Canadian Mounted Police",
-        "projectName": "",
+        "projectName": "System Center Configuration Manager for Windows 10",
         "projectDescription2016": "",
         "projectDescription2019": "System Center Confhwration Manager Windows 10: Uoarade workstation support software. . .",
         "totalBudget2016": "",
@@ -13124,13 +17054,19 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "new"
+        "estimatedStatus": "new",
+        "has2016data": "0",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "rcmp-scms": {
         "uniqueId": "rcmp-scms",
         "deptAcronym": "rcmp",
         "department": "Royal Canadian Mounted Police",
-        "projectName": "",
+        "projectName": "Customer Relationship Management Shared Case Management System",
         "projectDescription2016": "The Customer Relationship Management Shared Case Management System (CRM\/SCMS) project will implement the Common Platform (Hosted by-PWGSC). RCMP IM\/IT Program joined the SCMS community to leverage the common platform for the\n development, testing, and deployment of Protected B Business Aoolications.",
         "projectDescription2019": "",
         "totalBudget2016": "$1,019,000",
@@ -13144,13 +17080,19 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "completed"
+        "estimatedStatus": "completed",
+        "has2016data": "1",
+        "has2019data": "0",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "rcmp-spider": {
         "uniqueId": "rcmp-spider",
         "deptAcronym": "rcmp",
         "department": "Royal Canadian Mounted Police",
-        "projectName": "",
+        "projectName": "Strategic Policing Intelligence Driven Enterprise Resource Analytics (SPIDER Analytics)",
         "projectDescription2016": "The Strategic Policing Intelligence Driven Enterprise Resource\n Analytics (SPIDER Analytics) project will see the acquisition of a unified automated enterprise solution that will result in dramatically improved efficiencies, proactive identification of criminal networks and increased suooort to investjgations for the RCMP.",
         "projectDescription2019": "",
         "totalBudget2016": "$13,074,000",
@@ -13164,13 +17106,19 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "completed"
+        "estimatedStatus": "completed",
+        "has2016data": "1",
+        "has2019data": "0",
+        "isOver10m2016": "1",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "rcmp-ssepp": {
         "uniqueId": "rcmp-ssepp",
         "deptAcronym": "rcmp",
         "department": "Royal Canadian Mounted Police",
-        "projectName": "",
+        "projectName": "Enterprise SSEPP Reporting and Analytics",
         "projectDescription2016": "",
         "projectDescription2019": "SSEPP Reportinq and Analystics : Implement an enterprise solution to enable improved decision makinq.",
         "totalBudget2016": "",
@@ -13184,13 +17132,19 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "new"
+        "estimatedStatus": "new",
+        "has2016data": "0",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "rcmp-weblogic": {
         "uniqueId": "rcmp-weblogic",
         "deptAcronym": "rcmp",
         "department": "Royal Canadian Mounted Police",
-        "projectName": "",
+        "projectName": "Weblogic Integration Technology Replacement",
         "projectDescription2016": "",
         "projectDescription2019": "Webloqic Integration Technology Replacement: Uoarade system hardware and software.",
         "totalBudget2016": "",
@@ -13204,13 +17158,19 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "new"
+        "estimatedStatus": "new",
+        "has2016data": "0",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "ssc-ads": {
         "uniqueId": "ssc-ads",
         "deptAcronym": "ssc",
         "department": "Shared Services Canada",
-        "projectName": "",
+        "projectName": "Directory Services Synchronization",
         "projectDescription2016": "Directory Services Synchronization - PRJ-002934\n The project is a foundational element for end-state data-centre workload migration and also many other services to enable delivery. Active Directory synchronization will be a core contribution. SSC Directory Services Synchronization centralizes partner departments and agencies repository data within the SSC enterprise data centre infrastructure, authenticates partner departments and agencies into the SSC enterprise data centre, and authenticates other SSC services in the SSC enterprise data centre. Partner departments and agencies maintain control of their own validation authority to enable and disable users into their respective repositories and the SSC Directory Services centralized repository is maintained up to date through a synchronization mechanism.",
         "projectDescription2019": "",
         "totalBudget2016": "$3,607,000",
@@ -13224,13 +17184,19 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "completed"
+        "estimatedStatus": "completed",
+        "has2016data": "1",
+        "has2019data": "0",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "ssc-apw": {
         "uniqueId": "ssc-apw",
         "deptAcronym": "ssc",
         "department": "Shared Services Canada",
-        "projectName": "",
+        "projectName": "Application Whitelisting",
         "projectDescription2016": "Application Whitelisting - PRJ-003246 (Project is in inititation mode)\n Application Whitelisting technology controls which applications can be installed and executed on IT equipment. Explicitly identifying which applications are authorized, and denying all others by default, reduces the risk of servers and other Enterprise Data Centres infrastructure becoming infected with software based malware for which antivirus protection may not be as effective at detecting and preventing infection.",
         "projectDescription2019": "",
         "totalBudget2016": "$8,338,593",
@@ -13244,13 +17210,19 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "completed"
+        "estimatedStatus": "completed",
+        "has2016data": "1",
+        "has2019data": "0",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "ssc-canada-usa-ipt": {
         "uniqueId": "ssc-canada-usa-ipt",
         "deptAcronym": "ssc",
         "department": "Shared Services Canada",
-        "projectName": "",
+        "projectName": "Canada-USA IP Transport",
         "projectDescription2016": "",
         "projectDescription2019": "Canada-USA IP Transport - PRJ-002993\nThis project will support the infrastructure for interconnecting Canada and United States Department of National Defense\/Department of Defense locations.",
         "totalBudget2016": "",
@@ -13264,13 +17236,19 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "new"
+        "estimatedStatus": "new",
+        "has2016data": "0",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "ssc-cloud-arch": {
         "uniqueId": "ssc-cloud-arch",
         "deptAcronym": "ssc",
         "department": "Shared Services Canada",
-        "projectName": "",
+        "projectName": "Cloud Architecture",
         "projectDescription2016": "",
         "projectDescription2019": "Cloud Architecture - PRJ-003800\nThe Managed Infrastructure as a service initiative seeks to address the significant backlog in providing server and storage infrastructure to support partner projects in a timely and agile manner to meet partner development timelines. This proposal will allow for the streamlining of the design, acquisition, deployment and operation of standard Windows and Linux Virtual machines and their associated integration to SSC and partner lead projects. The addition of design and integration services at the front end of a project engagem_ent, as well as added operational resources that form a managed service will provide SSC with the required agility and velocity to address this backlog.",
         "totalBudget2016": "",
@@ -13284,13 +17262,19 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "new"
+        "estimatedStatus": "unknown (no dates specified)",
+        "has2016data": "0",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "1",
+        "isOver100m2019": "0"
     },
     "ssc-cmp": {
         "uniqueId": "ssc-cmp",
         "deptAcronym": "ssc",
         "department": "Shared Services Canada",
-        "projectName": "",
+        "projectName": "Cloud Management Platform",
         "projectDescription2016": "",
         "projectDescription2019": "Cloud Management Platform (CMP) - PRJ-003768\nThe CMPs are integrated products that provide for the management of public, private and hybrid cloud environments. The main objective of the CMP project is to implement the Cloud based Data Centre Enabling Services to provide partner-facing services. Collectively they will enable the GC information management\/ IT components to provide services to Canadians and Canadian businesses.",
         "totalBudget2016": "",
@@ -13304,13 +17288,19 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "new"
+        "estimatedStatus": "new",
+        "has2016data": "0",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "1",
+        "isOver100m2019": "0"
     },
     "ssc-dbaas": {
         "uniqueId": "ssc-dbaas",
         "deptAcronym": "ssc",
         "department": "Shared Services Canada",
-        "projectName": "",
+        "projectName": "Database as a Service",
         "projectDescription2016": "",
         "projectDescription2019": "Data Base as a Service - PRJ-003779\nThis project will establish an SSC catalogued Database as an optional service for partners, through exploration of GC horizontal opportunities.",
         "totalBudget2016": "",
@@ -13324,13 +17314,19 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "new"
+        "estimatedStatus": "unknown (no dates specified)",
+        "has2016data": "0",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "ssc-dcp1": {
         "uniqueId": "ssc-dcp1",
         "deptAcronym": "ssc",
         "department": "Shared Services Canada",
-        "projectName": "",
+        "projectName": "Digital Communications Phase 1",
         "projectDescription2016": "",
         "projectDescription2019": "Digital Communications Phase 1 - PRJ-003424\nThe Digital Communications Program will deliver innovative, cost-effective support to the GC using new and emerging technological advances to support an interactive and collaborative workplace, improving the capabilities of SSC and its partner organizations as they serve Canadian citizens and businesses.",
         "totalBudget2016": "",
@@ -13344,13 +17340,19 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "new"
+        "estimatedStatus": "new",
+        "has2016data": "0",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "1",
+        "isOver100m2019": "0"
     },
     "ssc-ea": {
         "uniqueId": "ssc-ea",
         "deptAcronym": "ssc",
         "department": "Shared Services Canada",
-        "projectName": "",
+        "projectName": "QualiWare Enterprise Architecture Tool",
         "projectDescription2016": "",
         "projectDescription2019": "Enterprise Architecture (EA) Tool - QualiWare- PRJ-004225\nThe main objective of this project is to implement an EA tool (Qualiware) across SSC.",
         "totalBudget2016": "",
@@ -13364,13 +17366,19 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "new"
+        "estimatedStatus": "new",
+        "has2016data": "0",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "ssc-ecc": {
         "uniqueId": "ssc-ecc",
         "deptAcronym": "ssc",
         "department": "Shared Services Canada",
-        "projectName": "",
+        "projectName": "Integrated Enterprise Command Centre",
         "projectDescription2016": "",
         "projectDescription2019": "Integrated Enterprise Command Centre (ECC) - PRJ-003771\nThe Integrated ECC Service project will consolidate, centralize, and modernize the monitoring command and control of SSC shared IT infrastructure. The goal of the project is to consolidate the many existing monitoring sites (11) into the fewest possible, taking into consideration security, back-up requirements, staffing shortages, etc.",
         "totalBudget2016": "",
@@ -13384,13 +17392,19 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "new"
+        "estimatedStatus": "new",
+        "has2016data": "0",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "ssc-edc-borden-2": {
         "uniqueId": "ssc-edc-borden-2",
         "deptAcronym": "ssc",
         "department": "Shared Services Canada",
-        "projectName": "",
+        "projectName": "EDC Borden Expansion IT Establishment Phase 2",
         "projectDescription2016": "",
         "projectDescription2019": "EDC Borden Expansion IT Establishment 2 - PRJ-003032\nThe main objective of the EDC Borden Expansion IT Establishment project is to implement the Data Centre Enabling Services to provide partner-facing services. Collectively they will enable the GC IT components to provide services to Canadians and Canadian businesses. This project will implement initial compute, storage, network, and security footprint in the newly established Borden EDC.",
         "totalBudget2016": "",
@@ -13404,13 +17418,19 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "new"
+        "estimatedStatus": "new",
+        "has2016data": "0",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "1",
+        "isOver100m2019": "0"
     },
     "ssc-edc-montreal-1": {
         "uniqueId": "ssc-edc-montreal-1",
         "deptAcronym": "ssc",
         "department": "Shared Services Canada",
-        "projectName": "",
+        "projectName": "EDC Montreal IT Establishment",
         "projectDescription2016": "",
         "projectDescription2019": "EDC Montreal IT Establishment - PRJ-003379\nThis project will implement initial compute, storage, network, and security footprint in the new Enterprise Data Centre Montreal, Additionally this project will implement infrastructure to streamline preparations for the Dorval Data Centre migration project.",
         "totalBudget2016": "",
@@ -13424,13 +17444,19 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "new"
+        "estimatedStatus": "new",
+        "has2016data": "0",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "1",
+        "isOver100m2019": "0"
     },
     "ssc-edc-montreal-2": {
         "uniqueId": "ssc-edc-montreal-2",
         "deptAcronym": "ssc",
         "department": "Shared Services Canada",
-        "projectName": "",
+        "projectName": "EDC Montreal Facility Establishment",
         "projectDescription2016": "",
         "projectDescription2019": "EDC Montreal Facility Establishment- PRJ-001940\nThis project will consist of two main phases: The first phase will include the planning and procurement activities and the second will concentrate on any retrofit activities required (i.e., power, ventilation, cabling, security).",
         "totalBudget2016": "",
@@ -13444,13 +17470,19 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "new"
+        "estimatedStatus": "new",
+        "has2016data": "0",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "ssc-emdm-1": {
         "uniqueId": "ssc-emdm-1",
         "deptAcronym": "ssc",
         "department": "Shared Services Canada",
-        "projectName": "",
+        "projectName": "Enterprise Mobile Device Management",
         "projectDescription2016": "",
         "projectDescription2019": "Enterprise Mobile Device Management (EMDM) - PRJ-003338\nThe goal of the EMDM project is to provide a mobile device management service to SSC's partner community that will support secure Android and iOS devices to assure service continuity as well as continued support for the BlackBerry 10 devices.",
         "totalBudget2016": "",
@@ -13464,13 +17496,19 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "new"
+        "estimatedStatus": "new",
+        "has2016data": "0",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "1",
+        "isOver100m2019": "0"
     },
     "ssc-emdm-2": {
         "uniqueId": "ssc-emdm-2",
         "deptAcronym": "ssc",
         "department": "Shared Services Canada",
-        "projectName": "",
+        "projectName": "Enterprise Mobile Device Management Evolution",
         "projectDescription2016": "",
         "projectDescription2019": "EMDM Evolution - PRJ-005977\nThis project will examine the next evolution of the EMDM service including examining alternative options to deliver a modern client-facing full feature mobility management capability for the GC.",
         "totalBudget2016": "",
@@ -13484,13 +17522,19 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "new"
+        "estimatedStatus": "new",
+        "has2016data": "0",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "ssc-epp": {
         "uniqueId": "ssc-epp",
         "deptAcronym": "ssc",
         "department": "Shared Services Canada",
-        "projectName": "",
+        "projectName": "Electronic Procurement and Payment",
         "projectDescription2016": "Electronic Procurement and Payment - PRJ-001560\n The project aims to plan, build, host and operate a commercial procurement and payment solution for SSC.",
         "projectDescription2019": "",
         "totalBudget2016": "$11,413,131",
@@ -13504,13 +17548,19 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "completed"
+        "estimatedStatus": "completed",
+        "has2016data": "1",
+        "has2019data": "0",
+        "isOver10m2016": "1",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "ssc-eti": {
         "uniqueId": "ssc-eti",
         "deptAcronym": "ssc",
         "department": "Shared Services Canada",
-        "projectName": "",
+        "projectName": "Email Transformation Initiative",
         "projectDescription2016": "Email Transformation Initiative - PRJ-000699\n The project will replace existing Shared Services Canada (SSC) and its partners' email systems with a consolidated email solution. SSC will also provide this email service on an optional basis to other Government\n of Canada organizations.",
         "projectDescription2019": "",
         "totalBudget2016": "$76,513,758",
@@ -13524,13 +17574,19 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "completed"
+        "estimatedStatus": "completed",
+        "has2016data": "1",
+        "has2019data": "0",
+        "isOver10m2016": "1",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "ssc-evas": {
         "uniqueId": "ssc-evas",
         "deptAcronym": "ssc",
         "department": "Shared Services Canada",
-        "projectName": "",
+        "projectName": "Endpoint Visibility, Awareness and Security",
         "projectDescription2016": "",
         "projectDescription2019": "Endpoint Visibility, Awareness and Security (EVAS) - PRJ-004067\nThe EVAS project will provide enterprise-wide visibility of Internet-connected endpoint devices on GC networks.This will result in the enterprise Vulnerability Management Services (VMS) that will enable the GC to quickly and systematically identify IT vulnerabilities and prioritize the remediation of known vulnerabilities to reduce IT system and infrastructure risks. VMS will provide the GC with the ability to provide integrated and automated vulnerability detection and remediation across the enterprise.",
         "totalBudget2016": "",
@@ -13544,13 +17600,19 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "new"
+        "estimatedStatus": "new",
+        "has2016data": "0",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "1",
+        "isOver100m2019": "1"
     },
     "ssc-gc-cluster": {
         "uniqueId": "ssc-gc-cluster",
         "deptAcronym": "ssc",
         "department": "Shared Services Canada",
-        "projectName": "",
+        "projectName": "GC Cluster",
         "projectDescription2016": "",
         "projectDescription2019": "GC Cluster - PRJ-003781\nThis project will establish common infrastructure for partner departments (business and technology clusters) through exploration of GC horizontal opportunities.",
         "totalBudget2016": "",
@@ -13564,13 +17626,19 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "new"
+        "estimatedStatus": "unknown (no dates specified)",
+        "has2016data": "0",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "ssc-gcsi": {
         "uniqueId": "ssc-gcsi",
         "deptAcronym": "ssc",
         "department": "Shared Services Canada",
-        "projectName": "",
+        "projectName": "Government of Canada Secret Infrastructure Expansion",
         "projectDescription2016": "",
         "projectDescription2019": "GC Secret Infrastructure (GCSI) Expansion - PRJ-004069\nThe GCSI project is made up of three components:\nGCSI Expansion will consolidate and rationalize the majority of the existing 31 secret infrastructures currently supported by SSC so that they may be operated more securely and cost effectively.\nGCSI High Availability will provide the addition of the high availability and disaster recovery capabilities that are considered an operational necessity to support the availability requirements for GCSI. This is critical for many of the services that are being delivered or planned for the GCSI, including E-Cabinet in support of digitizing Cabinet business.",
         "totalBudget2016": "",
@@ -13584,13 +17652,19 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "new"
+        "estimatedStatus": "new",
+        "has2016data": "0",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "1",
+        "isOver100m2019": "0"
     },
     "ssc-hpc-renewal": {
         "uniqueId": "ssc-hpc-renewal",
         "deptAcronym": "ssc",
         "department": "Shared Services Canada",
-        "projectName": "",
+        "projectName": "High Performance Computer Renewal Project",
         "projectDescription2016": "High Performance Computer (HPC) Renewal Project (l;nvironment Canada)- PRJ-000703\n The SSC Supercomputer Renewal \/ Project for Environment Canada and Climate Change (ECCC) will provide a state of the art High Performance Computing environment to support Environment Canada's Meteorological Service of Canada (MSC). The MSC has developed a comprehensive Ten Year Investment Plan that was pursued through Budget 2013.",
         "projectDescription2019": "",
         "totalBudget2016": "$30,593,109",
@@ -13604,13 +17678,19 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "completed"
+        "estimatedStatus": "completed",
+        "has2016data": "1",
+        "has2019data": "0",
+        "isOver10m2016": "1",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "ssc-noa": {
         "uniqueId": "ssc-noa",
         "deptAcronym": "ssc",
         "department": "Shared Services Canada",
-        "projectName": "",
+        "projectName": "Network Device Authentication",
         "projectDescription2016": "",
         "projectDescription2019": "Network Device Authentication (NOA) - PRJ-003436\nThe NOA project was identified to provision non-person entity certificates (NPEC) and authentication, authorization and auditing (AM) services to the GC. Once implemented, the new service will centralize lifecycle management of NPECs and provide reports on A M transactions for the purpose of security auditing as well as compliance and service improvement.",
         "totalBudget2016": "",
@@ -13624,13 +17704,19 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "new"
+        "estimatedStatus": "new",
+        "has2016data": "0",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "1",
+        "isOver100m2019": "0"
     },
     "ssc-nrc-migration": {
         "uniqueId": "ssc-nrc-migration",
         "deptAcronym": "ssc",
         "department": "Shared Services Canada",
-        "projectName": "",
+        "projectName": "National Research Council Migration",
         "projectDescription2016": "National Research Council Migration - PRJ-003001\n The establishment of a new secure telecommunications and information technology infrastructure for the National Research Council of Canada at SSC.",
         "projectDescription2019": "",
         "totalBudget2016": "$34,239,000",
@@ -13644,13 +17730,19 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "completed"
+        "estimatedStatus": "completed",
+        "has2016data": "1",
+        "has2019data": "0",
+        "isOver10m2016": "1",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "ssc-nt": {
         "uniqueId": "ssc-nt",
         "deptAcronym": "ssc",
         "department": "Shared Services Canada",
-        "projectName": "",
+        "projectName": "Network Transformation",
         "projectDescription2016": "",
         "projectDescription2019": "Network Transformation - PRJ-003471\nThis project will develop a GC enterprise network strategy which will: define and establish the GC enterprise network architecture and services required to deliver Canada's digital platform; and identify and establish the SSC capabilities required to implement and support the enterprise network.",
         "totalBudget2016": "",
@@ -13664,13 +17756,19 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "new"
+        "estimatedStatus": "new",
+        "has2016data": "0",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "1",
+        "isOver100m2019": "0"
     },
     "ssc-pi-legacy": {
         "uniqueId": "ssc-pi-legacy",
         "deptAcronym": "ssc",
         "department": "Shared Services Canada",
-        "projectName": "",
+        "projectName": "Program Integrity",
         "projectDescription2016": "Program Integrity - PRJ-003342\n The legacy IT infrastructure is used to run many of the government systems and program that are deemed critical applications which deliver essential services to Canadian citizens. The commitment made by the federal government in the April 2016 budget addresses this critical investment through SSC replacement strategy to replace the legacy IT infrastructure over a two year program initiative.\n The program is established to manage the TBS funding expenditure over a two year period to implement a capital replacement plan that will refresh SSC's Mission Critical IT Infrastructure.\n The program will be delivered under 4 projects:\n PRJ-003336 - Data Centre Services Program Integrity Projects PRJ-003340 - Networks and End User Branch Program Integrity\n PRJ-003351- Security Management Cyber and IT Security - Program Integrity\n PRJ-003350 - Service Management - Program Integrity",
         "projectDescription2019": "",
         "totalBudget2016": "$383,794,297",
@@ -13684,13 +17782,19 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "completed"
+        "estimatedStatus": "completed",
+        "has2016data": "1",
+        "has2019data": "0",
+        "isOver10m2016": "1",
+        "isOver100m2016": "1",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "ssc-sam": {
         "uniqueId": "ssc-sam",
         "deptAcronym": "ssc",
         "department": "Shared Services Canada",
-        "projectName": "",
+        "projectName": "Software Asset Management",
         "projectDescription2016": "",
         "projectDescription2019": "Software Asset Management - PRJ-003770\nThis project will implement an enterprise Software Asset Management discipline, including enabling tool, to improve the management of licenses for Data Centre, Network, Email and Security software.",
         "totalBudget2016": "",
@@ -13704,13 +17808,19 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "new"
+        "estimatedStatus": "new",
+        "has2016data": "0",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "ssc-sap-hana": {
         "uniqueId": "ssc-sap-hana",
         "deptAcronym": "ssc",
         "department": "Shared Services Canada",
-        "projectName": "",
+        "projectName": "SAP HANA Implementation",
         "projectDescription2016": "",
         "projectDescription2019": "SAP HANA Implementation - PRJ-003782\nThis project will establish a standardized platform to support the GC SAP HANA implementations for those departments who plan to migrate to this latest version of the SAP software in the next 2-4 years.",
         "totalBudget2016": "",
@@ -13724,13 +17834,19 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "new"
+        "estimatedStatus": "new",
+        "has2016data": "0",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "ssc-sb-2": {
         "uniqueId": "ssc-sb-2",
         "deptAcronym": "ssc",
         "department": "Shared Services Canada",
-        "projectName": "",
+        "projectName": "Service Bundle Phase 2",
         "projectDescription2016": "Service Bundle 2 - PRJ-002951\n The project packages a number of partner-facing services, including new and existing technical, foundational and service-management elements, as well as enhanced processes to accelerate and further enable workioad migrations.",
         "projectDescription2019": "",
         "totalBudget2016": "$1,800,000",
@@ -13744,13 +17860,19 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "completed"
+        "estimatedStatus": "completed",
+        "has2016data": "1",
+        "has2019data": "0",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "ssc-sced": {
         "uniqueId": "ssc-sced",
         "deptAcronym": "ssc",
         "department": "Shared Services Canada",
-        "projectName": "",
+        "projectName": "Secure Cloud Enablement and Defence Trusted Interconnection Points",
         "projectDescription2016": "",
         "projectDescription2019": "Secure Cloud Enablement and Defence - PRJ-004075\nImplement GC Trusted Interconnection Points on the periphery of the GC network for the secured exchange of data with external organizations. A specialized perimeter will establish a network security zone with one or more private connections to reduce exposure to cyber threats and improve performance and reliability between the GC and external partners, and Cloud Service Providers (CSP) for Secure Cloud Enablement.",
         "totalBudget2016": "",
@@ -13764,13 +17886,19 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "new"
+        "estimatedStatus": "new",
+        "has2016data": "0",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "1",
+        "isOver100m2019": "0"
     },
     "ssc-siem": {
         "uniqueId": "ssc-siem",
         "deptAcronym": "ssc",
         "department": "Shared Services Canada",
-        "projectName": "",
+        "projectName": "Security Information and Event Management",
         "projectDescription2016": "",
         "projectDescription2019": "Security Information and Event Management (SIEM) - PRJ-003435\nOnce implemented, the SIEM project will enable the GC to predict, detect and respond to cyberthreats and risks to IT systems and infrastructure.",
         "totalBudget2016": "",
@@ -13784,13 +17912,19 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "new"
+        "estimatedStatus": "new",
+        "has2016data": "0",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "1",
+        "isOver100m2019": "0"
     },
     "ssc-signet-c5": {
         "uniqueId": "ssc-signet-c5",
         "deptAcronym": "ssc",
         "department": "Shared Services Canada",
-        "projectName": "",
+        "projectName": "SIGNET C5 Upgrade Project",
         "projectDescription2016": "SIGNET - C5 Upgrade Project (C6) - PRJ-001570 (Project being partially funded by Global Affairs Canada)\n The project will replace all legacy servers not supported by vendors with virtual vendor-supported servers. The upgrade serves as a \"Keeping the Lights On\" project to meet Global Affairs Canada business requirements for at least the next five years until_ a Government of Canada solution for Secret infrastructure environment is built.",
         "projectDescription2019": "",
         "totalBudget2016": "$13,532,539",
@@ -13804,13 +17938,19 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "completed"
+        "estimatedStatus": "completed",
+        "has2016data": "1",
+        "has2019data": "0",
+        "isOver10m2016": "1",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "ssc-soc-facility": {
         "uniqueId": "ssc-soc-facility",
         "deptAcronym": "ssc",
         "department": "Shared Services Canada",
-        "projectName": "",
+        "projectName": "Cyber Security Strategy Security Operations Centre (SOC) Facility Construction",
         "projectDescription2016": "Cyber Security Strategy - Security Operations Centre (SOC) Facility Construction - PRJ-001535\n The project is to construct the SSC SOC facility in support of the Cyber and IT Security Transformation Plan and aligns with Canada's Cyber Security Strategy to secure government systems.",
         "projectDescription2019": "",
         "totalBudget2016": "$8,719,000",
@@ -13824,13 +17964,19 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "completed"
+        "estimatedStatus": "completed",
+        "has2016data": "1",
+        "has2019data": "0",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "ssc-spfc": {
         "uniqueId": "ssc-spfc",
         "deptAcronym": "ssc",
         "department": "Shared Services Canada",
-        "projectName": "",
+        "projectName": "Smart Phone for Classified",
         "projectDescription2016": "",
         "projectDescription2019": "Smart Phone for Classified (SPfC) - PRJ-003489\nThe objective of the SPfC project is to implement and operate secure mobile communications (voice and instant messaging) services and supporting infrastructure for Classified (Secret level) information.",
         "totalBudget2016": "",
@@ -13844,13 +17990,19 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "new"
+        "estimatedStatus": "new",
+        "has2016data": "0",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "1",
+        "isOver100m2019": "0"
     },
     "ssc-sram": {
         "uniqueId": "ssc-sram",
         "deptAcronym": "ssc",
         "department": "Shared Services Canada",
-        "projectName": "",
+        "projectName": "Secure Remote Access Migration",
         "projectDescription2016": "",
         "projectDescription2019": "Secure Remote Access Migration (SRAM) - PRJ-003434\nThe SRAM project was identified to renew and rationalize the existing secure remote access (SRA) infrastructure, as well as consolidate processing of SRA connections at the EDCs. The SRA service will provide GC users with the ability to securely connect to their departmental data and\/or information system from a remote location (i.e. from outside the GC-managed perimeter) using their government-furnished endpoint (i.e. laptop, tablet and\/or mobile device).",
         "totalBudget2016": "",
@@ -13864,13 +18016,19 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "new"
+        "estimatedStatus": "new",
+        "has2016data": "0",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "1",
+        "isOver100m2019": "0"
     },
     "ssc-wifi-pip": {
         "uniqueId": "ssc-wifi-pip",
         "deptAcronym": "ssc",
         "department": "Shared Services Canada",
-        "projectName": "",
+        "projectName": "Government of Canada Wi-Fi Interim Partner Implementation Project",
         "projectDescription2016": "Government of Canada Wi-Fi Interim Partner Implementation Project - PRJ-001548\n The project aim is to plan and implement Wi-Fi services for approved partner organizations on an interim basis until the Wi-Fi end-state solution is available.",
         "projectDescription2019": "",
         "totalBudget2016": "$23,123,353",
@@ -13884,13 +18042,19 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "completed"
+        "estimatedStatus": "completed",
+        "has2016data": "1",
+        "has2019data": "0",
+        "isOver10m2016": "1",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "ssc-wlm": {
         "uniqueId": "ssc-wlm",
         "deptAcronym": "ssc",
         "department": "Shared Services Canada",
-        "projectName": "",
+        "projectName": "Data Centre Consolidation Legacy Data Centre Closures",
         "projectDescription2016": "Data Centre Consolidation Legacy Data Centre Closures Fiscal Year 2015-2020 - PRJ-002999\n The purpose of this project is to close out Legacy Data Centres, and decommission where possible.",
         "projectDescription2019": "",
         "totalBudget2016": "$100,000,000",
@@ -13904,13 +18068,19 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "unknown"
+        "estimatedStatus": "unknown (past due)",
+        "has2016data": "1",
+        "has2019data": "0",
+        "isOver10m2016": "1",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "ssc-wlm-aafc": {
         "uniqueId": "ssc-wlm-aafc",
         "deptAcronym": "ssc",
         "department": "Shared Services Canada",
-        "projectName": "",
+        "projectName": "Workload Migration of Agriculture and Agri-Food Canada Legacy Data Centres",
         "projectDescription2016": "",
         "projectDescription2019": "Workload Migration (WLM) of the Agriculture and Agri-Food Canada (AAFC) Legacy Data Centres - PRJ-003794\nThis project is the AAFC WLM activities required to move the partner workloads from the legacy data centres to the Enterprise Data Centre.",
         "totalBudget2016": "",
@@ -13924,13 +18094,19 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "new"
+        "estimatedStatus": "unknown (no dates specified)",
+        "has2016data": "0",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "ssc-wlm-cfia": {
         "uniqueId": "ssc-wlm-cfia",
         "deptAcronym": "ssc",
         "department": "Shared Services Canada",
-        "projectName": "",
+        "projectName": "Workload Migration of Canadian Food Inspection Agency Legacy Data Centres",
         "projectDescription2016": "",
         "projectDescription2019": "Workload Migration (WLM} of the Canadian Food Inspection Agency (CFIA) Legacy Data Centres - PRJ-003797\nThis project is the CFIA WLM activities required to move the partner workloads from the legacy data centres to the Enterprise Data Centre.",
         "totalBudget2016": "",
@@ -13944,13 +18120,19 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "new"
+        "estimatedStatus": "unknown (no dates specified)",
+        "has2016data": "0",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "ssc-wlm-cra-cbsa": {
         "uniqueId": "ssc-wlm-cra-cbsa",
         "deptAcronym": "ssc",
         "department": "Shared Services Canada",
-        "projectName": "",
+        "projectName": "Workload Migration of Canada Revenue Agency and Canada Border Services Agency Legacy Data Centres",
         "projectDescription2016": "",
         "projectDescription2019": "Workload Migration (WLM) of the Canada Revenue Agency (CRA) and the Canada Border Services Agency {CBSA) Legacy Data Centres I WLM Planning for Data Centre St. Laurent {DCSL) Closure - PRJ-003792\nThis project is the CRA and CBSA WLM activities required to move the partner workloads from the legacy data centres to the Enterprise Data Centre.",
         "totalBudget2016": "",
@@ -13964,13 +18146,19 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "new"
+        "estimatedStatus": "new",
+        "has2016data": "0",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "1",
+        "isOver100m2019": "0"
     },
     "ssc-wlm-csps": {
         "uniqueId": "ssc-wlm-csps",
         "deptAcronym": "ssc",
         "department": "Shared Services Canada",
-        "projectName": "",
+        "projectName": "Workload Migration of Canada School of Public Service Legacy Data Centres",
         "projectDescription2016": "",
         "projectDescription2019": "Workload Migration (WLM) of Canada School of Public Service {CSPS) Legacy Data Centres - PRJ-003784\nThis project is the CSPS WLM activities required to move the partner workloads from the legacy data centres to the Enterprise Data Centre.",
         "totalBudget2016": "",
@@ -13984,13 +18172,19 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "new"
+        "estimatedStatus": "new",
+        "has2016data": "0",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "ssc-wlm-dnd": {
         "uniqueId": "ssc-wlm-dnd",
         "deptAcronym": "ssc",
         "department": "Shared Services Canada",
-        "projectName": "",
+        "projectName": "Workload Migration of Department of National Defence Legacy Data Centres",
         "projectDescription2016": "",
         "projectDescription2019": "Workload Migration {WLM) of the Department of National Defense (DND) Legacy Data Centres - PRJ-003791\nThis project is the DND WLM activities required to move the partner workloads from the legacy data centres to the Enterprise Data Centre.",
         "totalBudget2016": "",
@@ -14004,13 +18198,19 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "new"
+        "estimatedStatus": "new",
+        "has2016data": "0",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "1",
+        "isOver100m2019": "0"
     },
     "ssc-wlm-eccc": {
         "uniqueId": "ssc-wlm-eccc",
         "deptAcronym": "ssc",
         "department": "Shared Services Canada",
-        "projectName": "",
+        "projectName": "Workload Migration of Environment and Climate Change Canada Legacy Data Centres",
         "projectDescription2016": "",
         "projectDescription2019": "Workload Migration (WLM) of Environment and Climate Change Canada (ECCC)\nDorval Legacy Data Centre - PRJ-003785 This project is the ECCC WLM activities required to move the partner workloads from the legacy data centres to the Enterprise Data Centre.",
         "totalBudget2016": "",
@@ -14024,13 +18224,19 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "new"
+        "estimatedStatus": "new",
+        "has2016data": "0",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "1",
+        "isOver100m2019": "0"
     },
     "ssc-wlm-ised": {
         "uniqueId": "ssc-wlm-ised",
         "deptAcronym": "ssc",
         "department": "Shared Services Canada",
-        "projectName": "",
+        "projectName": "Workload Migration of Innovation, Science, and Economic Development Canada Legacy Data Centres",
         "projectDescription2016": "",
         "projectDescription2019": "Workload Migration (WLM) of the Innovation, Science and Economic Development Canada (ISED) Legacy Oat~ Centres - PRJ- 003795\nThis project is the ISED WLM activities required to move the partner workloads from the legacy data centres to the Enterprise Data Centre.",
         "totalBudget2016": "",
@@ -14044,13 +18250,19 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "new"
+        "estimatedStatus": "unknown (no dates specified)",
+        "has2016data": "0",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "ssc-wlm-lac": {
         "uniqueId": "ssc-wlm-lac",
         "deptAcronym": "ssc",
         "department": "Shared Services Canada",
-        "projectName": "",
+        "projectName": "Workload Migration of Library and Archives Canada Legacy Data Centres",
         "projectDescription2016": "",
         "projectDescription2019": "Workload Migration (WLM) of Library and Archives Canada (LAC) Legacy Data Centres - PRJ-003787\nThis project is the LAC WLM activities required to move the partner workloads from the legacy data centres to the Enterprise Data Centre.",
         "totalBudget2016": "",
@@ -14064,13 +18276,19 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "new"
+        "estimatedStatus": "new",
+        "has2016data": "0",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "ssc-wlm-nrcan": {
         "uniqueId": "ssc-wlm-nrcan",
         "deptAcronym": "ssc",
         "department": "Shared Services Canada",
-        "projectName": "",
+        "projectName": "Workload Migration of Natural Resources Canada Legacy Data Centres",
         "projectDescription2016": "",
         "projectDescription2019": "Workload Migration (WLM) of the Natural Resources Canada (NRCan) Legacy Data Centres - PRJ-003796\nThis project is the NRCan WLM activities required to move the partner workloads from the legacy data centres to the Enterprise Data Centre.",
         "totalBudget2016": "",
@@ -14084,13 +18302,19 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "new"
+        "estimatedStatus": "new",
+        "has2016data": "0",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "1",
+        "isOver100m2019": "0"
     },
     "ssc-wlm-psc": {
         "uniqueId": "ssc-wlm-psc",
         "deptAcronym": "ssc",
         "department": "Shared Services Canada",
-        "projectName": "",
+        "projectName": "Workload Migration of Public Service Commission Legacy Data Centres",
         "projectDescription2016": "",
         "projectDescription2019": "Workload Migration (WLM) of Public Service Commission (PSC) Legacy Data Centres - PRJ-003786\nThis project is the PSC WLM activities required to move the partner workloads from the legacy data centres to the Enterprise Data Centre.",
         "totalBudget2016": "",
@@ -14104,13 +18328,19 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "new"
+        "estimatedStatus": "unknown (no dates specified)",
+        "has2016data": "0",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "ssc-wlm-pspc": {
         "uniqueId": "ssc-wlm-pspc",
         "deptAcronym": "ssc",
         "department": "Shared Services Canada",
-        "projectName": "",
+        "projectName": "Workload Migration of Public Services and Procurement Canada Legacy Data Centres",
         "projectDescription2016": "",
         "projectDescription2019": "Workload Migration (WLM) of Public Services and Procurement Canada (PSPC) Aviation Parkway Data Centre (APDC) Legacy Data Centres - PRJ-003793\nThis project is the PSPC APDC data centre activities required to move the partner workloads from the legacy data centres to the Enterprise Data Centre.",
         "totalBudget2016": "",
@@ -14124,13 +18354,19 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "new"
+        "estimatedStatus": "new",
+        "has2016data": "0",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "1",
+        "isOver100m2019": "0"
     },
     "ssc-wlm-statcan": {
         "uniqueId": "ssc-wlm-statcan",
         "deptAcronym": "ssc",
         "department": "Shared Services Canada",
-        "projectName": "",
+        "projectName": "Workload Migration of Statistics Canada Legacy Data Centres",
         "projectDescription2016": "",
         "projectDescription2019": "Workload Migration (WLM) of Statistics Canada at Tunney's Pasture - PRJ-003421\nThis project is the Statistics Canada WLM activities required to move the partner workloads from the legacy data centres to the Enterprise Data Centre.",
         "totalBudget2016": "",
@@ -14144,13 +18380,19 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "new"
+        "estimatedStatus": "new",
+        "has2016data": "0",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "1",
+        "isOver100m2019": "0"
     },
     "ssc-wtd-ppp": {
         "uniqueId": "ssc-wtd-ppp",
         "deptAcronym": "ssc",
         "department": "Shared Services Canada",
-        "projectName": "",
+        "projectName": "Workplace Technology Devices Printing Products Procurement",
         "projectDescription2016": "Workplace Technology Devices Printing Products Procurement - PRJ-003193\n The project will put in place an enterprise service to provide Printing Products and related services in a consolidated for the Government of Canada in a standardized manner that provides a secure, common print environment incorporating the latest print solutions while delivering cost efficiencies, reducing the environmental impact and improving end-user productivity.",
         "projectDescription2019": "",
         "totalBudget2016": "$8,084,998",
@@ -14164,13 +18406,19 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "completed"
+        "estimatedStatus": "completed",
+        "has2016data": "1",
+        "has2019data": "0",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "sshrc-rp2": {
         "uniqueId": "sshrc-rp2",
         "deptAcronym": "sshrc",
         "department": "Social Sciences and Humanities Research Council of Canada",
-        "projectName": "",
+        "projectName": "Research Portal 2.0",
         "projectDescription2016": "Research Portal 2.0: Natural Sciences and Engineering Research Council (NSERC) and the Social Sciences and Humanities Research Council (SSHRC) are federal granting agencies that support research, research training and innovation in Canadian postsecondary institutions. The Councils have partnered on a project to replace their outdated IT systems and adopt harmonized and simplified grants and scholarship business processes, while leveraging mission critical management solution to achieve greater transparency, effectiveness and efficiency in how the Councils' grants and scholarships are delivered and reported on. In addition, the modernized business processes and IT solution will enable strong commitments to the research community and other key stakeholders by reducing the administrative burden and supporting increased collaboration.\n\nThis project is in the planning stage which is expected to be completed by Summer 2017. Costing estimates for the completion of the planning, development, implementation and ongoing maintenance of the grant and scholarship management solution will be finalized in Spring 2017. The two Councils expect the total project cost to exceed $1M.\n\nNote: The total budget and estimated completion.date of NSERC's IT project will be determined during the planing stage of the project.",
         "projectDescription2019": "",
         "totalBudget2016": "",
@@ -14184,13 +18432,19 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "new"
+        "estimatedStatus": "unknown (no dates specified)",
+        "has2016data": "1",
+        "has2019data": "0",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "statcan-daas": {
         "uniqueId": "statcan-daas",
         "deptAcronym": "statcan",
         "department": "Statistics Canada",
-        "projectName": "",
+        "projectName": "Data Analytics as a Service",
         "projectDescription2016": "",
         "projectDescription2019": "Data Analytics as a Service (DAaas): Data Analytics as a Service enables the delivery of business capabilities in a more agile, responsive manner.",
         "totalBudget2016": "",
@@ -14204,13 +18458,19 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "new"
+        "estimatedStatus": "new",
+        "has2016data": "0",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "1",
+        "isOver100m2019": "0"
     },
     "statcan-mobility": {
         "uniqueId": "statcan-mobility",
         "deptAcronym": "statcan",
         "department": "Statistics Canada",
-        "projectName": "",
+        "projectName": "Mobility Project",
         "projectDescription2016": "",
         "projectDescription2019": "Mobility Project: The Mobility project will provide the technical tools to modernize Statistics Canada's workforce and allow employees to\n be more flexible and efficient while improving our security posture.",
         "totalBudget2016": "",
@@ -14224,13 +18484,19 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "new"
+        "estimatedStatus": "new",
+        "has2016data": "0",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "1",
+        "isOver100m2019": "0"
     },
     "statcan-nti": {
         "uniqueId": "statcan-nti",
         "deptAcronym": "statcan",
         "department": "Statistics Canada",
-        "projectName": "",
+        "projectName": "Network Transformation Initiative",
         "projectDescription2016": "Network Transformation Initiative (NTI)\n  \n * The project's main objective is to \"improve our services and our work environment, consolidate and simplify the IT infrastructure, use more shared services, strengthen security and protection against increasingly sophisticated attacks, integrate security and service management into the entire life cycle of our systems, and position the Agency for mobility and innovation opportunities.\"\n  \n * The NTI is an umbrella project, composed of six inter-related sub-projects that will oversee and coordinate all the activities needed to transform our network infrastructure. For some of the sub-projects, Statistics Canada shares oversight with Shared Services Canada; for others, Statistics Canada oversees alone.",
         "projectDescription2019": "",
         "totalBudget2016": "$17,020,860",
@@ -14244,13 +18510,19 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "unknown"
+        "estimatedStatus": "unknown (past due)",
+        "has2016data": "1",
+        "has2019data": "0",
+        "isOver10m2016": "1",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "statcan-wlm": {
         "uniqueId": "statcan-wlm",
         "deptAcronym": "statcan",
         "department": "Statistics Canada",
-        "projectName": "",
+        "projectName": "Workload Migration",
         "projectDescription2016": "",
         "projectDescription2019": "Cloud Enablement\/Workload Migration: This project supports the implementation of a new cloud-first IT Infrastructure strategy.",
         "totalBudget2016": "",
@@ -14264,13 +18536,19 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "new"
+        "estimatedStatus": "new",
+        "has2016data": "0",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "1",
+        "isOver100m2019": "0"
     },
     "tbs-atip-online": {
         "uniqueId": "tbs-atip-online",
         "deptAcronym": "tbs",
         "department": "Treasury Board of Canada Secretariat",
-        "projectName": "",
+        "projectName": "ATIP Online Request Service",
         "projectDescription2016": "",
         "projectDescription2019": "ATIP Online Request Service: Create a simple, central website to make it easier for Canadians to submit access to information and personal information requests to any government institution and to consolidate 265+ GC institutions onto this website.",
         "totalBudget2016": "",
@@ -14284,13 +18562,19 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "new"
+        "estimatedStatus": "new",
+        "has2016data": "0",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "tbs-gcfm": {
         "uniqueId": "tbs-gcfm",
         "deptAcronym": "tbs",
         "department": "Treasury Board of Canada Secretariat",
-        "projectName": "",
+        "projectName": "GC Financial & Materiel Management",
         "projectDescription2016": "",
         "projectDescription2019": "GC Financial & Materiel Management {GCFM}: The project will develop and implement a\nnext-generation financial and material management system for 18 departments and agencies currently using FreeBalance Financial Management system. Freebalance is no longer\nsupported and is at risk of failure.",
         "totalBudget2016": "",
@@ -14304,13 +18588,19 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "new"
+        "estimatedStatus": "new",
+        "has2016data": "0",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "1",
+        "isOver100m2019": "0"
     },
     "tbs-gctools-directory": {
         "uniqueId": "tbs-gctools-directory",
         "deptAcronym": "tbs",
         "department": "Treasury Board of Canada Secretariat",
-        "projectName": "",
+        "projectName": "GCTools Directory",
         "projectDescription2016": "",
         "projectDescription2019": "GCTools Directory: Citizens, public servants and organizations have access to accurate, up- to-date organizational and contact information for Government of Canada employees, increasing the openness, transparency and effectiveness of government. The project will deliver a self-service, interoperable employee directory; allowing employees to update their own information and to create links to supervisors. In addition, the GCTools Directory will be able to receive from, and populate certain fields of, departmental HR systems that are able to leverage the GCTools Directory Application Programing Interfaces (APls).",
         "totalBudget2016": "",
@@ -14324,13 +18614,19 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "new"
+        "estimatedStatus": "new",
+        "has2016data": "0",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "tbs-wlm": {
         "uniqueId": "tbs-wlm",
         "deptAcronym": "tbs",
         "department": "Treasury Board of Canada Secretariat",
-        "projectName": "",
+        "projectName": "Workload Migration",
         "projectDescription2016": "",
         "projectDescription2019": "TBS Workload Modernization (WLM): Shared Services Canada (SSC) is scheduled to close the Aviation Parkway Data Center (APDC) by February 2020. This project allows TBS to fully adopt cloud-based technology by moving all of TBS data and applications from the APDC to the cloud by December 2019, as part of the TBS\/Office of the Chief Information Officer of Canada-led GC Application Modernization initiative. This presents an opportunity for TBS to take on a leading role in the Government of Canada (GC).",
         "totalBudget2016": "",
@@ -14344,13 +18640,19 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "new"
+        "estimatedStatus": "new",
+        "has2016data": "0",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "tc-aimms": {
         "uniqueId": "tc-aimms",
         "deptAcronym": "tc",
         "department": "Transport Canada",
-        "projectName": "",
+        "projectName": "Aircraft Inventory and Maintenance Management",
         "projectDescription2016": "",
         "projectDescription2019": "Aircraft Inventory and Maintenance Management (AlMMS) - The current aircraft inventory system has reached the end ol its life and support is no longer cost-effective. The inventory is currently managed manually and prone to error. Its companion maintenance system, Computerized Aircraft Maintenance Program also requires substantial improvements lo make l! an effective tool. New software will decrease the number of issues, enable better inventory management and increase program e!llciency.\n The project will explore the opportunity to leverage a third party to deliver this system via a Request for Information process and define the optimal characleristlcs of a target system to be procured via a competitive process.",
         "totalBudget2016": "",
@@ -14364,13 +18666,19 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "new"
+        "estimatedStatus": "new",
+        "has2016data": "0",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "1",
+        "isOver100m2019": "0"
     },
     "tc-ccm-enterprise": {
         "uniqueId": "tc-ccm-enterprise",
         "deptAcronym": "tc",
         "department": "Transport Canada",
-        "projectName": "",
+        "projectName": "ccmEnterprise to GCdocs Transition",
         "projectDescription2016": "",
         "projectDescription2019": "ccmEnterprise - The ccmMercury platform integrates with the document management system (RDIMS), Microsoft Office QMMnM anCrystal Reports\/Business Objects environment. This software is no longer supported by the vendor; there has been no technical support or system upgrades !or the last lour years. This new project will position the department for the transition to GCdocs and consolidate multiple solutions currently in use at TC for correspondence and other workllows.",
         "totalBudget2016": "",
@@ -14384,13 +18692,19 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "new"
+        "estimatedStatus": "new",
+        "has2016data": "0",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "tc-cctd": {
         "uniqueId": "tc-cctd",
         "deptAcronym": "tc",
         "department": "Transport Canada",
-        "projectName": "",
+        "projectName": "Canadian Centre on Transportation Data and Bill C-49 Requirements",
         "projectDescription2016": "",
         "projectDescription2019": "Canadian Centre on Transportation Data and Bill C-49 Requirements - As part of the Trade and Transportation Information System, TC and Statistics Canada established the Canadian Centre on Transportation Data and an Open Hub to serve as an authoritative source of multi-modal transportation data and performance measures. The GC also introduced legislation, Bi!! C-49, to provide a better experience for travelers and a transparent, fair, efficient end safer freight rail system to facilitate trade and economic growth. Desired business outcomes include increased transparency of airline and rail Industries, improved Internal analysis of airline join! ventures, improved policy decisions, better investment and travel decisions bv Canadians, and more accurate Pr\u25a1iec!i ons on future transportation demand.",
         "totalBudget2016": "",
@@ -14404,13 +18718,19 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "new"
+        "estimatedStatus": "new",
+        "has2016data": "0",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "tc-cee": {
         "uniqueId": "tc-cee",
         "deptAcronym": "tc",
         "department": "Transport Canada",
-        "projectName": "",
+        "projectName": "Multimodal Enforcement Reporting System",
         "projectDescription2016": "",
         "projectDescription2019": "Multimodal Enforcement Reporting System - The Centre of Enforcement Expertise (CEE) is unable to utilize all of TC's data assets effectively. Successfully implemen!ing the project will increase CEE's (and individual programs of TC) ability to conduct effective decision-support and analytical functions in response to internal departments enforcement-related requests as well as requests from other federal departments and external stakeholders. The project will support the CEE's (as well as Transport Canada's) increasing need for accountability and evidence-based decision-making horizontally across all modes and programs. TC's efforts are focused on k:lenti!ving kev data sources that can be ouicklv leveraQed to develop a prototype.",
         "totalBudget2016": "",
@@ -14424,13 +18744,19 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "new"
+        "estimatedStatus": "new",
+        "has2016data": "0",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "tc-cpscs": {
         "uniqueId": "tc-cpscs",
         "deptAcronym": "tc",
         "department": "Transport Canada",
-        "projectName": "",
+        "projectName": "Canadian Port State Control System",
         "projectDescription2016": "Canadian Port State Control System\n The project is to redevelop the system from an aging (end-of-life) technology to a current .NET platform. The redevelopment will also include the integration into other business lines under the Transport Canada Dispatch and Tracking System.",
         "projectDescription2019": "",
         "totalBudget2016": "$1,629,454",
@@ -14444,13 +18770,19 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "completed"
+        "estimatedStatus": "completed",
+        "has2016data": "1",
+        "has2019data": "0",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "tc-crsm": {
         "uniqueId": "tc-crsm",
         "deptAcronym": "tc",
         "department": "Transport Canada",
-        "projectName": "",
+        "projectName": "Cost Recovery Service Management",
         "projectDescription2016": "",
         "projectDescription2019": "Cost Recovery Service Management - This ongoing project will support !he implementation of the Services Fees Act of 2017 at TC. Key requirements to be delivered include the ability to accurately forecast service costs, track lime against delivering TC services and report on overall service delivery costs and results. An enterprise\n platform wlll allow TC !o have uniformity of service across all business lines implicated in cost recoverable activities.",
         "totalBudget2016": "",
@@ -14464,13 +18796,19 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "new"
+        "estimatedStatus": "new",
+        "has2016data": "0",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "tc-dsa": {
         "uniqueId": "tc-dsa",
         "deptAcronym": "tc",
         "department": "Transport Canada",
-        "projectName": "",
+        "projectName": "Decision Support and Analytics",
         "projectDescription2016": "Planned - Decision Support and Analytics\n The project is to develop the plans necessary to implement departmental level Business Intelligence (Bl) and analytics capabilities including the required technical and data architecture, governance, business services, and a resourcing strategy.",
         "projectDescription2019": "",
         "totalBudget2016": "$1,091,538",
@@ -14484,13 +18822,19 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "completed"
+        "estimatedStatus": "completed",
+        "has2016data": "1",
+        "has2019data": "0",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "tc-dts": {
         "uniqueId": "tc-dts",
         "deptAcronym": "tc",
         "department": "Transport Canada",
-        "projectName": "",
+        "projectName": "Dispatch and Tracking System",
         "projectDescription2016": "Transport Canada Dispatch and Tracking System\n The project will allow for the continued integration of program activities within Marine Safety and Security. The project continues to support multi-modal scalability should the future need arise within other modes and programs. The project also supports application rationalization, allowing decommissioning of several legacy applications and databases providing future efficiencies in application support and maintenance.",
         "projectDescription2019": "",
         "totalBudget2016": "$9,107,750",
@@ -14504,13 +18848,19 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "completed"
+        "estimatedStatus": "completed",
+        "has2016data": "1",
+        "has2019data": "0",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "tc-egis": {
         "uniqueId": "tc-egis",
         "deptAcronym": "tc",
         "department": "Transport Canada",
-        "projectName": "",
+        "projectName": "Enterprise Geospatial Information System",
         "projectDescription2016": "",
         "projectDescription2019": "Enterprise Geospatial Information System - Ocean's Protection Plan, Canadian Centre on Transportation Data as well as other government priorities require the capacity tor integrated spatial anaiysis and visualization of results. This enterprise-wide portal will reduce costs by consolldating Departmental GIS environments and licenses, amalgamate multiple datasets and provide an efficienl mechanism to exchange information, and improve decision-making through the use of visualization tools and improved data ouamv. TC will consolidate its existinq GIS licenses and augment iis computinq capacity in order to meet the expected demand.",
         "totalBudget2016": "",
@@ -14524,13 +18874,19 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "new"
+        "estimatedStatus": "new",
+        "has2016data": "0",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "tc-eti": {
         "uniqueId": "tc-eti",
         "deptAcronym": "tc",
         "department": "Transport Canada",
-        "projectName": "",
+        "projectName": "Email Transformation Initiative",
         "projectDescription2016": "Email Transformation \/ Application Remediation\n The Email Transformation Initiative is a major transformation project within Shared Services Canada's (SSC) mandate. It involves consolidaMg the existing 63 email systems from 44 Government of Canada (GC) departments which will reduce costs, increase securtiy, and enhance program delivery.\n This project will enable TC to acquire\/dedicate personnnel to fulfil its obligations as one of the 44 GC departments which will be converting to the new centralized email system to be operated by SSC.",
         "projectDescription2019": "",
         "totalBudget2016": "$2,759,388",
@@ -14544,13 +18900,19 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "completed"
+        "estimatedStatus": "completed",
+        "has2016data": "1",
+        "has2019data": "0",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "tc-fodm": {
         "uniqueId": "tc-fodm",
         "deptAcronym": "tc",
         "department": "Transport Canada",
-        "projectName": "",
+        "projectName": "Flight Operations Data Management",
         "projectDescription2016": "",
         "projectDescription2019": "Flight Operalions Da!a Management - This project will address the requirement lor a system to plan flight operations, record flying activities, manage pilot training records, track pilot flight and duty times, and generate various reports concerning these activities. Two software products that are critical to the continued operations of\n !he Aircraft Services Directorate will be replaced, namely FiightPak and FLTDUTY XLS, which are stable but have reached the end of their life and are no longer receiving vendor support. A COTS product, or suite of products, will be procured that wm allow Aircraft Services to meet and stay in compliance with the changes to the Civil Aviation Regulations for Flight Duty requirements. Business efficiencies will be gained through system and data integration as well as robust reporting. Furthermore, a new product will also allow Aircraft Services to provide online aircraft booking based on availability of fleet aircraft in line with maintenance schedules to TC Pilots and\n Canadian Coast Guard operations nationally.",
         "totalBudget2016": "",
@@ -14564,13 +18926,19 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "new"
+        "estimatedStatus": "new",
+        "has2016data": "0",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "tc-gcdocs": {
         "uniqueId": "tc-gcdocs",
         "deptAcronym": "tc",
         "department": "Transport Canada",
-        "projectName": "",
+        "projectName": "GCdocs",
         "projectDescription2016": "",
         "projectDescription2019": "Transition to GCdocs \u2022 In alignment with TC's Back Office Strategy and TBS' direction to implement the GCdocs platform as the enterprise document and records management (EDRM) solution, the GCdocs project will replace RDIMS and shared drives. The project will perform substantial national client engagement to develop a new information architecture, file plan, permissions model, as well as execute file clean-up, file mkiralion, client lrainino and software deployment to the workstations.",
         "totalBudget2016": "",
@@ -14584,13 +18952,19 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "new"
+        "estimatedStatus": "new",
+        "has2016data": "0",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "tc-hdebd": {
         "uniqueId": "tc-hdebd",
         "deptAcronym": "tc",
         "department": "Transport Canada",
-        "projectName": "",
+        "projectName": "Harnessing Data for Evidence-Based Decisions",
         "projectDescription2016": "Harnessing Data for Evidence-Based Decisions\n The project is to address the regulatory amendments to the Carriers and Transportation and Grain Handling Undertaking Information Regulations (to be renamed to Transportation Information Regulations). These amendments which mandate electronic reporting mechanisms, and once implemented, will affect transportation data surveys and anaylsis and trigger a number of new pressures impacting this project.",
         "projectDescription2019": "",
         "totalBudget2016": "$1,822,629",
@@ -14604,13 +18978,19 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "unknown"
+        "estimatedStatus": "unknown (past due)",
+        "has2016data": "1",
+        "has2019data": "0",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "tc-hr": {
         "uniqueId": "tc-hr",
         "deptAcronym": "tc",
         "department": "Transport Canada",
-        "projectName": "",
+        "projectName": "HR Systems Revitalization",
         "projectDescription2016": "",
         "projectDescription2019": "HR Systems Revitalization - The goal of this new project is to implement the changes required for TC's HR applications to continue to support the department for the next five to seven years, when the department expects to onboard to MvGCHR, or the solution selected as the oovemmenl-wide HR svstem.",
         "totalBudget2016": "",
@@ -14624,13 +19004,19 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "new"
+        "estimatedStatus": "new",
+        "has2016data": "0",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "tc-imit-sc": {
         "uniqueId": "tc-imit-sc",
         "deptAcronym": "tc",
         "department": "Transport Canada",
-        "projectName": "",
+        "projectName": "IM\/IT Service Catalogue",
         "projectDescription2016": "",
         "projectDescription2019": "IM\/IT Service Catalogue\u2022 The project wm deploy a TC IM\/IT Service Catalogue based on a client-focused IT Service Management system to allow TC clients to more efficiently submit service requests for changes or additions lo workplace technology devices and related working environment (laptops, mobile phones, software applications, system access, wireiine telephones, etc.) and to track !he status of these requests through to fulfillment. The solution will provide business users with a convenient way to interact with the IT organization, by presenting IT services in the form of an orderab!e service catalogue, which will interface with TC and GC internal suooly processes.",
         "totalBudget2016": "",
@@ -14644,13 +19030,19 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "new"
+        "estimatedStatus": "new",
+        "has2016data": "0",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "tc-imit-security": {
         "uniqueId": "tc-imit-security",
         "deptAcronym": "tc",
         "department": "Transport Canada",
-        "projectName": "",
+        "projectName": "IM\/IT Security Enhancements",
         "projectDescription2016": "IM\/IT Security Enhancements\n The project is to enhance Transport Canada's IM\/IT security posture through the acquisition and implementation.of additional security procedures and tools over a period of five years in the following areas: Data Loss Prevention (DLP); Governance, Risk and Compliance; Vulnerabilti-y Management(Applications and Databases); Advanced Malware Protection; and Portable Storage Devices.",
         "projectDescription2019": "",
         "totalBudget2016": "$1,264,694",
@@ -14664,13 +19056,19 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "completed"
+        "estimatedStatus": "completed",
+        "has2016data": "1",
+        "has2019data": "0",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "tc-ims": {
         "uniqueId": "tc-ims",
         "deptAcronym": "tc",
         "department": "Transport Canada",
-        "projectName": "",
+        "projectName": "Incident Management System",
         "projectDescription2016": "",
         "projectDescription2019": "Incident Management System - Through the !MS project, TC will create an Office o! incident Management (OIM) which will modernize the department's response processes, across all modes and programs. A critical component of this response modernization effort wm be the implementation of the intemational!y recognized !MS to enable improvements in response efficiency and effectiveness. High quality digital intelligence will be harnessed lo power a real-time picture of incidents and threats to the transpcrtation system and rapid insiohts into the decisions that ensure the sa!etv and security of Canadians wm be generated.",
         "totalBudget2016": "",
@@ -14684,13 +19082,19 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "new"
+        "estimatedStatus": "new",
+        "has2016data": "0",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "tc-lms": {
         "uniqueId": "tc-lms",
         "deptAcronym": "tc",
         "department": "Transport Canada",
-        "projectName": "",
+        "projectName": "Learning Management System Replacement",
         "projectDescription2016": "",
         "projectDescription2019": "Departmental Leaming Management System (LMS) - The objective of this project is to replace Transport Canada's (TC) legacy Learning Management System (LMS)\n with an enterprise LMS for use by al! TC employees and all external client stakeholders.",
         "totalBudget2016": "",
@@ -14704,13 +19108,19 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "new"
+        "estimatedStatus": "new",
+        "has2016data": "0",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "tc-miss": {
         "uniqueId": "tc-miss",
         "deptAcronym": "tc",
         "department": "Transport Canada",
-        "projectName": "",
+        "projectName": "Major Investigation Specialized Software",
         "projectDescription2016": "",
         "projectDescription2019": "Major Investigation Specialized Software - This will acquire and pilot \u00b7 software to assist in the conduct of regulatory Investigations including major investigations. By adopting a recognized law enforcement methodology, coupled with industry-standard investigation specialized softvvare, the department will have the ability to work with other::\"  (Le. Federal, Provincial, Territorial and Municipal) in a cohesive approach during significant investigations. The solution will increase\n efficiencies though in-field electronic data gatherina, improved data storage, and the ability to share data with external law en!orcement aoencies.",
         "totalBudget2016": "",
@@ -14724,13 +19134,19 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "new"
+        "estimatedStatus": "new",
+        "has2016data": "0",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "tc-mpdis": {
         "uniqueId": "tc-mpdis",
         "deptAcronym": "tc",
         "department": "Transport Canada",
-        "projectName": "",
+        "projectName": "Marine Personnnel Document Issuance System",
         "projectDescription2016": "Marine Personnnel Document Issuance System\n MPDIS is a protected \"B\" applicatii;>n which consolidates examination and certification of Canadian Marine Personnel in compliance with the Canada Shipping Act 2001, the International Labour Organization (ILO) and the International Maritime Organization (IMO) through the service delivery, meeting the Standards of Training, Certification and Watchkeeping (STCV\\\/-95 Manila amendments of 2010). It enables Marine Safety & Security to satisfy its mandate to provide professional, internationally recognized credentials to Canadian Marine Personnel in a consistent and effect manner and meet its strategic objectives to provide \"Continuous improvement, effective leadership and sound management practices in program delivery''; \"Harmonizedand effective Marine Safety policy and regulatory framework focused on\u00b7 performance and risk management.\"",
         "projectDescription2019": "",
         "totalBudget2016": "$4,874,711",
@@ -14744,13 +19160,19 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "completed"
+        "estimatedStatus": "completed",
+        "has2016data": "1",
+        "has2019data": "0",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "tc-mtoa": {
         "uniqueId": "tc-mtoa",
         "deptAcronym": "tc",
         "department": "Transport Canada",
-        "projectName": "",
+        "projectName": "myTC Online Account",
         "projectDescription2016": "",
         "projectDescription2019": "myTC Online Account (MTOA} \u2022 Through a client-centric digital services platform, this project will provide external clients with the ability lo access regulatory services\n online through an enterprise web platform in a standard and consistent manner. External users will be able to complete service requests online, providing an alternate channel for the delivery of regulatory services; business groups providing these services will benefit from the automated collection o! client data. New streamlined\n services and the ability to interact with stakeholders using modem fT solutions wm allow employees to complete regulatory authorization services such as permits,\n certifications, and licenses in a standard, consistent, reliable, and secure manner.",
         "totalBudget2016": "",
@@ -14764,13 +19186,19 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "new"
+        "estimatedStatus": "new",
+        "has2016data": "0",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "1",
+        "isOver100m2019": "0"
     },
     "tc-mytc-oversight": {
         "uniqueId": "tc-mytc-oversight",
         "deptAcronym": "tc",
         "department": "Transport Canada",
-        "projectName": "",
+        "projectName": "myTC Oversight Mobile Tools",
         "projectDescription2016": "",
         "projectDescription2019": "myTC Oversight\u2022 The objective of this ongoing project is to enable TC's 1400 inspectors to conduct regulatory inspection activities effectively through enhanced mobile tools that replace paper-based inspections processes with digitized processes performed on a tablet. The provision of enhanced mobile tools, reference materials and access to standards, regulations and legislation wlll Improve inspections, enhance industry compliance with the legal and regulatory framework and increase the safety and security of Canadians.",
         "totalBudget2016": "",
@@ -14784,13 +19212,19 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "new"
+        "estimatedStatus": "new",
+        "has2016data": "0",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "1",
+        "isOver100m2019": "0"
     },
     "tc-neats": {
         "uniqueId": "tc-neats",
         "deptAcronym": "tc",
         "department": "Transport Canada",
-        "projectName": "",
+        "projectName": "National Environmental Assessment Tracking System",
         "projectDescription2016": "",
         "projectDescription2019": "National Environmental Assessment Tracking Syslem (NEATS) - As a result of proposed legislation, Bill C-69, the current NEATS will not be able to support the business\n operations of the Environmental Programs group. The purpose of this project is to seek alternative solutions, including the possibility of Environmental Programs utilizing (in whole or in part) the system currently under development by the Canadian Environmental Assessment Agency (CEAA).",
         "totalBudget2016": "",
@@ -14804,13 +19238,19 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "new"
+        "estimatedStatus": "unknown (no dates specified)",
+        "has2016data": "0",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "tc-norms": {
         "uniqueId": "tc-norms",
         "deptAcronym": "tc",
         "department": "Transport Canada",
-        "projectName": "",
+        "projectName": "National Occurrence Response Management System",
         "projectDescription2016": "National Occurrence Response Management System\n The project is for the redesign and replacement of existing inefficient tools, processes, and procedures towards creating a current, modern, well designed, well supported tool set to enaple the Occurrence Response sections in Civil Aviation, Marine Safety, and Rail Safety to manage and deliver the Minster's Observer Program as defined in the Canadian Transportation Accident Investigation and Safety Board (CTAISB) ,Act, and other relevant legislation for Safety and Security Groups.",
         "projectDescription2019": "",
         "totalBudget2016": "$1,527,700",
@@ -14824,13 +19264,19 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "completed"
+        "estimatedStatus": "completed",
+        "has2016data": "1",
+        "has2019data": "0",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "tc-nwar": {
         "uniqueId": "tc-nwar",
         "deptAcronym": "tc",
         "department": "Transport Canada",
-        "projectName": "",
+        "projectName": "Navigable Waters Act Renewal",
         "projectDescription2016": "",
         "projectDescription2019": "Navigable Waters Act Renewal (NWAR) - In alignment wilh the GC's priority for 'open data and transparency' and lo meet the Minister's mandate commitment to incorporate modem safeguards into the Navigation Protection Act, a new public facing registry will be developed In support of the new federal navigation regime.",
         "totalBudget2016": "",
@@ -14844,13 +19290,19 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "new"
+        "estimatedStatus": "new",
+        "has2016data": "0",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "tc-nwds": {
         "uniqueId": "tc-nwds",
         "deptAcronym": "tc",
         "department": "Transport Canada",
-        "projectName": "",
+        "projectName": "Navigable Waterways Database System",
         "projectDescription2016": "Navigable Waterways Database System\n The project is to modify The Navigable Waterways Database System to support the business requirement changes resulting from the legislative\n amendments.",
         "projectDescription2019": "",
         "totalBudget2016": "$1,549,166",
@@ -14864,13 +19316,19 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "completed"
+        "estimatedStatus": "completed",
+        "has2016data": "1",
+        "has2019data": "0",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "tc-o365": {
         "uniqueId": "tc-o365",
         "deptAcronym": "tc",
         "department": "Transport Canada",
-        "projectName": "",
+        "projectName": "Microsoft 365 Upgrade",
         "projectDescription2016": "",
         "projectDescription2019": "Microsoft 365 \u2022 This investment ls to upgrade TC's current Microsoft Office 2013 solution prior to its 2023 end-of-life. Microsoft 365 will provide a next generation tooiset\n for our employees and will ensure the Department's compliance with TBS OCIO's anticipated directive to replace Office 20i3.",
         "totalBudget2016": "",
@@ -14884,13 +19342,19 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "new"
+        "estimatedStatus": "new",
+        "has2016data": "0",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "tc-office2013": {
         "uniqueId": "tc-office2013",
         "deptAcronym": "tc",
         "department": "Transport Canada",
-        "projectName": "",
+        "projectName": "Office 2013 Desktop Renewal Project",
         "projectDescription2016": "Desktop Renewal Project- Office 2013\n The project is to complete all the activities required to upgrade the Transport Canada workplace technology devices to comply with the new office automation suite minimum standard as directed by the Chief Information Officer Branch of the Treasury Board Secretariat.",
         "projectDescription2019": "",
         "totalBudget2016": "$10,652,160",
@@ -14904,13 +19368,19 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "completed"
+        "estimatedStatus": "completed",
+        "has2016data": "1",
+        "has2019data": "0",
+        "isOver10m2016": "1",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "tc-oms": {
         "uniqueId": "tc-oms",
         "deptAcronym": "tc",
         "department": "Transport Canada",
-        "projectName": "",
+        "projectName": "Operations Management System",
         "projectDescription2016": "Transport Canada Operations Management System\n Responding to the Operation Center Consolidatio\u00b7neffort that included Civil Aviation Contingency Operations, Situation Centre and Canadian Transport Emergency Centre, this project would look to rationalize several legacy applications and manual processes. The goal is to develop a single application for all 3 centres to manage and track events. The application would track all events across all modes.",
         "projectDescription2019": "",
         "totalBudget2016": "$1,087,390",
@@ -14924,13 +19394,19 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "completed"
+        "estimatedStatus": "completed",
+        "has2016data": "1",
+        "has2019data": "0",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "tc-rpas": {
         "uniqueId": "tc-rpas",
         "deptAcronym": "tc",
         "department": "Transport Canada",
-        "projectName": "",
+        "projectName": "Remotely Piloted Aircraft Systems Information Management System",
         "projectDescription2016": "",
         "projectDescription2019": "Remotely Piloted Aircraft Systems (RPAS) - lniormation Management System \u2022 TC is introducing regulations and program services for remotely piloted aircraft systems as a new component of the Civil Aviation safely program. Subsequent lo deploying the first version of the RPAS in January 2019, Canadians can now register their RPAS, write online exams and acquire flight certificates, TC will build additional functionality in 2019-20 to address organizational entities, flight reviewer affiliations, and\n RPAS de-reoistrations.",
         "totalBudget2016": "",
@@ -14944,13 +19420,19 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "new"
+        "estimatedStatus": "new",
+        "has2016data": "0",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "tc-rstav": {
         "uniqueId": "tc-rstav",
         "deptAcronym": "tc",
         "department": "Transport Canada",
-        "projectName": "",
+        "projectName": "Rail Safety Purchase of Track Assessment Vehicles",
         "projectDescription2016": "Rail Safety Purchase of Track Assessment Vehicles\n This project is to replace the older track assessment vehicles at the end of their lifecycle and add an additional vehicle to the fleet to obtain a consistent inspection regime across the country.",
         "projectDescription2019": "",
         "totalBudget2016": "$2,906,101",
@@ -14964,13 +19446,19 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "completed"
+        "estimatedStatus": "completed",
+        "has2016data": "1",
+        "has2019data": "0",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "tc-sap-bi": {
         "uniqueId": "tc-sap-bi",
         "deptAcronym": "tc",
         "department": "Transport Canada",
-        "projectName": "",
+        "projectName": "SAP Business Intelligence Project",
         "projectDescription2016": "SAP Business Intelligence Project\n The project is to extend the life and service potential of the existing corporate Finance Business Intelligence (Bl) infrastructure, upgrade the Financial Management reporitng and Bl portfolio with that of the rest of Transport Canada and the standard of the Government of Canada, as well as enhance a current enterprise Bl platform that can be improved with additional features for visualization, dashboards, and other such current capabilities.",
         "projectDescription2019": "",
         "totalBudget2016": "$1,622,749",
@@ -14984,13 +19472,19 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "completed"
+        "estimatedStatus": "completed",
+        "has2016data": "1",
+        "has2019data": "0",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "tc-scem": {
         "uniqueId": "tc-scem",
         "deptAcronym": "tc",
         "department": "Transport Canada",
-        "projectName": "",
+        "projectName": "Stakeholder Consultations and Engagement Management",
         "projectDescription2016": "",
         "projectDescription2019": "Stakeholder Consultations and Engagement Management\u2022 This project will provide TC the ability to report on consultations under Open Governmen!\/Open Dialogue, strengthen nation-to-natlon relationships with Indigenous peoples through consistent and effective engagement, improve stakeholders' coordina!lon and consultation activities across the department and partners, Improve the accuracy of data to meet business and reporting needs, and the ability to effectively and efficiently track, manage, report, engage and build trust with partners.",
         "totalBudget2016": "",
@@ -15004,13 +19498,19 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "new"
+        "estimatedStatus": "new",
+        "has2016data": "0",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "tc-sis": {
         "uniqueId": "tc-sis",
         "deptAcronym": "tc",
         "department": "Transport Canada",
-        "projectName": "",
+        "projectName": "Surface Infrastructure System Enhancements",
         "projectDescription2016": "",
         "projectDescription2019": "Surface Infrastructure System (SIS) Enhancements \u2022 The existing Surface Infrastructure System (SIS) application requires enhancements to ensure continued compliance with federal legislation. The enhancements will allow for a common internal business platform to assist in the tracking of the department's Grants &\n Contributions programs. The project will strengthen internal controls, as well as facilitate reporting to decision makers.",
         "totalBudget2016": "",
@@ -15024,13 +19524,19 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "new"
+        "estimatedStatus": "new",
+        "has2016data": "0",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "tc-srccs": {
         "uniqueId": "tc-srccs",
         "deptAcronym": "tc",
         "department": "Transport Canada",
-        "projectName": "",
+        "projectName": "Security Reliability Clearance Control System",
         "projectDescription2016": "",
         "projectDescription2019": "Security Reliability Clearance Control System (SRCCS) - The SRCCS application supports three distinct programs - Aviation Transportation Security Clearance Program, Marine Transportation Security Clearance Program and the Policy on Government Security for federal government employees. This ongoing project provides key updates to the SRCCS application to streamline and automate numerous information exchanges wtth both internal and external stakeholders in Canada, eliminating\n the need for manual data entrv and improvini:i reportinq capabilities.",
         "totalBudget2016": "",
@@ -15044,13 +19550,19 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "new"
+        "estimatedStatus": "new",
+        "has2016data": "0",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "tc-tc-mims": {
         "uniqueId": "tc-tc-mims",
         "deptAcronym": "tc",
         "department": "Transport Canada",
-        "projectName": "",
+        "projectName": "TC Medical Information Management System",
         "projectDescription2016": "",
         "projectDescription2019": "TC - Medical Information Management System (TC-MIMS) \u2022 The objective ol !his ongoing initiative is to improve the efficiency and effectiveness of the two medical programs currently administered by TC in the Civil Aviation and Marine portfolios. Physicians will eventualiy be able lo submit examination results to TC to ensure that pilots and ship captains are fit lo perform their work.",
         "totalBudget2016": "",
@@ -15064,13 +19576,19 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "new"
+        "estimatedStatus": "new",
+        "has2016data": "0",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "tc-tma": {
         "uniqueId": "tc-tma",
         "deptAcronym": "tc",
         "department": "Transport Canada",
-        "projectName": "",
+        "projectName": "Transforming to Mobile Applications",
         "projectDescription2016": "Transforming to Mobile Applications\n The project is to provide a mobile working environment for Transport Canada (TC) inspectors (including mobile devices) and mobile enabled business applications for TC inspectors, other TC employees, and external stakeholders.",
         "projectDescription2019": "",
         "totalBudget2016": "$8,876,237",
@@ -15084,13 +19602,19 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "completed"
+        "estimatedStatus": "completed",
+        "has2016data": "1",
+        "has2019data": "0",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "tc-tsis": {
         "uniqueId": "tc-tsis",
         "deptAcronym": "tc",
         "department": "Transport Canada",
-        "projectName": "",
+        "projectName": "Transportation Security Information System",
         "projectDescription2016": "",
         "projectDescription2019": "Transportation Security Information System (TSIS) - The goal of this project Is to update an existing application that is used lo manage and track the operatlons of bolh Aviation Security's and Surface and lnlermodai Security's oversight programs. In its current state, TSIS is insufficient !n capturing !he type and amount of data required by the programs and is inadequate in supporting risk, trend analysis and decision-making. Additional automation and improvements are required to provide a\n comprehensive risk assessment solution.",
         "totalBudget2016": "",
@@ -15104,13 +19628,19 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "new"
+        "estimatedStatus": "new",
+        "has2016data": "0",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "tc-vsc": {
         "uniqueId": "tc-vsc",
         "deptAcronym": "tc",
         "department": "Transport Canada",
-        "projectName": "",
+        "projectName": "Virtual Service Centre",
         "projectDescription2016": "Transport Canada Virtual Service Centre\n The project is to create an external portal for the provision of services to the industry and public. It will provide a consistent public face for the department and facilitate.a more standard approach to the way services are provided.",
         "projectDescription2019": "",
         "totalBudget2016": "$2,379,500",
@@ -15124,13 +19654,19 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "completed"
+        "estimatedStatus": "completed",
+        "has2016data": "1",
+        "has2019data": "0",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "tc-wifi": {
         "uniqueId": "tc-wifi",
         "deptAcronym": "tc",
         "department": "Transport Canada",
-        "projectName": "",
+        "projectName": "WiFi Installation",
         "projectDescription2016": "",
         "projectDescription2019": "WiFi \u2022 This project wm enable the lnsta!laoon of GC Wi-Fi in multiple TC sites across the country, including in specifically identified Aircraft Services hangars lo support the maintenance of helicopters owned by the Department of Fisheries and Oceans. This will replace the aging TC Wi-Fi sysiem at every loca!ion, in addition to installing Wi-Fi where there previously was none. This investment wm serve to foster a mobile workforce and virtual workplace, in supoort of TC's Diqi!al Roadmap.",
         "totalBudget2016": "",
@@ -15144,13 +19680,19 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "new"
+        "estimatedStatus": "new",
+        "has2016data": "0",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "vac-b2016-fsc": {
         "uniqueId": "vac-b2016-fsc",
         "deptAcronym": "vac",
         "department": "Veterans Affairs Canada",
-        "projectName": "",
+        "projectName": "Budget 2016 Financial Security Changes",
         "projectDescription2016": "Budget 2016 Financial Security Changes:\n To implement business system changes that facilitate new il')COme support measures provided to Veterans in Budget 2016. In an effort to meet the needs of modern-day Veterans, Budget 2016 proposes significant enhancements to financial benefits. The investment is aimed at providing improved income support to disabled Veterans; those transitioning to the civilian workforce as well as those with injuries prohibiting gainful employment. A primary focus is to ensure that disabled Veterans who cannot work due to their injuri\u00b7es receive higher, continued financial suppor.t",
         "projectDescription2019": "",
         "totalBudget2016": "$4,488,737",
@@ -15164,13 +19706,19 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "completed"
+        "estimatedStatus": "completed",
+        "has2016data": "1",
+        "has2019data": "0",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "vac-fhcpsi": {
         "uniqueId": "vac-fhcpsi",
         "deptAcronym": "vac",
         "department": "Veterans Affairs Canada",
-        "projectName": "",
+        "projectName": "New Federal Health Care Processing System Implementation",
         "projectDescription2016": "New Federal Health Care Processing System Implementation: Implementation of new key delivery mechanism for the provision of health claims processing services to support and fulfil Veteran Affairs Canada's mission tci provide exemplary, client-centred services and benefits that respond to the needs of Veterans Affairs Canada clients.",
         "projectDescription2019": "",
         "totalBudget2016": "$2,478,595",
@@ -15184,13 +19732,19 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "completed"
+        "estimatedStatus": "completed",
+        "has2016data": "1",
+        "has2019data": "0",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "vac-itsm": {
         "uniqueId": "vac-itsm",
         "deptAcronym": "vac",
         "department": "Veterans Affairs Canada",
-        "projectName": "",
+        "projectName": "IT Service Model Standards and Processes",
         "projectDescription2016": "",
         "projectDescription2019": "IT Service Model, Standards and processes:\n Shared Services Canada's Service Management Program is aimed at fundamentally transforming Shared Services Canada's IT Service Management capabilities by providing Shared Services Canada with the processes, tools, knowledge, training and organizational\/governance structures necessary to effectively and efficiently deliver and manage IT infrastructure services.\n Even though Veterans Affairs Canada has similar IT Service Management capabilities already established, there will be new opportunities to improve and better integrate with Shared Services Canada's once in",
         "totalBudget2016": "",
@@ -15204,13 +19758,19 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "new"
+        "estimatedStatus": "unknown (no dates specified)",
+        "has2016data": "0",
+        "has2019data": "1",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "vac-mva-interop": {
         "uniqueId": "vac-mva-interop",
         "deptAcronym": "vac",
         "department": "Veterans Affairs Canada",
-        "projectName": "",
+        "projectName": "My VAC Account Interoperability",
         "projectDescription2016": "My VAC Account Interoperability between Departme_nt of National Defence and Veterans Affairs Canada:\n The project will upgrade My VAC Account to provide a direct data linkage between Veterans Affairs Canada, the Department of National Defence and the Canadian Armed Forces systems. This facilitates the electronic exchange of information between the Department of National Defence and the Canadian Armed Forces to Veterans Affairs Canada which validates the identity of a serving member or a recently-released Veteran. It also streamline\u00b7s the process of applying for benefits through My VAC Account by accessing the members' personal information within the Canadian Armed Forces Human Resources systems.",
         "projectDescription2019": "",
         "totalBudget2016": "$2,262,000",
@@ -15224,13 +19784,19 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "completed"
+        "estimatedStatus": "completed",
+        "has2016data": "1",
+        "has2019data": "0",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "vac-web-sg": {
         "uniqueId": "vac-web-sg",
         "deptAcronym": "vac",
         "department": "Veterans Affairs Canada",
-        "projectName": "",
+        "projectName": "Web 1.0 Standards & 2.0 Guidelines",
         "projectDescription2016": "Web 1.0 Standards & 2.0 Guidelines:\n The purpo\u00b7se of the project is to ensure veterans.gc.ca is accessible and usable; to establish and implement Web governance and oversight; to develop a departmental strategy for using Web 1.0 and Web 2.0 tools and services; to continue developing knowledgeable staff who use social media and other Web 2.0 tools; and to actively use and apply Web 2.0 technologies to engage our audiences and stakeholders.",
         "projectDescription2019": "",
         "totalBudget2016": "$4,118,797",
@@ -15244,13 +19810,19 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "completed"
+        "estimatedStatus": "completed",
+        "has2016data": "1",
+        "has2019data": "0",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     },
     "wd-gcpm": {
         "uniqueId": "wd-gcpm",
         "deptAcronym": "wd",
         "department": "Western Economic Diversification Canada",
-        "projectName": "",
+        "projectName": "Government of Canada Program Management (GCPM) for Regional Development Agencies",
         "projectDescription2016": "Government of Canada Program Management (GCPM): The design and build of a common, modern, and client-centric IM\/IT system to support online delivery of the Regional Development Agencies grants and contribution mandate. The proposed system would replace the agencies' inefficient and obsolete systems, offering various levels of automation and using a combination of applications.",
         "projectDescription2019": "",
         "totalBudget2016": "$1,628,427",
@@ -15264,6 +19836,12 @@ app.data = {
         "budgetDelta": "",
         "budgetDeltaPercentage": "",
         "datesDeltaYear": "",
-        "estimatedStatus": "completed"
+        "estimatedStatus": "completed",
+        "has2016data": "1",
+        "has2019data": "0",
+        "isOver10m2016": "0",
+        "isOver100m2016": "0",
+        "isOver10m2019": "0",
+        "isOver100m2019": "0"
     }
 };
