@@ -59,7 +59,7 @@ $(function() {
 
 			if(_.isObject(item)) {
 				// console.log(app.modalContentsTemplate(item));
-				$('#modal-details-body').html(app.modalContentsTemplate(item));
+				$('#modal-details-body').html(app.modalContentsTemplate({item: item}));
 				$('#modal-details').modal('show')
 				return true;
 			}
