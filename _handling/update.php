@@ -34,9 +34,14 @@ function parseTotalBudget($input) {
   return intval($input);
 }
 
-function displayTotalBudget($input) {
+function displayTotalBudget($input, $isCombined = false) {
   if(! trim($input)) {
-    return '<em class="no-data-provided">(not&nbsp;provided)</em>';
+    if($isCombined) {
+      return '';
+    }
+    else {
+      return '<em class="no-data-provided">(not&nbsp;provided)</em>';
+    }
   } 
   else {
     return $input;
@@ -52,12 +57,16 @@ function parseEstimatedCompletionDate($estimatedCompletionDate) {
   }
 }
 
-function displayEstimatedCompletionDate($estimatedCompletionDate, $rawProvidedDate = "No date provided") {
+function displayEstimatedCompletionDate($estimatedCompletionDate, $rawProvidedDate = "No date provided", $isCombined = false) {
   if(trim($estimatedCompletionDate)) {
     return str_replace(' ', '&nbsp;',$estimatedCompletionDate);
   }
-  else {
+  elseif($isCombined == false) {
     return '<em class="no-data-provided">' . $rawProvidedDate . '</em>';
+  }
+  else {
+    // For combined data, don't list "not provided" each time
+    return '';
   }
 }
 
@@ -152,12 +161,12 @@ foreach($toProcess as $key => $params) {
         <tr id="' . $item['uniqueId'] . '">
           <td data-search="' . $item['deptAcronym'] . ' ' . strtolower($item['department']) . '">' . $item['department'] . '</td>
           <td data-search="' . $item['uniqueId'] . ' ' . htmlentities($item['projectName']) . ' ' . cleanupDescriptions($item['projectDescription2016']) . ' ' . cleanupDescriptions($item['projectDescription2019']) . '"><a href="#uid=' . $item['uniqueId'] . '">' . $item['projectName'] . '</a></td>
-          <td class="pdt-date" data-order="' . parseTotalBudget($item['totalBudget2016']) . '">' . displayTotalBudget($item['totalBudget2016']) . '</td>
-          <td class="pdt-date" data-order="' . parseTotalBudget($item['totalBudget2019']) . '">' . displayTotalBudget($item['totalBudget2019']) . '</td>
-          <td class="pdt-date" data-order="' . parseTotalBudget($item['budgetDelta']) . '">' . displayTotalBudget($item['budgetDelta']) . '</td>
+          <td class="pdt-date" data-order="' . parseTotalBudget($item['totalBudget2016']) . '">' . displayTotalBudget($item['totalBudget2016'], 1) . '</td>
+          <td class="pdt-date" data-order="' . parseTotalBudget($item['totalBudget2019']) . '">' . displayTotalBudget($item['totalBudget2019'], 1) . '</td>
+          <td class="pdt-date" data-order="' . parseTotalBudget($item['budgetDelta']) . '">' . displayTotalBudget($item['budgetDelta'], 1) . '</td>
           <td class="" data-order="' . floatval($item['budgetDeltaPercentage']) . '">' . $item['budgetDeltaPercentage'] . '</td>
-          <td data-order="' . parseEstimatedCompletionDate($item['estimatedCompletionDate2016']) . '">' . displayEstimatedCompletionDate($item['estimatedCompletionDate2016']) . '</td>
-          <td data-order="' . parseEstimatedCompletionDate($item['estimatedCompletionDate2019']) . '">' . displayEstimatedCompletionDate($item['estimatedCompletionDate2019']) . '</td>
+          <td data-order="' . parseEstimatedCompletionDate($item['estimatedCompletionDate2016']) . '">' . displayEstimatedCompletionDate($item['estimatedCompletionDate2016'], "No date provided", 1) . '</td>
+          <td data-order="' . parseEstimatedCompletionDate($item['estimatedCompletionDate2019']) . '">' . displayEstimatedCompletionDate($item['estimatedCompletionDate2019'], "No date provided", 1) . '</td>
           <td>' . $item['datesDeltaYear'] . '</td>
           <td>' . $item['estimatedStatus'] . '</td>
         </tr>
