@@ -9,11 +9,11 @@ $(function () {
   app.hashChanged = function (anchor) {
     var targetId;
     var item;
-    console.log(anchor);
+
     if (anchor.startsWith("#uid=") === true) {
       targetId = anchor.substring(5);
       item = _.get(app.data, targetId);
-      console.log("targetId = " + targetId);
+      // console.log("targetId = " + targetId);
 
       if (_.isObject(item)) {
         // console.log(app.modalContentsTemplate(item));
@@ -24,7 +24,7 @@ $(function () {
         return true;
       }
     }
-    console.log("No item selected");
+    // console.log("No item selected");
   };
 
   // Thanks to
