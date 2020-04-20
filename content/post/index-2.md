@@ -29,7 +29,7 @@ For more background on software procurement reform, see the [18F software budget
 
 Community visualizations of this data:
 
-*   [IT projects over $10 Million in Canada (2019)](https://observablehq.com/@johnhaldeman/it-projects-over-10-million-in-canada) by [John Haldeman](https://twitter.com/JLHaldeman)
+*   [IT projects over $10 Million in Canada](https://observablehq.com/@johnhaldeman/it-projects-over-10-million-in-canada) by [John Haldeman](https://twitter.com/JLHaldeman)
 *   [Largest IT projects in the Government of Canada (2019)](https://public.tableau.com/profile/gary.devis#!/vizhome/ThelargestITprojectsintheGovernmentofCanada/Dashboard2) by [Gary Devis](https://twitter.com/GaryDevis)
 
 If you’ve created a visualization of this data, [let us know](https://twitter.com/sboots) and we’ll add it to the list! 
