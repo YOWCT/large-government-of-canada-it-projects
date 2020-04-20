@@ -151,7 +151,7 @@ foreach($toProcess as $key => $params) {
         $htmlOutput .= '
         <tr id="' . $item['uniqueId'] . '">
           <td data-search="' . $item['deptAcronym'] . ' ' . strtolower($item['department']) . '">' . $item['department'] . '</td>
-          <td><a href="#uid=' . $item['uniqueId'] . '">' . $item['projectName'] . '</a></td>
+          <td data-search="' . $item['uniqueId'] . ' ' . htmlentities($item['projectName']) . ' ' . cleanupDescriptions($item['projectDescription2016']) . ' ' . cleanupDescriptions($item['projectDescription2019']) . '"><a href="#uid=' . $item['uniqueId'] . '">' . $item['projectName'] . '</a></td>
           <td class="pdt-date" data-order="' . parseTotalBudget($item['totalBudget2016']) . '">' . displayTotalBudget($item['totalBudget2016']) . '</td>
           <td class="pdt-date" data-order="' . parseTotalBudget($item['totalBudget2019']) . '">' . displayTotalBudget($item['totalBudget2019']) . '</td>
           <td class="pdt-date" data-order="' . parseTotalBudget($item['budgetDelta']) . '">' . displayTotalBudget($item['budgetDelta']) . '</td>
@@ -170,11 +170,13 @@ foreach($toProcess as $key => $params) {
 
       // deptAcronym	shortcode	uniqueId	department	projectName	description	totalBudget	estimatedCompletionDate	rawProvidedDate	yearsRemaining	originalDocumentOrder	source	asOfDate	isOver10M	isOver100M
 
+      // Note that if the Hugo page structure changed, this would need to be updated:
+      $pageUrl = '/' . $key . '/';
 
       $htmlOutput .= '
       <tr id="' . $item['uniqueId'] . '">
         <td data-search="' . $item['deptAcronym'] . ' ' . strtolower($item['department']) . '">' . $item['department'] . '</td>
-        <td data-search="' . $item['uniqueId'] . ' ' . htmlentities($item['projectName']) . ' ' . cleanupDescriptions($item['description']) . '"><a href="#uid=' . $item['uniqueId'] . '">' . $item['projectName'] . '</a></td>
+        <td data-search="' . $item['uniqueId'] . ' ' . htmlentities($item['projectName']) . ' ' . cleanupDescriptions($item['description']) . '"><a href="' . $pageUrl . '#uid=' . $item['uniqueId'] . '">' . $item['projectName'] . '</a></td>
         <td class="pdt-date" data-order="' . parseTotalBudget($item['totalBudget']) . '">' . displayTotalBudget($item['totalBudget']) . '</td>
         <td data-order="' . parseEstimatedCompletionDate($item['estimatedCompletionDate']) . '">' . displayEstimatedCompletionDate($item['estimatedCompletionDate'], $item['rawProvidedDate']) . '</td>
         <td>' . $item['yearsRemaining'] . '</td>
