@@ -100,8 +100,8 @@ $(function() {
 	$(document).ready(function() {
 
 		// Initialize the data table
-		var orderColumnIndex = _.toInteger($('#2019-data-table').data('orderColumn'));
-    $('#2019-data-table').DataTable( {
+		var orderColumnIndex = _.toInteger($('#main-data-table').data('orderColumn'));
+    $('#main-data-table').DataTable( {
         "order": [[ orderColumnIndex, "desc" ]],
 				"lengthMenu": [[20, 50, 100, -1], [20, 50, 100, "All"]]
 		} );
@@ -109,9 +109,9 @@ $(function() {
 		// Scroll to top of table on change
 		// Thanks to
 		// https://stackoverflow.com/a/35899744
-		$('#2019-data-table').on( 'page.dt', function () {
+		$('#main-data-table').on( 'page.dt', function () {
 			$('html, body').animate({
-				scrollTop: $('#2019-data-table').offset().top
+				scrollTop: $('#main-data-table').offset().top
 			}, 200);        
 		});
 
