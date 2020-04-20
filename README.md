@@ -8,14 +8,16 @@ The code here is licensed under the [MIT License](https://github.com/YOWCT/large
 
 ## Source data
 
-The data displayed on the website is [available in CSV format here](https://github.com/YOWCT/large-government-of-canada-it-projects/blob/master/static/csv/2019-gc-it-projects.csv).
+The data displayed on the website is [available in CSV format here](https://github.com/YOWCT/large-government-of-canada-it-projects/blob/master/static/csv/gc-it-projects-combined.csv). You can also download individual CSV data for the [2016](https://github.com/YOWCT/large-government-of-canada-it-projects/blob/master/static/csv/gc-it-projects-2016.csv) and [2019](https://github.com/YOWCT/large-government-of-canada-it-projects/blob/master/static/csv/gc-it-projects-2016.csv) datasets.
 
-The data originated from [a sessional paper archived here](https://github.com/YOWCT/large-government-of-canada-it-projects/blob/master/static/pdf/8555-421-2460.pdf), available from the Library of Parliament.
+The data originated from two sessional papers, archived here from [2016](https://github.com/YOWCT/large-government-of-canada-it-projects/blob/master/static/pdf/8555-421-266.pdf) and [2019](https://github.com/YOWCT/large-government-of-canada-it-projects/blob/master/static/pdf/8555-421-2460.pdf), available from the Library of Parliament.
 
 You might be interested in:
 
 *   [Additional sessional papers on government IT topics](https://github.com/lchski/free-the-data/tree/master/lop/sessional-papers)
 *   [Analyzing Government of Canada-wide contract spending](https://goc-spending.github.io/analysis/)
+
+**Contribute your own data visualizations!** We’d love to list them on the homepage. You can get in touch [by Twitter](https://twitter.com/sboots) or by [creating a pull request on the content page](https://github.com/YOWCT/large-government-of-canada-it-projects/blob/master/content/post/index-2.md#learn-more).
 
 ## Usage instructions
 
