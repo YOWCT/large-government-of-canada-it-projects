@@ -10,7 +10,7 @@ $(function () {
     var targetId;
     var item;
 
-    if (anchor.startsWith("#uid=") === true) {
+    if (_.startsWith(anchor, "#uid=") === true) {
       targetId = anchor.substring(5);
       item = _.get(app.data, targetId);
       // console.log("targetId = " + targetId);
