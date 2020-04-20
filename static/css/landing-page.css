@@ -23,6 +23,13 @@ h6 {
 }
 
 #main h2 {
+    font-size: 34px;
+    margin-top: 1.5rem;
+    margin-bottom: 1.5rem;
+}
+
+#main h3 {
+    font-size: 30px;
     margin-top: 1.5rem;
     margin-bottom: 1rem;
 }
