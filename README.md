@@ -8,7 +8,7 @@ The code here is licensed under the [MIT License](https://github.com/YOWCT/large
 
 ## Source data
 
-The data displayed on the website is [available in CSV format here](https://github.com/YOWCT/large-government-of-canada-it-projects/blob/master/static/csv/gc-it-projects-combined.csv). You can also download individual CSV data for the [2016](https://github.com/YOWCT/large-government-of-canada-it-projects/blob/master/static/csv/gc-it-projects-2016.csv) and [2019](https://github.com/YOWCT/large-government-of-canada-it-projects/blob/master/static/csv/gc-it-projects-2016.csv) datasets.
+The data displayed on the website is [available in CSV format here](https://github.com/YOWCT/large-government-of-canada-it-projects/blob/master/static/csv/gc-it-projects-combined.csv). You can also download individual CSV data for the [2016](https://github.com/YOWCT/large-government-of-canada-it-projects/blob/master/static/csv/gc-it-projects-2016.csv) and [2019](https://github.com/YOWCT/large-government-of-canada-it-projects/blob/master/static/csv/gc-it-projects-2016.csv) datasets, or a [cumulative but unindexed CSV file that includes both years of data](https://github.com/YOWCT/large-government-of-canada-it-projects/blob/master/static/csv/gc-it-projects-cumulative.csv).
 
 The data originated from two sessional papers, archived here from [2016](https://github.com/YOWCT/large-government-of-canada-it-projects/blob/master/static/pdf/8555-421-266.pdf) and [2019](https://github.com/YOWCT/large-government-of-canada-it-projects/blob/master/static/pdf/8555-421-2460.pdf), available from the Library of Parliament.
 
