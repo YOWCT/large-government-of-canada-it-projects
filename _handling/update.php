@@ -9,11 +9,18 @@ $toProcess = [
     'originDate' => "",
   ],
   '2019' => [
-    'inputFile' => "static/csv/2019-gc-it-projects.csv",
+    'inputFile' => "static/csv/gc-it-projects-2019.csv",
     'outputFile' => "layouts/shortcodes/tabledata_2019.html",
     'outputJson' => "static/js/generated/tabledata_2019.js",
     'isCombined' => false,
     'originDate' => "May 1, 2019",
+  ],
+  '2016' => [
+    'inputFile' => "static/csv/gc-it-projects-2016.csv",
+    'outputFile' => "layouts/shortcodes/tabledata_2016.html",
+    'outputJson' => "static/js/generated/tabledata_2016.js",
+    'isCombined' => false,
+    'originDate' => "June 9, 2016",
   ],
 ];
 
@@ -91,6 +98,11 @@ function parseYearsRemaining($estimatedCompletionDate) {
   }
 }
 
+function cleanupDescriptions($description) {
+  $description = str_replace(["\n", "\t", "\r"], " ", $description);
+  return htmlentities($description);
+}
+
 // var_dump($array);
 
 // Main operation
@@ -137,7 +149,7 @@ foreach($toProcess as $key => $params) {
       // For now, exclude entries without a name
       if($item['projectName']) {
         $htmlOutput .= '
-        <tr id="' . $item['uniqueId'] . '" data-row-json="' . htmlentities(json_encode($item)) . '">
+        <tr id="' . $item['uniqueId'] . '">
           <td data-search="' . $item['deptAcronym'] . ' ' . strtolower($item['department']) . '">' . $item['department'] . '</td>
           <td><a href="#uid=' . $item['uniqueId'] . '">' . $item['projectName'] . '</a></td>
           <td class="pdt-date" data-order="' . parseTotalBudget($item['totalBudget2016']) . '">' . displayTotalBudget($item['totalBudget2016']) . '</td>
@@ -154,13 +166,18 @@ foreach($toProcess as $key => $params) {
       
     }
     else {
+      // Individual year entries
+
+      // deptAcronym	shortcode	uniqueId	department	projectName	description	totalBudget	estimatedCompletionDate	rawProvidedDate	yearsRemaining	originalDocumentOrder	source	asOfDate	isOver10M	isOver100M
+
+
       $htmlOutput .= '
       <tr id="' . $item['uniqueId'] . '">
         <td data-search="' . $item['deptAcronym'] . ' ' . strtolower($item['department']) . '">' . $item['department'] . '</td>
-        <td>' . nl2br($item['description']) . '</td>
+        <td data-search="' . $item['uniqueId'] . ' ' . htmlentities($item['projectName']) . ' ' . cleanupDescriptions($item['description']) . '"><a href="#uid=' . $item['uniqueId'] . '">' . $item['projectName'] . '</a></td>
         <td class="pdt-date" data-order="' . parseTotalBudget($item['totalBudget']) . '">' . displayTotalBudget($item['totalBudget']) . '</td>
         <td data-order="' . parseEstimatedCompletionDate($item['estimatedCompletionDate']) . '">' . displayEstimatedCompletionDate($item['estimatedCompletionDate'], $item['rawProvidedDate']) . '</td>
-        <td data-order="' . calculateYearsRemaining($item['estimatedCompletionDate'], $originDate) . '">' . calculateYearsRemaining($item['estimatedCompletionDate'], $originDate) . '</td>
+        <td>' . $item['yearsRemaining'] . '</td>
       </tr>
       ';
     }
