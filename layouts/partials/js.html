@@ -18,14 +18,13 @@
 <!-- Lodash templates -->
 {{ (partial "lodash_templates.ejs" .) | safeHTML }}
 
-<script type="text/javascript" language="javascript" src="https://code.jquery.com/jquery-3.3.1.js"></script>
-<script type="text/javascript" language="javascript" src="https://cdn.datatables.net/1.10.20/js/jquery.dataTables.min.js"></script>
-<script type="text/javascript" language="javascript" src="https://cdn.datatables.net/1.10.20/js/dataTables.bootstrap.min.js"></script>
-<script type="text/javascript" language="javascript" src="https://cdn.jsdelivr.net/npm/lodash@4.17.15/lodash.min.js"></script>
+<!-- Loading jQuery, jQuery DataTables + Bootstrap plugin, Lodash, and Bootstrap JS -->
+<script type="text/javascript" language="javascript" src="js/lib/jquery-3.3.1.min.js"></script>
+<script type="text/javascript" language="javascript" src="js/lib/jquery.dataTables.min.js"></script>
+<script type="text/javascript" language="javascript" src="js/lib/dataTables.bootstrap.min.js"></script>
+<script type="text/javascript" language="javascript" src="js/lib/lodash.min.js"></script>
+<script type="text/javascript" language="javascript" src="js/lib/bootstrap.min.js"></script>
 
-
-<!-- Bootstrap Core JavaScript -->
-<script src="js/bootstrap.min.js"></script>
 
 <!-- Page-specific data to load -->
 {{ if not (.Params.url) -}}
