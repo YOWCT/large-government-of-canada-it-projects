@@ -26,4 +26,6 @@ The table below incorporates both the [2016 data](/2016/) and the [2019 data](/2
 
 For the 98 projects appearing in both, the combined data can be used to triangulate changes in project budget and timelines (“ahead of schedule”, “on schedule”, or “behind schedule”). Projects included only in the 2019 data are marked as “new”. Projects included only in the 2016 data are marked as “complete” if their estimated completion date was before May 1, 2019 (the benchmark date of the 2019 data), and as “unknown (past due)” if the estimated completion date was later but the project is not included in the 2019 data. 
 
+You can click on the project names below to see additional project details.
+
 Below the data table, you can see an [analysis of projects](#are-large-it-projects-likely-to-be-successful) and [links to community data visualizations](#learn-more).
