@@ -16,3 +16,8 @@ googleAnalytics = "UA-159391141-1"
   mediaType = "text/template"
   isHTML = true
   isPlainText = true
+
+# Thanks to
+# https://discourse.gohugo.io/t/raw-html-getting-omitted-in-0-60-0/22032/2
+[markup.goldmark.renderer]
+  unsafe = true
