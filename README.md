@@ -8,9 +8,9 @@ The code here is licensed under the [MIT License](https://github.com/YOWCT/large
 
 ## Source data
 
-The data displayed on the website is [available in CSV format here](https://github.com/YOWCT/large-government-of-canada-it-projects/blob/master/static/csv/gc-it-projects-combined.csv). You can also download individual CSV data for the [2016](https://github.com/YOWCT/large-government-of-canada-it-projects/blob/master/static/csv/gc-it-projects-2016.csv) and [2019](https://github.com/YOWCT/large-government-of-canada-it-projects/blob/master/static/csv/gc-it-projects-2016.csv) datasets, or a [cumulative but unindexed CSV file that includes both years of data](https://github.com/YOWCT/large-government-of-canada-it-projects/blob/master/static/csv/gc-it-projects-cumulative.csv).
+The data displayed on the website is [available in CSV format here](https://github.com/YOWCT/large-government-of-canada-it-projects/blob/master/static/csv/gc-it-projects-combined.csv). You can also download individual CSV data for the [2016](https://github.com/YOWCT/large-government-of-canada-it-projects/blob/master/static/csv/gc-it-projects-2016.csv), [2019](https://github.com/YOWCT/large-government-of-canada-it-projects/blob/master/static/csv/gc-it-projects-2019.csv), and [2022](https://github.com/YOWCT/large-government-of-canada-it-projects/blob/master/static/csv/gc-it-projects-2022.csv) datasets.
 
-The data originated from two sessional papers, archived here from [2016](https://github.com/YOWCT/large-government-of-canada-it-projects/blob/master/static/pdf/8555-421-266.pdf) and [2019](https://github.com/YOWCT/large-government-of-canada-it-projects/blob/master/static/pdf/8555-421-2460.pdf), available from the Library of Parliament.
+The data originated from three sessional papers, archived here from [2016](https://github.com/YOWCT/large-government-of-canada-it-projects/blob/master/static/pdf/8555-421-266.pdf), [2019](https://github.com/YOWCT/large-government-of-canada-it-projects/blob/master/static/pdf/8555-421-2460.pdf), and [2022](https://large-government-of-canada-it-projects.github.io/pdf/8530-441-13-505-b.pdf), available from the Library of Parliament.
 
 You might be interested in:
 
