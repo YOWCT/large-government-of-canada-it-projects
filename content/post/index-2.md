@@ -8,15 +8,15 @@ sec: 3
 
 ### Are large IT projects likely to be successful?
 
-Of the 98 projects that appear in both datasets, **84%** are behind schedule, **8%** are on schedule, and **4%** are ahead of schedule based on the estimated completion dates provided. The remaining 4% did not have estimated completion dates listed for both years.
+Of the 193 projects that appear in multiple datasets, **87%** are behind schedule, **9%** are on schedule, and **5%** are ahead of schedule based on the estimated completion dates provided. 
 
-Among projects from 2016, the following proportion were either completed, on schedule, or ahead of schedule:
+Among projects from 2016 and 2019, the following proportion were either completed, on schedule, or ahead of schedule:
 
-*   **70%** of projects smaller than $10M
-*   **52%** of projects between $10M and $100M
-*   **35%** of projects over $100M
+* **73%** of projects smaller than $10M
+* **59%** of projects between $10M and $100M
+* **38%** of projects over $100M
 
-Of the 2016 projects that were over $100M, **65%** were either behind schedule or not listed in the 2019 data despite an estimated completion date later in the future.
+Of the 2016 and 2019 projects that were over $100M, **62%** were either behind schedule or not listed in the 2022 data despite an estimated completion date later in the future.
 
 Research from the Standish Group indicates that IT projects larger than $10M have [a consistently high rate of failure](https://18f.gsa.gov/2019/04/09/why-we-love-modular-contracting/). Software procurement [experts in the United States government](https://18f.gsa.gov/tags/modular-contracting/) suggest that, in order to be successful, IT projects should be delivered in less than six months and have budgets smaller than $2M. 
 
@@ -25,7 +25,7 @@ For more background on software procurement reform, see the [18F software budget
 
 ### Learn more
 
-<p>You can download the <a href="/csv/gc-it-projects-combined.csv" target="_blank">combined data</a>, the <a href="/csv/gc-it-projects-2016.csv" target="_blank">2016 data</a>, and the the <a href="/csv/gc-it-projects-2019.csv" target="_blank">2019 data</a> in CSV format.</p>
+<p>You can download the <a href="/csv/gc-it-projects-combined.csv" target="_blank">combined data</a>, the <a href="/csv/gc-it-projects-2016.csv" target="_blank">2016 data</a>, the <a href="/csv/gc-it-projects-2019.csv" target="_blank">2019 data</a>, and the <a href="/csv/gc-it-projects-2022.csv" target="_blank">2022 data</a> in CSV format.</p>
 
 Community visualizations of this data:
 
