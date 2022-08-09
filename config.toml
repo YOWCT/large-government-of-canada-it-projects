@@ -5,7 +5,7 @@ googleAnalytics = "UA-159391141-1"
 
 [params]
   author = "Ottawa Civic Tech"
-  description = "A list and dataset of Government of Canada IT projects over $1 million, based on data from 2016 and 2019. Sortable by department, by total cost, and estimated completion date."
+  description = "A list and dataset of Government of Canada IT projects over $1 million, based on data from 2016, 2019, and 2022. Sortable by department, by total cost, and estimated completion date."
 
 # Thanks to
 # https://discourse.gohugo.io/t/lodash-template-tags-are-escaped-since-hugo-0-19/6299/4
