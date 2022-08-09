@@ -170,8 +170,8 @@ foreach($toProcess as $key => $params) {
         <tr id="' . $item['uniqueId'] . '">
           <td data-search="' . $item['deptAcronym'] . ' ' . strtolower($item['department']) . '">' . $item['department'] . '</td>
           <td data-search="' . $item['uniqueId'] . ' ' . htmlentities($item['latestProjectName']) . ' ' . cleanupDescriptions($item['latestDescription']) . '"><a href="#uid=' . $item['uniqueId'] . '">' . $item['latestProjectName'] . '</a></td>
-          <td class="pdt-date" data-order="' . parseTotalBudget($item['originalBudget']) . '">' . displayTotalBudget($item['originalBudget'], 1) . "<br/> (" . $item['originalBudgetSource'] . ")" . '</td>
-          <td class="pdt-date" data-order="' . parseTotalBudget($item['latestBudget']) . '">' . displayTotalBudget($item['latestBudget'], 1) . "<br/> (" . $item['latestBudgetSource'] . ")" . '</td>
+          <td class="pdt-date" data-order="' . parseTotalBudget($item['originalBudget']) . '">' . displayTotalBudget($item['originalBudget'], 1) . '<br/> <span class="text-muted pdt-budget-source">(' . $item['originalBudgetSource'] . ")</span>" . '</td>
+          <td class="pdt-date" data-order="' . parseTotalBudget($item['latestBudget']) . '">' . displayTotalBudget($item['latestBudget'], 1) . '<br/> <span class="text-muted pdt-budget-source">(' . $item['latestBudgetSource'] . ")</span>" . '</td>
           <td class="pdt-date" data-order="' . parseTotalBudget($item['budgetDelta']) . '">' . displayTotalBudget($item['budgetDelta'], 1) . '</td>
           <td class="" data-order="' . floatval($item['budgetDeltaPercentage']) . '">' . $item['budgetDeltaPercentage'] . '</td>
           <td data-order="' . parseEstimatedCompletionDate($item['originalEstimatedCompletionDate']) . '">' . displayEstimatedCompletionDate($item['originalEstimatedCompletionDate'], "No date provided", 1) . '</td>
