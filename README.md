@@ -12,6 +12,8 @@ The data displayed on the website is [available in CSV format here](https://gith
 
 The data originated from three sessional papers, archived here from [2016](https://github.com/YOWCT/large-government-of-canada-it-projects/blob/master/static/pdf/8555-421-266.pdf), [2019](https://github.com/YOWCT/large-government-of-canada-it-projects/blob/master/static/pdf/8555-421-2460.pdf), and [2022](https://large-government-of-canada-it-projects.github.io/pdf/8530-441-13-505-b.pdf), available from the Library of Parliament.
 
+The R code used to extract and analyze the 2022 sessional paper data is located in the [2022-large-it-projects repository](https://github.com/sboots/2022-large-it-projects).
+
 You might be interested in:
 
 *   [Additional sessional papers on government IT topics](https://github.com/lchski/free-the-data/tree/master/lop/sessional-papers)
