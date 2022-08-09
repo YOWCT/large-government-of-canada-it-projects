@@ -28,4 +28,6 @@ For the 192 projects appearing in multiple datasets, the combined data can be us
 
 You can click on the project names below to see additional project details.
 
+Two departments (National Defence and Shared Services Canada) did not provide a complete list of projects in response to the latest request. See the [2022 sessional paper](https://large-government-of-canada-it-projects.github.io/pdf/8530-441-13-505-b.pdf) for more information.
+
 Below the data table, you can see an [analysis of projects](#are-large-it-projects-likely-to-be-successful) and [links to community data visualizations](#learn-more).
