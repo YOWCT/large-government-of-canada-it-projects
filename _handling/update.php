@@ -13,7 +13,7 @@ $toProcess = [
     'outputFile' => "layouts/shortcodes/tabledata_2022.html",
     'outputJson' => "static/js/generated/tabledata_2022.js",
     'isCombined' => false,
-    'originDate' => "April 25, 2022",
+    'originDate' => "April 25, 2022",
   ],
   '2019' => [
     'inputFile' => "static/csv/gc-it-projects-2019.csv",
@@ -162,7 +162,7 @@ foreach($toProcess as $key => $params) {
 
       // projectName	projectDescription2016	projectDescription2019	totalBudget2016	estimatedCompletionDate2016	totalBudget2019	estimatedCompletionDate2019	mostRecentBudget	peakBudget	hasComparisonBudgets	hasComparisonDates	budgetDelta	budgetDeltaPercentage	datesDeltaYear	estimatedStatus
 
-      // deptAcronym	shortcode	uniqueId	department	latestProjectName	latestDescription	originalBudget	latestBudget	originalBudgetSource	latestBudgetSource	originalEstimatedCompletionDate	latestEstimatedCompletionDate	originalEstimatedCompletionDateSource	latestEstimatedCompletionDateSource	budgetDelta	budgetDeltaPercentage	datesDelta	numOfEntries	estimatedStatus	isOver10M	isOver100M
+      // deptAcronym	shortcode	uniqueId	department	latestProjectName	latestDescription	originalBudget	latestBudget	originalBudgetSource	latestBudgetSource	originalEstimatedCompletionDate	latestEstimatedCompletionDate	originalEstimatedCompletionDateSource	latestEstimatedCompletionDateSource	budgetDelta	budgetDeltaPercentage	datesDeltaYear	numOfEntries	estimatedStatus	isOver10M	isOver100M
 
       // For now, exclude entries without a name
       if($item['latestProjectName']) {
@@ -176,7 +176,7 @@ foreach($toProcess as $key => $params) {
           <td class="" data-order="' . floatval($item['budgetDeltaPercentage']) . '">' . $item['budgetDeltaPercentage'] . '</td>
           <td data-order="' . parseEstimatedCompletionDate($item['originalEstimatedCompletionDate']) . '">' . displayEstimatedCompletionDate($item['originalEstimatedCompletionDate'], "No date provided", 1) . '</td>
           <td data-order="' . parseEstimatedCompletionDate($item['latestEstimatedCompletionDate']) . '">' . displayEstimatedCompletionDate($item['latestEstimatedCompletionDate'], "No date provided", 1) . '</td>
-          <td>' . $item['datesDelta'] . '</td>
+          <td>' . $item['datesDeltaYear'] . '</td>
           <td>' . $item['estimatedStatus'] . '</td>
         </tr>
         ';

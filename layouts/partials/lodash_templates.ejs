@@ -3,7 +3,7 @@
 <!-- projectName	projectDescription2016	projectDescription2019	totalBudget2016	estimatedCompletionDate2016	totalBudget2019	estimatedCompletionDate2019	mostRecentBudget	peakBudget	hasComparisonBudgets	hasComparisonDates	budgetDelta	budgetDeltaPercentage	datesDeltaYear	estimatedStatus
  -->
 
-<!-- deptAcronym	shortcode	uniqueId	department	latestProjectName	latestDescription	originalBudget	latestBudget	originalBudgetSource	latestBudgetSource	originalEstimatedCompletionDate	latestEstimatedCompletionDate	originalEstimatedCompletionDateSource	latestEstimatedCompletionDateSource	budgetDelta	budgetDeltaPercentage	datesDelta	numOfEntries	estimatedStatus	isOver10M	isOver100M -->
+<!-- deptAcronym	shortcode	uniqueId	department	latestProjectName	latestDescription	originalBudget	latestBudget	originalBudgetSource	latestBudgetSource	originalEstimatedCompletionDate	latestEstimatedCompletionDate	originalEstimatedCompletionDateSource	latestEstimatedCompletionDateSource	budgetDelta	budgetDeltaPercentage	datesDeltaYear	numOfEntries	estimatedStatus	isOver10M	isOver100M -->
 
 <table class="table table-striped">
   <tbody>
@@ -30,6 +30,12 @@
       <tr>
         <th>Latest Project Description</th>
         <td><%- item.latestDescription %></td>
+      </tr>
+    <% } %>
+    <% if(_.get(item, 'numOfEntries')) { %>
+      <tr>
+        <th>Number of Dataset Entries</th>
+        <td><%- item.numOfEntries %></td>
       </tr>
     <% } %>
 
