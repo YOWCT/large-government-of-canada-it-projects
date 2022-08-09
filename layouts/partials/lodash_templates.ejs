@@ -3,6 +3,8 @@
 <!-- projectName	projectDescription2016	projectDescription2019	totalBudget2016	estimatedCompletionDate2016	totalBudget2019	estimatedCompletionDate2019	mostRecentBudget	peakBudget	hasComparisonBudgets	hasComparisonDates	budgetDelta	budgetDeltaPercentage	datesDeltaYear	estimatedStatus
  -->
 
+<!-- deptAcronym	shortcode	uniqueId	department	latestProjectName	latestDescription	originalBudget	latestBudget	originalBudgetSource	latestBudgetSource	originalEstimatedCompletionDate	latestEstimatedCompletionDate	originalEstimatedCompletionDateSource	latestEstimatedCompletionDateSource	budgetDelta	budgetDeltaPercentage	datesDelta	numOfEntries	estimatedStatus	isOver10M	isOver100M -->
+
 <table class="table table-striped">
   <tbody>
 
@@ -12,35 +14,35 @@
         <td><%- item.projectName %></td>
       </tr>
     <% } %>
+    <% if(_.get(item, 'latestProjectName')) { %>
+      <tr>
+        <th style="min-width: 12rem">Project Name</th>
+        <td><%- item.latestProjectName %></td>
+      </tr>
+    <% } %>
     <% if(_.get(item, 'department')) { %>
       <tr>
         <th>Department</th>
         <td><%- item.department %></td>
       </tr>
     <% } %>
-    <% if(_.get(item, 'projectDescription2016')) { %>
+    <% if(_.get(item, 'latestDescription')) { %>
       <tr>
-        <th>2016 Project Description</th>
-        <td><%- item.projectDescription2016 %></td>
-      </tr>
-    <% } %>
-    <% if(_.get(item, 'projectDescription2019')) { %>
-      <tr>
-        <th>2019 Project Description</th>
-        <td><%- item.projectDescription2019 %></td>
+        <th>Latest Project Description</th>
+        <td><%- item.latestDescription %></td>
       </tr>
     <% } %>
 
-    <% if(_.get(item, 'totalBudget2016')) { %>
+    <% if(_.get(item, 'originalBudget')) { %>
       <tr>
-        <th>2016 Budget</th>
-        <td><%- item.totalBudget2016 %></td>
+        <th>Original Budget (<%- item.originalBudgetSource %>)</th>
+        <td><%- item.originalBudget %></td>
       </tr>
     <% } %>
-    <% if(_.get(item, 'totalBudget2019')) { %>
+    <% if(_.get(item, 'latestBudget')) { %>
       <tr>
-        <th>2019 Budget</th>
-        <td><%- item.totalBudget2019 %></td>
+        <th>Latest Budget (<%- item.latestBudgetSource %>)</th>
+        <td><%- item.latestBudget %></td>
       </tr>
     <% } %>
     <% if(_.get(item, 'budgetDelta')) { %>
@@ -55,16 +57,16 @@
         <td><%- item.budgetDeltaPercentage %></td>
       </tr>
     <% } %>
-    <% if(_.get(item, 'estimatedCompletionDate2016')) { %>
+    <% if(_.get(item, 'originalEstimatedCompletionDate')) { %>
       <tr>
-        <th>2016 Estimated Completion Date</th>
-        <td><%- item.estimatedCompletionDate2016 %></td>
+        <th>Original Estimated Completion Date (<%- item.originalEstimatedCompletionDateSource %>)</th>
+        <td><%- item.originalEstimatedCompletionDate %></td>
       </tr>
     <% } %>
-    <% if(_.get(item, 'estimatedCompletionDate2019')) { %>
+    <% if(_.get(item, 'latestEstimatedCompletionDate')) { %>
       <tr>
-        <th>2019 Estimated Completion Date</th>
-        <td><%- item.estimatedCompletionDate2019 %></td>
+        <th>Latest Estimated Completion Date (<%- item.latestEstimatedCompletionDateSource %>)</th>
+        <td><%- item.latestEstimatedCompletionDate %></td>
       </tr>
     <% } %>
     <% if(_.get(item, 'datesDeltaYear')) { %>
