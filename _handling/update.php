@@ -8,6 +8,13 @@ $toProcess = [
     'isCombined' => true,
     'originDate' => "",
   ],
+  '2022' => [
+    'inputFile' => "static/csv/gc-it-projects-2022.csv",
+    'outputFile' => "layouts/shortcodes/tabledata_2022.html",
+    'outputJson' => "static/js/generated/tabledata_2022.js",
+    'isCombined' => false,
+    'originDate' => "April 25, 2022",
+  ],
   '2019' => [
     'inputFile' => "static/csv/gc-it-projects-2019.csv",
     'outputFile' => "layouts/shortcodes/tabledata_2019.html",
@@ -155,19 +162,21 @@ foreach($toProcess as $key => $params) {
 
       // projectName	projectDescription2016	projectDescription2019	totalBudget2016	estimatedCompletionDate2016	totalBudget2019	estimatedCompletionDate2019	mostRecentBudget	peakBudget	hasComparisonBudgets	hasComparisonDates	budgetDelta	budgetDeltaPercentage	datesDeltaYear	estimatedStatus
 
+      // deptAcronym	shortcode	uniqueId	department	latestProjectName	latestDescription	originalBudget	latestBudget	originalBudgetSource	latestBudgetSource	originalEstimatedCompletionDate	latestEstimatedCompletionDate	originalEstimatedCompletionDateSource	latestEstimatedCompletionDateSource	budgetDelta	budgetDeltaPercentage	datesDelta	numOfEntries	estimatedStatus	isOver10M	isOver100M
+
       // For now, exclude entries without a name
-      if($item['projectName']) {
+      if($item['latestProjectName']) {
         $htmlOutput .= '
         <tr id="' . $item['uniqueId'] . '">
           <td data-search="' . $item['deptAcronym'] . ' ' . strtolower($item['department']) . '">' . $item['department'] . '</td>
-          <td data-search="' . $item['uniqueId'] . ' ' . htmlentities($item['projectName']) . ' ' . cleanupDescriptions($item['projectDescription2016']) . ' ' . cleanupDescriptions($item['projectDescription2019']) . '"><a href="#uid=' . $item['uniqueId'] . '">' . $item['projectName'] . '</a></td>
-          <td class="pdt-date" data-order="' . parseTotalBudget($item['totalBudget2016']) . '">' . displayTotalBudget($item['totalBudget2016'], 1) . '</td>
-          <td class="pdt-date" data-order="' . parseTotalBudget($item['totalBudget2019']) . '">' . displayTotalBudget($item['totalBudget2019'], 1) . '</td>
+          <td data-search="' . $item['uniqueId'] . ' ' . htmlentities($item['latestProjectName']) . ' ' . cleanupDescriptions($item['latestDescription']) . '"><a href="#uid=' . $item['uniqueId'] . '">' . $item['latestProjectName'] . '</a></td>
+          <td class="pdt-date" data-order="' . parseTotalBudget($item['originalBudget']) . '">' . displayTotalBudget($item['originalBudget'], 1) . '</td>
+          <td class="pdt-date" data-order="' . parseTotalBudget($item['latestBudget']) . '">' . displayTotalBudget($item['latestBudget'], 1) . '</td>
           <td class="pdt-date" data-order="' . parseTotalBudget($item['budgetDelta']) . '">' . displayTotalBudget($item['budgetDelta'], 1) . '</td>
           <td class="" data-order="' . floatval($item['budgetDeltaPercentage']) . '">' . $item['budgetDeltaPercentage'] . '</td>
-          <td data-order="' . parseEstimatedCompletionDate($item['estimatedCompletionDate2016']) . '">' . displayEstimatedCompletionDate($item['estimatedCompletionDate2016'], "No date provided", 1) . '</td>
-          <td data-order="' . parseEstimatedCompletionDate($item['estimatedCompletionDate2019']) . '">' . displayEstimatedCompletionDate($item['estimatedCompletionDate2019'], "No date provided", 1) . '</td>
-          <td>' . $item['datesDeltaYear'] . '</td>
+          <td data-order="' . parseEstimatedCompletionDate($item['originalEstimatedCompletionDate']) . '">' . displayEstimatedCompletionDate($item['originalEstimatedCompletionDate'], "No date provided", 1) . '</td>
+          <td data-order="' . parseEstimatedCompletionDate($item['latestEstimatedCompletionDate']) . '">' . displayEstimatedCompletionDate($item['latestEstimatedCompletionDate'], "No date provided", 1) . '</td>
+          <td>' . $item['datesDelta'] . '</td>
           <td>' . $item['estimatedStatus'] . '</td>
         </tr>
         ';
