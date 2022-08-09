@@ -12,7 +12,7 @@ The data displayed on the website is [available in CSV format here](https://gith
 
 The data originated from three sessional papers, archived here from [2016](https://github.com/YOWCT/large-government-of-canada-it-projects/blob/master/static/pdf/8555-421-266.pdf), [2019](https://github.com/YOWCT/large-government-of-canada-it-projects/blob/master/static/pdf/8555-421-2460.pdf), and [2022](https://large-government-of-canada-it-projects.github.io/pdf/8530-441-13-505-b.pdf), available from the Library of Parliament.
 
-The R code used to extract and analyze the 2022 sessional paper data is located in the [2022-large-it-projects repository](https://github.com/sboots/2022-large-it-projects). This repository also includes the logic [determining each “estimated status” value](https://github.com/sboots/2022-large-it-projects/blob/main/compare-part-2.R#L132-L139).
+The R code used to extract and analyze the 2022 sessional paper data is located in the [2022-large-it-projects repository](https://github.com/sboots/2022-large-it-projects). This repository also includes the logic [determining each “estimated status” value](https://github.com/sboots/2022-large-it-projects/blob/main/compare-part-2.R#L139-L156).
 
 You might be interested in:
 
